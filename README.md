@@ -5400,39 +5400,3 @@ https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SEXT & SENSO" tvg-logo="https://docdog.top/logo/countries/xxx/sext-senso.png" group-title="XXX-VIP [ 18+ ]",XXX: SEXT & SENSO
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20476.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK O TV" tvg-logo="https://docdog.top/logo/countries/xxx/pinkotv.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK O TV
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20477.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BEATE-UHSE.TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/Beate-Uhse.TV_Logo.png" group-title="XXX-VIP [ 18+ ]",XXX: BEATE-UHSE.TV [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20479.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DUSK! [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dusk!.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DUSK! [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20480.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DORCEL HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorceltv.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL HD [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20481.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DORCEL XXX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorcelxxx.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL XXX HD [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20482.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/eroxhd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: EROX HD [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20484.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 2 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic2.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 2 [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20485.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic3.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 3 [VIP]
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/20486.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abigail Mac 2" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abigail Mac 2
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51172.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: All Kendra Lust" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: All Kendra Lust
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51173.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Anal Invitation" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Anal Invitation
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51174.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Anal Invitation 2" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Anal Invitation 2
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51175.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51176.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White 2" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White 2
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51177.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White 3" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White 3
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51178.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White 4" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White 4
-http://flysilo.top:8080/live/311666215923853028/6051666215923853/51179.m3u8

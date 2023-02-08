@@ -24,7 +24,7 @@ http://flysilo.top:8080/live/311666215923853028/6051666215923853/51156.m3u8
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51157.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO CHICAGO
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51158.m3u8
-#EXTINF:-1 ,MUNDO BOSTON, tvg-name="USA: VIP TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO BOSTON
+#EXTINF:-1 ,TELEMUNDO BOSTON, tvg-name="USA: VIP TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO BOSTON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51159.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP UNIMAS NETWORK" tvg-logo="https://docdog.top/logo/countries/us/unimas.png" group-title="UNIVISION UNIMAS",USA: VIP UNIMAS NETWORK
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51160.m3u8

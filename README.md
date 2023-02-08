@@ -1,7 +1,7 @@
 #EXTM3U8 url-tvg=""
 #EXTINF:-1 ,digital 15, tvg-name="digital 15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Digitalquince2018.png" group-title="DOMINICAN REPLUBLIC",digital 15 1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
-#EXTINF:-1 ,UNIMAS USA NUEVO HOY, group-title="UNIMAS" tvg-logo="https://logodix.com/logo/1860134.png" ,unimas 1
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="UNIMAS" tvg-logo="https://logodix.com/logo/1860134.png" ,unimas 1
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
 
@@ -24,7 +24,7 @@ http://flysilo.top:8080/live/311666215923853028/6051666215923853/51156.m3u8
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51157.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO CHICAGO
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51158.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO BOSTON
+#EXTINF:-1 ,MUNDO BOSTON, tvg-name="USA: VIP TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO BOSTON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51159.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP UNIMAS NETWORK" tvg-logo="https://docdog.top/logo/countries/us/unimas.png" group-title="UNIVISION UNIMAS",USA: VIP UNIMAS NETWORK
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51160.m3u8

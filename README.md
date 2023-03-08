@@ -1,10 +1,11 @@
 #EXTM3U
-#EXTINF:-1 ,digital 15, tvg-name="digital 15" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Digitalquince2018.png" group-title="DOMINICAN REPLUBLIC",digital 15 1
+#EXTINF:-1 ,digital 15, tvg-name="digital 15" tvg-logo="https://drive.google.com/file/d/1-vXj-J5Xn4zR3uJ-hFk0yxAOLXg59BYO/view?usp=drivesdk" group-title="DOMINICAN REPLUBLIC",digital 15 1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
 #EXTINF:-1 tvg-id="(no tvg-id)" group-title="UNIMAS" tvg-logo="https://logodix.com/logo/1860134.png" ,unimas 1
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
-
+'https://drive.google.com/file/d/1-vXj-J5Xn4zR3uJ-hFk0yxAOLXg59BYO/view?usp=drivesdk
+'https://static.wikia.nocookie.net/logopedia/images/7/76/Digitalquince2018.png
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO TUCSON" tvg-logo="https://docdog.top/logo/countries/us/telemundotucson.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO TUCSON
 http://flysilo.top:8080/live/311666215923853028/6051666215923853/51150.m3u8

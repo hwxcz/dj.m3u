@@ -402,3 +402,15 @@ GRTN文化频道,http://tv.328326.com/iptv/cd.php?id=gdwh
 
 恩平综合,http://tv.328326.com/iptv/cd.php?id=epzh    
 
+广东体育,#genre#
+广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+广东体育,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+
+广东体育,http://r.jdshipin.com/LiYdg
+
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+
+广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+
+广东体育,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8

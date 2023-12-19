@@ -293,8 +293,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 广东触电,#genre#
 http://tv.328326.com/iptv/cd.php?id=gdws
  //广东卫视
-http://tv.328326.com/iptv/cd.php?id=gdzj
- //广东珠江
+广东珠江,http://tv.328326.com/iptv/cd.php?id=gdzj
 http://tv.328326.com/iptv/cd.php?id=nfws
  //大湾区卫视
 http://tv.328326.com/iptv/cd.php?id=gdms

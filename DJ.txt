@@ -778,6 +778,10 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 广东触电,#genre#
 广东卫视,http://tv.328326.com/iptv/cd.php?id=gdws
 
+
+珠江台,http://glive.grtn.cn/live/lizhi.m3u8
+
+
 广东珠江,http://tv.328326.com/iptv/cd.php?id=gdzj
  
 大湾区卫视,http://tv.328326.com/iptv/cd.php?id=nfws

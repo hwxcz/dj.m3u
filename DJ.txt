@@ -974,6 +974,8 @@ GRTN文化频道,http://tv.328326.com/iptv/cd.php?id=gdwh
 9 广东体育,
 http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 
+10 广东体育 高清,http://112.89.121.23:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7840,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowknjg8NSqNVsWY2LwTOy6B9:20181110091937,END&GuardEncType=2
+
 
 广东卫视,http://116.23.136.209:4022/rtp/239.77.0.2:5146
 

@@ -792,8 +792,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 
 
 
-
-广东组播,#genre#
+广东广电组播,#genre#
 广东卫视,http://116.23.137.162:4000/rtp/239.77.0.2:5146
 广东卫视,http://116.23.137.162:4000/rtp/239.77.1.2:5146
 广东卫视高清,http://116.23.137.162:4000/rtp/239.77.1.19:5146

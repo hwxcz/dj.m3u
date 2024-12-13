@@ -17,6 +17,18 @@
 大湾卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 
+广东酒店,#genre#
+广西|广东新闻(粤语节目3),http://116.1.184.18:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+广西|广东公共(粤语节目4),http://116.1.184.18:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+广西|广州台(粤语节目5),http://116.1.184.18:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+广西|广东体育(粤语节目6),http://116.1.184.18:8181/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+广西|广东科教(粤语节目7),http://116.1.184.18:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+广西|广东少儿(粤语节目8),http://116.1.184.18:8181/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+广西|广东影视(粤语节目11),http://116.1.184.18:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+广西|珠江台(粤语节目1),http://116.1.184.18:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
+
+
+
 
 广东珠江,#genre#
 广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655

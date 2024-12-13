@@ -18,6 +18,10 @@
 
 
 广东TV,#genre#
+珠江,http://119.123.79.35:9600/hls/17/index.m3u8
+
+新闻,http://119.123.79.35:9600/hls/20/index.m3u8
+
 广东珠江,http://116.1.184.18:8181/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
 广东新闻,http://116.1.184.18:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店
 广东公共,http://116.1.184.18:8181/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$广西电信酒店

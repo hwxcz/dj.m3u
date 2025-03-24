@@ -51,8 +51,7 @@
 
 广东珠江,https://itv.mininas.cc/TVOD/1000000004000011655/ystenlive/index.m3u8
 
-珠江1,http://yaozhenguo.top:5000/TVOD/1000000004000011655/ystenlive/index.m3u8
-
+珠江1,http://222.128.55.152:9080/live/gdzj.m3u8
 珠江2,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 
 珠江3,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
@@ -61,9 +60,13 @@
 珠江4,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
-珠江5,http://146.56.175.23:50001/TVOD/1000000004000011655/ystenlive/index.m3u8
+珠江5,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
 
 珠江6,http://222.128.55.152:9080/live/gdzj.m3u8
+
+珠江7,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
+
+
 
 新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 

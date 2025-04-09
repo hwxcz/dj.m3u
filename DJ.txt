@@ -1,70 +1,14 @@
-广东系列,#genre#
-
-大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-广东民生,http://222.128.55.152:9080/live/gdms.m3u8
-广东影视,http://222.128.55.152:9080/live/gdys.m3u8
-
-广东体育,http://222.128.55.152:9080/live/gdty.m3u8
-
-广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv
-
-广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
-
-广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
-
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
-
-
-
-广东新闻,http://27.46.125.241:808/hls/21/index.m3u8
-
-广东新闻,http://218.15.183.23:9901/tsfile/live/23010_1.m3u8
-
-广东民生,http://27.46.125.241:808/hls/22/index.m3u8
-
-广东民生,http://218.15.183.23:9901/tsfile/live/23011_1.m3u8
-
-珠江频道,http://27.46.125.241:808/hls/20/index.m3u8
-
-珠江频道,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
-
-广东影视,http://27.46.125.241:808/hls/26/index.m3u8
-
-广东少儿,http://27.46.125.241:808/hls/27/index.m3u8
-
-广东体育,http://27.46.125.241:808/hls/28/index.m3u8
-
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
-
-广东卫视,http://27.46.125.241:808/hls/19/index.m3u8
-
-
-
-
-
 广东频道,#genre#
 
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
 
-广东珠江,https://itv.mininas.cc/TVOD/2000000003000000033/hnbblive/index.m3u8
-
-广东珠江,https://itv.mininas.cc/TVOD/1000000004000011655/ystenlive/index.m3u8
-
-珠江1,http://222.128.55.152:9080/live/gdzj.m3u8
-珠江2,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 
 珠江3,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 
 
 珠江4,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
-
-珠江5,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
-
-珠江6,http://222.128.55.152:9080/live/gdzj.m3u8
-
-珠江7,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
 
 
 

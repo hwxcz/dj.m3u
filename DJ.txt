@@ -36,10 +36,9 @@
 
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
-体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+咪咕体育,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 
-
-体育1,http://120.84.121.69:808/hls/170/index.m3u8
+体育1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 
 
 广东体育a,http://113.101.119.26:808/hls/108/index.m3u8

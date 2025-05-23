@@ -7,11 +7,11 @@
 
 凤凰资讯,https://tv.2cf.x10.mx/gx/3221226324/tv.m3u8
 
-大湾区卫视,https://tv.2cf.x10.mx/gx/3221225748/tv.m3u8 
+大湾区卫视A,https://tv.2cf.x10.mx/gx/3221225748/tv.m3u8 
 
-广东卫视,https://tv.2cf.x10.mx/gx/3221225666/tv.m3u8 
+广东卫视A,https://tv.2cf.x10.mx/gx/3221225666/tv.m3u8 
 
-广东卫视,https://tv.2cf.x10.mx/gx/3221225913/tv.m3u8 
+广东卫视B,https://tv.2cf.x10.mx/gx/3221225913/tv.m3u8 
 
 
 

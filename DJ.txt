@@ -1,6 +1,8 @@
 广东有线,#genre#
 广东珠江D,https://tv.2cf.x10.mx/gx/3221225717/tv.m3u8
 
+广东珠江E,http://zjwc2021.f3322.net:8090/hls/105/index.m3u8
+
 凤凰卫视,https://tv.2cf.x10.mx/gx/3221226331/tv.m3u8
 
 凤凰香港,https://tv.2cf.x10.mx/gx/3221226321/tv.m3u8

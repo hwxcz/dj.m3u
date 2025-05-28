@@ -1,5 +1,6 @@
 广东频道,#genre#
-广东珠江D,https://tv.2cf.x10.mx/gx/3221225717/tv.m3u8
+
+广东珠江A,https://tv.2cf.x10.mx/gx/3221225717/tv.m3u8
 
 广东珠江B,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
@@ -13,7 +14,7 @@
 
 凤凰资讯,https://tv.2cf.x10.mx/gx/3221226324/tv.m3u8
 
-大湾区卫视A,https://tv.2cf.x10.mx/gx/3221225748/tv.m3u8 
+大湾区卫视,https://tv.2cf.x10.mx/gx/3221225748/tv.m3u8 
 
 广东卫视A,https://tv.2cf.x10.mx/gx/3221225666/tv.m3u8 
 
@@ -34,6 +35,7 @@
 
 
 广东有线,#genre#
+
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
 
 广东珠江,http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111

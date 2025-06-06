@@ -7,6 +7,11 @@
 广东珠江C,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 
 
+广东珠江2,http://home.l-ht.cn:4000/rtp/239.77.0.1:5146
+广东珠江3,http://home.l-ht.cn:4000/rtp/239.77.0.3:5146
+广东珠江4,http://home.l-ht.cn:4000/rtp/239.77.1.94:5146
+
+
 
 凤凰卫视,https://tv.2cf.x10.mx/gx/3221226331/tv.m3u8
 

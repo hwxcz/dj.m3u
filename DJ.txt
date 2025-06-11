@@ -185,6 +185,47 @@ http://119.32.12.17:2901/udp/224.1.100.9:11111
 
 
 
+央视1,#genre#
+
+cctv1,http://www.dsk.cc/php/bfgd.php?id=cctv1
+cctv2,http://www.dsk.cc/php/bfgd.php?id=cctv2
+cctv3,http://www.dsk.cc/php/bfgd.php?id=cctv3
+cctv4,http://www.dsk.cc/php/bfgd.php?id=cctv4
+cctv5,http://www.dsk.cc/php/bfgd.php?id=cctv5
+cctv6,http://www.dsk.cc/php/bfgd.php?id=cctv6
+cctv7,http://www.dsk.cc/php/bfgd.php?id=cctv7
+cctv8,http://www.dsk.cc/php/bfgd.php?id=cctv8
+cctv9,http://www.dsk.cc/php/bfgd.php?id=cctv9
+cctc10,http://www.dsk.cc/php/bfgd.php?id=cctv10
+cctv11,http://www.dsk.cc/php/bfgd.php?id=cctv11
+cctv12,http://www.dsk.cc/php/bfgd.php?id=cctv12
+cctv13,http://www.dsk.cc/php/bfgd.php?id=cctv13
+cctv14,http://www.dsk.cc/php/bfgd.php?id=cctv14
+cctv15,http://www.dsk.cc/php/bfgd.php?id=cctv15
+cctv16,http://www.dsk.cc/php/bfgd.php?id=cctv16
+cctv17,http://www.dsk.cc/php/bfgd.php?id=cctv17
+
+
+1,http://125.125.129.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2,http://125.125.129.210:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+3,http://125.125.129.210:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+4,http://125.125.129.210:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+5,http://125.125.129.210:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+6,http://125.125.129.210:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+7,http://125.125.129.210:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+8,http://125.125.129.210:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+9,http://125.125.129.210:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+10,http://125.125.129.210:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+11,http://125.125.129.210:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+12,http://125.125.129.210:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+13,http://125.125.129.210:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+14,http://125.125.129.210:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+15,http://125.125.129.210:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+16,http://125.125.129.210:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+17,http://125.125.129.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 
 
 香港节目,#genre#

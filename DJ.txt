@@ -8,6 +8,14 @@
 
 广东珠江E,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 
+广东卫视,http://123.133.163.32:9002/gd.php?id=广东卫视
+
+​广东珠江,http://123.133.163.32:9002/gd.php?id=广东珠江
+
+广东新闻,http://123.133.163.32:9002/gd.php?id=广东新闻
+
+广东民生,http://123.133.163.32:9002/gd.php?id=广东民生
+
 
 广东珠江2,http://home.l-ht.cn:4000/rtp/239.77.0.1:5146
 广东珠江3,http://home.l-ht.cn:4000/rtp/239.77.0.114:5146

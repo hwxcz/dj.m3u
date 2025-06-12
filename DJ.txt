@@ -41,59 +41,7 @@
 南国都市 4K http://iptv.awenxin.com:8888/udp/239.253.43.99:5146
 广东少儿高清,http://iptv.awenxin.com:8888/udp/239.77.0.250:5146
 嘉佳卡通高清,http://iptv.awenxin.com:8888/udp/239.77.0.179:5146
-CCTV-1高清,http://iptv.awenxin.com:8888/udp/239.77.1.17:5146
-CCTV-1高清,http://iptv.awenxin.com:8888/udp/239.77.1.144:5146
-CCTV-1高清,http://iptv.awenxin.com:8888/udp/239.77.0.86:5146
-CCTV-1超清,http://iptv.awenxin.com:8888/udp/239.77.0.129:5146
-CCTV-2高清,http://iptv.awenxin.com:8888/udp/239.77.1.158:5146
-CCTV-2高清,http://iptv.awenxin.com:8888/udp/239.253.43.17:5146
-CCTV-2高清测试,http://iptv.awenxin.com:8888/udp/239.77.0.137:5146
-CCTV-3高清,http://iptv.awenxin.com:8888/udp/239.77.0.169:5146
-CCTV-3超清,http://iptv.awenxin.com:8888/udp/239.77.0.175:5146
-CCTV-4高清,http://iptv.awenxin.com:8888/udp/239.77.1.163:5146
-CCTV-4高清,http://iptv.awenxin.com:8888/udp/239.77.1.166:5146
-CCTV-4高清,http://iptv.awenxin.com:8888/udp/239.77.0.78:5146
-CCTV-5高清,http://iptv.awenxin.com:8888/udp/239.77.0.170:5146
-CCTV-5超清,http://iptv.awenxin.com:8888/udp/239.77.0.177:5146
-CCTV-5+高清,http://iptv.awenxin.com:8888/udp/239.77.0.87:5146
-CCTV-5+高清,http://iptv.awenxin.com:8888/udp/239.77.1.31:5146
-CCTV-5+高清,http://iptv.awenxin.com:8888/udp/239.77.1.147:5146
-CCTV-6高清,http://iptv.awenxin.com:8888/udp/239.77.0.171:5146
-CCTV-6超清,http://iptv.awenxin.com:8888/udp/239.77.0.178:5146
-CCTV-7高清,http://iptv.awenxin.com:8888/udp/239.77.1.159:5146
-CCTV-7高清,http://iptv.awenxin.com:8888/udp/239.77.1.167:5146
-CCTV-7高清测试,http://iptv.awenxin.com:8888/udp/239.77.0.138:5146
-CCTV-8高清,http://iptv.awenxin.com:8888/udp/239.77.0.172:5146
-CCTV-8超清,http://iptv.awenxin.com:8888/udp/239.77.0.181:5146
-CCTV-9高清,http://iptv.awenxin.com:8888/udp/239.77.1.160:5146
-CCTV-9高清,http://iptv.awenxin.com:8888/udp/239.77.1.168:5146
-CCTV-9高清测试,http://iptv.awenxin.com:8888/udp/239.77.0.135:5146
-CCTV-10高清,http://iptv.awenxin.com:8888/udp/239.77.1.113:5146
-CCTV-10高清,http://iptv.awenxin.com:8888/udp/239.77.1.169:5146
-CCTV-10高清测试,http://iptv.awenxin.com:8888/udp/239.77.0.134:5146
-CCTV-11高清,http://iptv.awenxin.com:8888/udp/239.77.1.238:5146
-CCTV-12高清,http://iptv.awenxin.com:8888/udp/239.77.1.109:5146
-CCTV-12高清,http://iptv.awenxin.com:8888/udp/239.77.1.170:5146
-CCTV-12高清测试,http://iptv.awenxin.com:8888/udp/239.77.0.136:5146
-CCTV-13高清,http://iptv.awenxin.com:8888/udp/239.77.0.188:5146
-CCTV-13高清,http://iptv.awenxin.com:8888/udp/239.253.43.196:5146
-CCTV-14高清,http://iptv.awenxin.com:8888/udp/239.77.1.161:5146
-CCTV-14高清,http://iptv.awenxin.com:8888/udp/239.77.1.171:5146
-CCTV-14高清测试,http://iptv.awenxin.com:8888/udp/239.77.0.133:5146
-CCTV-15高清,http://iptv.awenxin.com:8888/udp/239.77.1.239:5146
-CCTV-16高清,http://iptv.awenxin.com:8888/udp/239.77.0.165:5146
-CCTV-16高清,http://iptv.awenxin.com:8888/udp/239.77.1.76:5146
-CCTV-16 4K http://iptv.awenxin.com:8888/udp/239.77.1.98:5146
-CCTV-17高清,http://iptv.awenxin.com:8888/udp/239.77.1.121:5146
-CCTV-4K 4K http://iptv.awenxin.com:8888/udp/239.77.0.194:5146
-CCTV-4K 4K50p http://iptv.awenxin.com:8888/udp/239.77.0.174:5146
-CGTN,http://iptv.awenxin.com:8888/udp/239.77.0.45:5146
-CGTN,http://iptv.awenxin.com:8888/udp/239.77.1.27:5146
-CGTN英语高清,http://iptv.awenxin.com:8888/udp/239.77.0.199:5146
-CGTN西班牙语高清,http://iptv.awenxin.com:8888/udp/239.77.0.221:5146
-CGTN法语高清,http://iptv.awenxin.com:8888/udp/239.77.0.228:5146
-CGTN阿拉伯语高清,http://iptv.awenxin.com:8888/udp/239.253.43.200:5146
-CGTN俄语高清,http://iptv.awenxin.com:8888/udp/239.253.43.201:5146
+
 
 
 广东频道,#genre#
@@ -188,44 +136,29 @@ http://119.32.12.17:2901/udp/224.1.100.9:11111
 
 
 
+
+
 央视1,#genre#
 
-cctv1,http://www.dsk.cc/php/bfgd.php?id=cctv1
-cctv2,http://www.dsk.cc/php/bfgd.php?id=cctv2
-cctv3,http://www.dsk.cc/php/bfgd.php?id=cctv3
-cctv4,http://www.dsk.cc/php/bfgd.php?id=cctv4
-cctv5,http://www.dsk.cc/php/bfgd.php?id=cctv5
-cctv6,http://www.dsk.cc/php/bfgd.php?id=cctv6
-cctv7,http://www.dsk.cc/php/bfgd.php?id=cctv7
-cctv8,http://www.dsk.cc/php/bfgd.php?id=cctv8
-cctv9,http://www.dsk.cc/php/bfgd.php?id=cctv9
-cctc10,http://www.dsk.cc/php/bfgd.php?id=cctv10
-cctv11,http://www.dsk.cc/php/bfgd.php?id=cctv11
-cctv12,http://www.dsk.cc/php/bfgd.php?id=cctv12
-cctv13,http://www.dsk.cc/php/bfgd.php?id=cctv13
-cctv14,http://www.dsk.cc/php/bfgd.php?id=cctv14
-cctv15,http://www.dsk.cc/php/bfgd.php?id=cctv15
-cctv16,http://www.dsk.cc/php/bfgd.php?id=cctv16
-cctv17,http://www.dsk.cc/php/bfgd.php?id=cctv17
-
-
-1,http://125.125.129.210:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-2,http://125.125.129.210:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-3,http://125.125.129.210:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-4,http://125.125.129.210:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-5,http://125.125.129.210:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-6,http://125.125.129.210:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-7,http://125.125.129.210:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-8,http://125.125.129.210:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-9,http://125.125.129.210:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-10,http://125.125.129.210:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-11,http://125.125.129.210:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-12,http://125.125.129.210:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-13,http://125.125.129.210:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-14,http://125.125.129.210:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-15,http://125.125.129.210:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-16,http://125.125.129.210:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-17,http://125.125.129.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://59.39.89.130:60901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://59.39.89.130:60901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://59.39.89.130:60901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://59.39.89.130:60901/tsfile/live/0005_2.m3u8?key=txiptv
+CCTV5,http://59.39.89.130:60901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV6,http://59.39.89.130:60901/tsfile/live/0006_2.m3u8?key=txiptv
+CCTV6,http://59.39.89.130:60901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV7,http://59.39.89.130:60901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://59.39.89.130:60901/tsfile/live/0008_2.m3u8?key=txiptv
+CCTV8,http://59.39.89.130:60901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://59.39.89.130:60901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV11,http://59.39.89.130:60901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV12,http://59.39.89.130:60901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://59.39.89.130:60901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV14,http://59.39.89.130:60901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV15,http://59.39.89.130:60901/tsfile/live/0015_1.m3u8?key=txiptv
+CCTV17,http://59.39.89.130:60901/tsfile/live/0017_1.m3u8?key=txiptv
 
 
 

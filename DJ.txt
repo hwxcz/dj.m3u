@@ -1,3 +1,33 @@
+广东频道,#genre#
+
+广东珠江A,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
+广东珠江B,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+
+广东珠江C,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+
+
+广东珠江2,http://home.l-ht.cn:4000/rtp/239.77.0.1:5146
+广东珠江3,http://home.l-ht.cn:4000/rtp/239.77.0.114:5146
+广东珠江4,http://home.l-ht.cn:4000/rtp/239.77.1.94:5146
+
+
+
+凤凰卫视,https://tv.2cf.x10.mx/gx/3221226331/tv.m3u8
+
+凤凰香港,https://tv.2cf.x10.mx/gx/3221226321/tv.m3u8
+
+凤凰资讯,https://tv.2cf.x10.mx/gx/3221226324/tv.m3u8
+
+大湾区卫视,https://tv.2cf.x10.mx/gx/3221225748/tv.m3u8 
+
+广东卫视A,https://tv.2cf.x10.mx/gx/3221225666/tv.m3u8 
+
+广东卫视B,https://tv.2cf.x10.mx/gx/3221225913/tv.m3u8 
+
+
+
+
 深圳,#genre#
 广东卫视高清,http://113.117.105.8:8800/rtp/239.77.1.19:5146
 广东卫视高清,http://113.117.105.8:8800/rtp/239.77.1.152:5146
@@ -44,32 +74,7 @@
 
 
 
-广东频道,#genre#
 
-广东珠江A,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-
-广东珠江B,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-
-广东珠江C,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-
-
-广东珠江2,http://home.l-ht.cn:4000/rtp/239.77.0.1:5146
-广东珠江3,http://home.l-ht.cn:4000/rtp/239.77.0.114:5146
-广东珠江4,http://home.l-ht.cn:4000/rtp/239.77.1.94:5146
-
-
-
-凤凰卫视,https://tv.2cf.x10.mx/gx/3221226331/tv.m3u8
-
-凤凰香港,https://tv.2cf.x10.mx/gx/3221226321/tv.m3u8
-
-凤凰资讯,https://tv.2cf.x10.mx/gx/3221226324/tv.m3u8
-
-大湾区卫视,https://tv.2cf.x10.mx/gx/3221225748/tv.m3u8 
-
-广东卫视A,https://tv.2cf.x10.mx/gx/3221225666/tv.m3u8 
-
-广东卫视B,https://tv.2cf.x10.mx/gx/3221225913/tv.m3u8 
 
 广东组播,#genre#
 

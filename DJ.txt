@@ -12,6 +12,7 @@
 
 广东珠江G,http://123.133.163.32:9002/gd.php?id=广东珠江
 
+广东珠江H,http://tv.cdn.com.mp/live/gdzj/stream.m3u8
 
 广东卫视,http://123.133.163.32:9002/gd.php?id=广东卫视
 

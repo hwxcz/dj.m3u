@@ -1,5 +1,7 @@
 广东频道,#genre#
 
+广东珠江,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8010ec&tk=922ba46651d3
+
 广东珠江A,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 广东珠江B,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -19,6 +21,10 @@
 广东新闻,http://123.133.163.32:9002/gd.php?id=广东新闻
 
 广东民生,http://123.133.163.32:9002/gd.php?id=广东民生
+
+广东卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7059a7&tk=922ba46651d3
+ 
+大湾区卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1c4750&tk=922ba46651d3
 
 
 广东珠江2,http://home.l-ht.cn:4000/rtp/239.77.0.1:5146

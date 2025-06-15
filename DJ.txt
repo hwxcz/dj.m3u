@@ -46,6 +46,11 @@
 鳳凰香港,http://bxtv.757888.xyz/stream/bxtv/null-7/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
 
 
+中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+
+资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+
+本港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
 深圳电信,#genre#

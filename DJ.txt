@@ -1,14 +1,4 @@
 广东频道,#genre#
-
-珠江1,http://116.4.97.216:4080/udp/239.77.0.114:5146
-
-珠江2,http://113.101.245.179:8188/udp/239.77.0.1:5146
-
-广东珠江1,http://113.109.250.116:9999/udp/239.77.0.1:5146
-
-广东珠江2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8010ec&tk=922ba46651d3
-
-
 广东珠江A,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
 广东珠江B,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
@@ -22,6 +12,16 @@
 广东珠江G,http://123.133.163.32:9002/gd.php?id=广东珠江
 
 广东珠江H,http://tv.cdn.com.mp/live/gdzj/stream.m3u8
+
+
+珠江1,http://116.4.97.216:4080/udp/239.77.0.114:5146
+
+珠江2,http://113.101.245.179:8188/udp/239.77.0.1:5146
+
+广东珠江1,http://113.109.250.116:9999/udp/239.77.0.1:5146
+
+广东珠江2,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8010ec&tk=922ba46651d3
+
 
 广东卫视,http://123.133.163.32:9002/gd.php?id=广东卫视
 

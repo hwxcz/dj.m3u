@@ -9,7 +9,7 @@
 
 广东珠江F,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 
-广东珠江G,http://123.133.163.32:9002/gd.php?id=广东珠江
+广东珠江G,http://222.128.55.152:9080/live/gdzj.m3u8
 
 广东珠江H,http://tv.cdn.com.mp/live/gdzj/stream.m3u8
 

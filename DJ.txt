@@ -1,19 +1,15 @@
-广东宽频,#genre# 
+广东组播,#genre#
 
-广东珠江高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111 
-广东新闻标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111 
-广东民生标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111 
-广东体育高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111 
-广东影视标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.11:11111 
-广东湾区标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111 
-广东少儿标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.9:11111 
-广东经济标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111 
-广东戏曲标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.120:11111 
-广州综合高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111 
-广州新闻高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111 
-广州法治高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.17:11111 
-广州法治标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.18:11111 
-广州竞赛高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111 
+广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.19:5146
+广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.152:5146
+广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.0.84:5146
+广东卫视超清,http://qyl805.gicp.net:4023/udp/239.77.0.166:5146
+广东珠江高清,http://qyl805.gicp.net:4023/udp/239.77.0.1:5146
+广东珠江超清,http://qyl805.gicp.net:4023/udp/239.77.0.114:5146
+广东新闻高清,http://qyl805.gicp.net:4023/udp/239.77.0.173:5146
+广东民生高清,http://qyl805.gicp.net:4023/udp/239.77.0.225:5146
+广东体育高清,http://qyl805.gicp.net:4023/udp/239.77.0.112:5146
+广东体育超清,http://qyl805.gicp.net:4023/udp/239.77.0.168:5146
 
 
 
@@ -36,31 +32,6 @@
 广东影视高清,http://t1.huase.ltd:8888/rtp/239.77.0.217:5146
 广东少儿高清,http://t1.huase.ltd:8888/rtp/239.77.0.250:5146
 嘉佳卡通高清,http://t1.huase.ltd:8888/rtp/239.77.0.179:5146
-
-
-
-
-
-
-
-
-
-
-
-
-广东组播,#genre#
-
-广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.19:5146
-广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.152:5146
-广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.0.84:5146
-广东卫视超清,http://qyl805.gicp.net:4023/udp/239.77.0.166:5146
-广东珠江高清,http://qyl805.gicp.net:4023/udp/239.77.0.1:5146
-广东珠江超清,http://qyl805.gicp.net:4023/udp/239.77.0.114:5146
-广东新闻高清,http://qyl805.gicp.net:4023/udp/239.77.0.173:5146
-广东民生高清,http://qyl805.gicp.net:4023/udp/239.77.0.225:5146
-广东体育高清,http://qyl805.gicp.net:4023/udp/239.77.0.112:5146
-广东体育超清,http://qyl805.gicp.net:4023/udp/239.77.0.168:5146
-
 
 
 
@@ -101,6 +72,25 @@ TVB Plus,http://42.98.17.85:9981/stream/channelid/485326933?profile=pass
 资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
 本港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+
+
+
+广东宽频,#genre# 
+
+广东珠江高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111 
+广东新闻标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111 
+广东民生标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111 
+广东体育高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111 
+广东影视标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.11:11111 
+广东湾区标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111 
+广东少儿标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.9:11111 
+广东经济标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111 
+广东戏曲标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.120:11111 
+广州综合高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111 
+广州新闻高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111 
+广州法治高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.17:11111 
+广州法治标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.18:11111 
+广州竞赛高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111 
 
 
 

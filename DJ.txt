@@ -246,48 +246,6 @@ IPTV4高清,http://ikuai.haleeyo.cn:9003/rtp/239.77.1.10:5146
 
 
 
-
-
-
-广东频道,#genre#
-
-广东珠江A,http://163.142.186.56:9901/tsfile/live/1018_1.m3u8?key=txiptv
-
-广东珠江B,http://120.197.253.254:1818/rtp/239.20.0.64:3144
-
-广东珠江C,http://120.197.253.254:1818/rtp/239.20.0.63:3148
-
-广东珠江E,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv
-
-
-广东珠江2,http://113.101.245.179:8188/udp/239.77.0.1:5146
-
-
-广东珠江3,http://home.l-ht.cn:4000/rtp/239.77.0.114:5146
-广东珠江4,http://home.l-ht.cn:4000/rtp/239.77.1.94:5146
-
-
-
-翡翠台,http://42.98.17.85:9981/stream/channelid/1014712634?profile=pass
-TVB Plus,http://42.98.17.85:9981/stream/channelid/485326933?profile=pass
-無綫新聞台,http://42.98.17.85:9981/stream/channelid/779545484?profile=pass
-明珠台,http://42.98.17.85:9981/stream/channelid/891527895?profile=pass
-鳳凰衛視香港台,http://42.98.17.85:9981/stream/channelid/1509677341?profile=pass
-
-
-
-鳳凰中文,http://bxtv.757888.xyz/stream/bxtv/null-5/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-鳳凰資訊,http://bxtv.757888.xyz/stream/bxtv/null-6/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-鳳凰香港,http://bxtv.757888.xyz/stream/bxtv/null-7/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
-
-
-中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-
-资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-
-本港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-
-
 广东移动,#genre#
 
 广东珠江,http://8.134.252.79:2222/rtp/239.10.0.121:1025
@@ -502,62 +460,17 @@ TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 
 
 极速港台,#genre#
-凤凰中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=k7NPXE&tk=m1uO3Vrnmjon
-凤凰资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3BpRgn&tk=m1uO3Vrnmjon
-凤凰香港台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=76MlkC&tk=m1uO3Vrnmjon
-翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lqexA9&tk=m1uO3Vrnmjon
-无线新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=R8RrcJ&tk=m1uO3Vrnmjon
-TVB Plus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gdS6iJ&tk=m1uO3Vrnmjon
-TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2rviCF&tk=m1uO3Vrnmjon
-TVB星河(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wrGF26&tk=m1uO3Vrnmjon
-TVB功夫(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Jdan4C&tk=m1uO3Vrnmjon
-TVB功夫(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Y9vfB1&tk=m1uO3Vrnmjon
-PopC电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IK2mIT&tk=m1uO3Vrnmjon
-天映频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pANyZH&tk=m1uO3Vrnmjon
-天映经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iUO8Wm&tk=m1uO3Vrnmjon
-mySUPER獎門人,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xvX5Fe&tk=m1uO3Vrnmjon
-Hub娱家,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Pgng0P&tk=m1uO3Vrnmjon
-Hub都会,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j71ZZH&tk=m1uO3Vrnmjon
-港版美亚(国),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Trf7il&tk=m1uO3Vrnmjon
-港版美亚(粤),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=owptPb&tk=m1uO3Vrnmjon
-黄金华剧,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ehpUnx&tk=m1uO3Vrnmjon
-黄金翡翠,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PBIk6Y&tk=m1uO3Vrnmjon
-星空卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3IPc1O&tk=m1uO3Vrnmjon
-星空V音乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DvaSGG&tk=m1uO3Vrnmjon
-星空电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Nb1D4Q&tk=m1uO3Vrnmjon
-凤凰电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cUNhMk&tk=m1uO3Vrnmjon
-Now新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=US68jl&tk=m1uO3Vrnmjon
-Now爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LItHj0&tk=m1uO3Vrnmjon
-Now星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OIsLMG&tk=m1uO3Vrnmjon
-HOY77,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9eO5T3&tk=m1uO3Vrnmjon
-HOY78,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5NvNQW&tk=m1uO3Vrnmjon
-中天亚洲,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bOzgKV&tk=m1uO3Vrnmjon
-中天综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pxFbhb&tk=m1uO3Vrnmjon
-中天娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2X49eD&tk=m1uO3Vrnmjon
-中天亚洲(备),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CmnSHx&tk=m1uO3Vrnmjon
-民视第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=y93LtS&tk=m1uO3Vrnmjon
-民视台湾,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=S3LoxR&tk=m1uO3Vrnmjon
-美亚电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9diYhG&tk=m1uO3Vrnmjon
-东森超视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=IjiV4h&tk=m1uO3Vrnmjon
-东森综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BEOUHE&tk=m1uO3Vrnmjon
-八大第一,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dsOUYI&tk=m1uO3Vrnmjon
-八大综合,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u4GDLJ&tk=m1uO3Vrnmjon
-爱尔达娱乐,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=S6ZYB3&tk=m1uO3Vrnmjon
-Channel5HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=HnQ1yg&tk=m1uO3Vrnmjon
-Channel8HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=J33rbU&tk=m1uO3Vrnmjon
-ChannelUHD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kDzAiz&tk=m1uO3Vrnmjon
-八度空間,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tC41OH&tk=m1uO3Vrnmjon
-TVBS台剧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=72Ze7n&tk=m1uO3Vrnmjon
-TVBS综艺台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hZVo6K&tk=m1uO3Vrnmjon
-猪哥亮歌秀厅,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iabPzd&tk=m1uO3Vrnmjon
-寰宇新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XXsBj7&tk=m1uO3Vrnmjon
-中天新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cSQw6G&tk=m1uO3Vrnmjon
-中天新闻2,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=murpQW&tk=m1uO3Vrnmjon
-中视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XOlKBO&tk=m1uO3Vrnmjon
-TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=skFacn&tk=m1uO3Vrnmjon
-台视新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=w3KdHX&tk=m1uO3Vrnmjon
-动物星球,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JdOB98&tk=m1uO3Vrnmjon
-极速央视,#genre#
+
+鳳凰中文,http://bxtv.757888.xyz/stream/bxtv/null-5/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+鳳凰資訊,http://bxtv.757888.xyz/stream/bxtv/null-6/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+鳳凰香港,http://bxtv.757888.xyz/stream/bxtv/null-7/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+
+
+中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+
+资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+
+本港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 
 

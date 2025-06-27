@@ -208,41 +208,6 @@ IPTV4高清,http://ikuai.haleeyo.cn:9003/rtp/239.77.1.10:5146
 
 
 
-广东频道,#genre#
-
-广东珠江,http://ikuai.huase.ltd:8888/rtp/239.77.0.1:5146
-广东珠江,http://ikuai.huase.ltd:8888/rtp/239.77.0.114:5146
-广东新闻,http://ikuai.huase.ltd:8888/rtp/239.77.0.173:5146
-广东民生,http://ikuai.huase.ltd:8888/rtp/239.77.0.225:5146
-睛彩广场舞,http://www.hongzhijiaoyu.net:8188/rtp/239.77.1.23:5146
-广东少儿,http://ikuai.huase.ltd:8888/rtp/239.77.0.250:5146
-广东移动,http://ikuai.huase.ltd:8888/rtp/239.77.0.20:5146
-广东体育,http://www.hongzhijiaoyu.net:8188/rtp/239.77.0.112:5146
-广东体育,http://www.hongzhijiaoyu.net:8188/rtp/239.77.0.168:5146
-
-
-篮球公园,http://www.hongzhijiaoyu.net:8188/rtp/239.77.0.108:5146
-篮球公园,http://www.hongzhijiaoyu.net:8188/rtp/239.77.0.176:5146
-
-睛彩篮球,http://www.hongzhijiaoyu.net:8188/rtp/239.77.1.21:5146
-睛彩竞技,http://www.hongzhijiaoyu.net:8188/rtp/239.77.1.20:5146
-
-广东综艺,http://ikuai.huase.ltd:8888/rtp/239.77.0.244:5146
-广东综艺,http://ikuai.huase.ltd:8888/rtp/239.77.0.245:5146
-广东房产,http://ikuai.huase.ltd:8888/rtp/239.77.0.14:5146
-广东南方购物,http://ikuai.huase.ltd:8888/rtp/239.77.0.19:5146
-广东南方购物,http://ikuai.huase.ltd:8888/rtp/239.77.0.22:5146
-广东经济科教,http://ikuai.huase.ltd:8888/rtp/239.77.0.167:5146
-广东经济科教,http://ikuai.huase.ltd:8888/rtp/239.77.0.8:5146
-广东经济科教,http://ikuai.huase.ltd:8888/rtp/239.77.0.85:5146
-广东岭南戏曲,http://ikuai.huase.ltd:8888/rtp/239.77.0.122:5146
-广东现代教育,http://ikuai.huase.ltd:8888/rtp/239.77.0.213:5146
-
-
-
-
-
-
 
 广东组播,#genre#
 
@@ -278,6 +243,17 @@ IPTV4高清,http://ikuai.haleeyo.cn:9003/rtp/239.77.1.10:5146
 广东影视高清,http://t1.huase.ltd:8888/rtp/239.77.0.217:5146
 广东少儿高清,http://t1.huase.ltd:8888/rtp/239.77.0.250:5146
 嘉佳卡通高清,http://t1.huase.ltd:8888/rtp/239.77.0.179:5146
+
+
+
+广东频道,#genre#
+
+广东移动,http://ikuai.huase.ltd:8888/rtp/239.77.0.20:5146
+广东珠江,http://ikuai.huase.ltd:8888/rtp/239.77.0.1:5146
+广东珠江,http://ikuai.huase.ltd:8888/rtp/239.77.0.114:5146
+广东新闻,http://ikuai.huase.ltd:8888/rtp/239.77.0.173:5146
+广东民生,http://ikuai.huase.ltd:8888/rtp/239.77.0.225:5146
+广东少儿,http://ikuai.huase.ltd:8888/rtp/239.77.0.250:5146
 
 
 

@@ -249,7 +249,6 @@ IPTV4高清,http://ikuai.haleeyo.cn:9003/rtp/239.77.1.10:5146
 广东频道,#genre#
 
 广东移动,http://ikuai.huase.ltd:8888/rtp/239.77.0.20:5146
-广东珠江,http://ikuai.huase.ltd:8888/rtp/239.77.0.1:5146
 广东珠江,http://ikuai.huase.ltd:8888/rtp/239.77.0.114:5146
 广东新闻,http://ikuai.huase.ltd:8888/rtp/239.77.0.173:5146
 广东民生,http://ikuai.huase.ltd:8888/rtp/239.77.0.225:5146

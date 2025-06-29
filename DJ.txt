@@ -23,6 +23,7 @@
 广东民生1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 广东珠江1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
 
+广东卫视4k,http://php.cqshushu.com:2086/guangdong.php?id=gdws4k&公众号=医工学习日志
 广东卫视,http://blog.cqshushu.com/guangdong.php?id=gdws&公众号=医工学习日志
 广东珠江高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.1:5146
 广东珠江超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.114:5146

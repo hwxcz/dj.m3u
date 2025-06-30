@@ -1,13 +1,13 @@
 广东组播,#genre#
 
-深圳卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.67:5146
-广东卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.66:5146
-北京卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.2:5146
+深圳卫视4K,http://line1.huase.ltd:8888/rtp/239.77.0.67:5146
+广东卫视4K,http://line1.huase.ltd:8888/rtp/239.77.0.66:5146
+北京卫视4K,http://line1.huase.ltd:8888/rtp/239.77.0.2:5146
 广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.19:5146
 广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.152:5146
 广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.0.84:5146
 广东卫视超清,http://qyl805.gicp.net:4023/udp/239.77.0.166:5146
-广东珠江高清,http://qyl805.gicp.net:4023/udp/239.77.0.1:5146
+广东珠江高清,http://line1.huase.ltd:8888/udp/239.77.0.1:5146
 广东珠江超清,http://qyl805.gicp.net:4023/udp/239.77.0.114:5146
 广东新闻高清,http://qyl805.gicp.net:4023/udp/239.77.0.173:5146
 广东民生高清,http://qyl805.gicp.net:4023/udp/239.77.0.225:5146

@@ -84,6 +84,11 @@
 
 深圳电信,#genre#
 
+深圳卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.67:5146
+广东卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.66:5146
+北京卫视4K,http://qyl805.gicp.net:4023/rtp/239.77.0.2:5146
+
+
 广东卫视高清,http://t1.huase.ltd:8888/rtp/239.77.1.19:5146
 广东卫视高清,http://t1.huase.ltd:8888/rtp/239.77.1.152:5146
 广东卫视高清,http://t1.huase.ltd:8888/rtp/239.77.0.84:5146

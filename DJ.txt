@@ -140,12 +140,6 @@
 经济科教超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.167:5146
 大湾区卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.215:5146
 广东影视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.217:5146
-南国都市4K,http://ikuai.haleeyo.cn:9003/udp/239.253.43.99:5146
-广东综艺4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.237:5146
-CCTV-4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.194:5146
-北京卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.2:5146
-深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
-广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 广东少儿高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.250:5146
 嘉佳卡通高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.179:5146
 

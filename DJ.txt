@@ -19,6 +19,8 @@
 
 广东珠江C,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 
+广东珠江D,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
+
 广东珠江E,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 
 广东|肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8

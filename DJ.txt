@@ -11,7 +11,7 @@
 
 
 
-广东代理,#genre#
+珠江代理,#genre#
 
 广东珠江A,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 

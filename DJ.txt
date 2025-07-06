@@ -43,6 +43,8 @@
 
 广东组播,#genre#
 
+广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
+
 广东卫视高清,http://line1.huase.ltd:8888/udp/239.77.1.19:5146
 广东卫视高清,http://line1.huase.ltd:8888/udp/239.77.1.152:5146
 广东卫视高清,http://line1.huase.ltd:8888/udp/239.77.0.84:5146

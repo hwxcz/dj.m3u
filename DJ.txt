@@ -112,17 +112,11 @@
 
 广东系列,#genre#
 
-大湾区卫视,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=大湾区卫视
-广东珠江,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=广东珠江
-广东民生,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=广东民生
-广东体育,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=广东体育
-广东影视,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=广东影视
-广东少儿,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=广东少儿
-嘉佳卡通,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=嘉佳卡通
-广东移动,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=广东移动
-广东4K,http://nas.809899.xyz:9999/公众号【睡眼迷离的猫】/gd.php?channel=广东4K
-
-
+广东珠江台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
+广东新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
+广东民生台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
+广东体育台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
+广东影视台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
 
 
 

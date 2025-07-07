@@ -1,10 +1,5 @@
 广东直播,#genre#
 
-广东新闻1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
-广东体育1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
-广东民生1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
-广东珠江1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
-
 广东卫视4k,http://blog.cqshushu.com/guangdong.php?id=gdws4k&token=4597c638edb447561c4b3cdac446a7a7 
 广东卫视,http://blog.cqshushu.com/guangdong.php?id=gdws&token=4597c638edb447561c4b3cdac446a7a7 
 广东珠江,http://blog.cqshushu.com/guangdong.php?id=gdzj&token=4597c638edb447561c4b3cdac446a7a7 

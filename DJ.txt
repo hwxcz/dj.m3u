@@ -59,6 +59,8 @@
 
 珠江03,http://171.38.67.237:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 
+珠江4,https://stream1.freetv.fun/guang-dong-zhu-jiang---wj-1.ctv
+
 
 
 广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146

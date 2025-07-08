@@ -15,6 +15,10 @@
 广东移动,http://blog.cqshushu.com/guangdong.php?id=gdyd&token=4597c638edb447561c4b3cdac446a7a7 
 嘉佳卡通,http://blog.cqshushu.com/guangdong.php?id=jjkt&token=4597c638edb447561c4b3cdac446a7a7 
 
+凤凰中文,http://blog.cqshushu.com/guangdong.php?id=fhzw&token=4597c638edb447561c4b3cdac446a7a7 
+凤凰资讯,http://blog.cqshushu.com/guangdong.php?id=fhzx&token=4597c638edb447561c4b3cdac446a7a7 
+凤凰香港,http://blog.cqshushu.com/guangdong.php?id=fhhk&token=4597c638edb447561c4b3cdac446a7a7
+
 深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k&token=4597c638edb447561c4b3cdac446a7a7 
 深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k2&token=4597c638edb447561c4b3cdac446a7a7 
 深圳卫视,http://blog.cqshushu.com/guangdong.php?id=szws&token=4597c638edb447561c4b3cdac446a7a7 

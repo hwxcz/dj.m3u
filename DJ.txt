@@ -97,15 +97,15 @@
 
 珠江代理,#genre#
 
-广东珠江A,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+珠江01,http://113.67.180.250:10000/rtp/239.77.0.1:5146
 
-广东珠江B,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+珠江02,http://219.132.165.70:8000/rtp/239.77.0.1:5146
 
-广东珠江C,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+珠江03,http://218.18.239.146:14024/rtp/239.77.0.1:5146
 
-广东珠江D,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
+珠江04,http://219.132.165.70:8000/rtp/239.77.0.1:5146
 
-广东珠江E,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
+珠江05,http://183.30.201.46:10002/udp/239.77.0.114:5146
 
 广东|肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
 广东|肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8

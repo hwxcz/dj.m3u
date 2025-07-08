@@ -61,6 +61,8 @@
 
 珠江4,https://stream1.freetv.fun/guang-dong-zhu-jiang---wj-1.ctv
 
+珠江5,http://47.106.224.31:33795/hls/39/index.m3u8
+
 
 
 广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146

@@ -52,14 +52,23 @@
 
 
 珠江组播,#genre#
-广东卫视高清,http://ikuai.huase.ltd:8888/rtp/239.77.1.19:5146
-广东卫视高清,http://ikuai.huase.ltd:8888/rtp/239.77.1.152:5146
-广东卫视高清,http://ikuai.huase.ltd:8888/rtp/239.77.0.84:5146
-广东卫视超清,http://ikuai.huase.ltd:8888/rtp/239.77.0.166:5146
-广东珠江高清,http://ikuai.huase.ltd:8888/rtp/239.77.0.1:5146
-广东珠江超清,http://ikuai.huase.ltd:8888/rtp/239.77.0.114:5146
-广东新闻高清,http://ikuai.huase.ltd:8888/rtp/239.77.0.173:5146
-广东民生高清,http://ikuai.huase.ltd:8888/rtp/239.77.0.225:5146
+
+珠江01,http://198.16.100.186:8278/zhujiang/playlist.m3u8?tid=MB5B1463073714630737&ct=20276&tsum=3c08daba2b10eb05173a6105b15ccdd3
+
+珠江02,http://171.38.65.37:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+
+珠江03,http://171.38.67.237:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.152:5146
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.84:5146
+广东卫视超清,http://hulk.optimus66.top:4000/rtp/239.77.0.166:5146
+广东珠江高清,http://hulk.optimus66.top:4000/rtp/239.77.0.1:5146
+广东珠江超清,http://hulk.optimus66.top:4000/rtp/239.77.0.114:5146
+广东新闻高清,http://hulk.optimus66.top:4000/rtp/239.77.0.173:5146
+广东民生高清,http://hulk.optimus66.top:4000/rtp/239.77.0.225:5146
 大湾区卫视高清,http:///rtp/239.77.0.215:5146
 广东体育高清,http://121.199.57.64:5000/rtp/239.77.0.112:5146
 广东体育超清,http://121.199.57.64:5000/udp/239.77.0.168:5146

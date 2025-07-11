@@ -89,18 +89,13 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 
 
-广东组播,#genre#
+广东代理,#genre#
 
-广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.19:5146
-广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.1.152:5146
-广东卫视高清,http://qyl805.gicp.net:4023/udp/239.77.0.84:5146
-广东卫视超清,http://qyl805.gicp.net:4023/udp/239.77.0.166:5146
-广东珠江高清,http://qyl805.gicp.net:4023/udp/239.77.0.1:5146
-广东珠江超清,http://qyl805.gicp.net:4023/udp/239.77.0.114:5146
-广东新闻高清,http://qyl805.gicp.net:4023/udp/239.77.0.173:5146
-广东民生高清,http://qyl805.gicp.net:4023/udp/239.77.0.225:5146
-广东体育高清,http://qyl805.gicp.net:4023/udp/239.77.0.112:5146
-广东体育超清,http://qyl805.gicp.net:4023/udp/239.77.0.168:5146
+卫视001,http://go.bkpcp.top/mg/gdws
+珠江002,http://go.bkpcp.top/mg/gdzj
+新闻003,http://go.bkpcp.top/mg/gdxw
+民生004,http://go.bkpcp.top/mg/gdms
+体育005,http://go.bkpcp.top/mg/gdty
 
 
 
@@ -121,11 +116,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
 
 凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
-
-
-
-
-
 
 
 

@@ -63,16 +63,7 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 珠江组播,#genre#
 
-
-
-珠江02,http://171.38.65.37:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-
-珠江03,http://171.38.67.237:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-珠江04,http://47.106.224.31:33795/hls/39/index.m3u8
-
-
+珠江,http://47.106.224.31:33795/hls/39/index.m3u8
 
 广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146
 广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.152:5146

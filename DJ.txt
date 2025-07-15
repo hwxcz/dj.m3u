@@ -1,5 +1,3 @@
-#group＃
-
 广东直播,#genre#
 
 广东卫视4k,http://blog.cqshushu.com/guangdong.php?id=gdws4k&token=4597c638edb447561c4b3cdac446a7a7 

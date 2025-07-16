@@ -60,6 +60,9 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 广东酒店,#genre#
 
+广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
+
+
 广东珠江,http://218.13.167.110:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广东珠江,http://171.38.223.45:8082/tsfile/live/1020_1.m3u8
@@ -84,7 +87,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 珠江组播,#genre#
 
-珠江,http://47.106.224.31:33795/hls/39/index.m3u8
 
 广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146
 广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.152:5146
@@ -114,9 +116,9 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 香港代理,#genre#
 
-广东|肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
-广东|肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
-广东|怀集综合频道,https://www.zqhjtv.com/hls/hjzhpd.m3u8
+肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
+肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
+怀集综合频道,https://www.zqhjtv.com/hls/hjzhpd.m3u8
 
 
 无线新闻台,http://bx.757888.xyz/api.php?id=wxxw

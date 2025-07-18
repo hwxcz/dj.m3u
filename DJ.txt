@@ -35,8 +35,21 @@
 
 
 
+广东代理,#genre#
+
+卫视001,http://go.bkpcp.top/mg/gdws
+珠江002,http://go.bkpcp.top/mg/gdzj
+新闻003,http://go.bkpcp.top/mg/gdxw
+民生004,http://go.bkpcp.top/mg/gdms
+体育005,http://go.bkpcp.top/mg/gdty
+
+
+
 
 广东系列,#genre#
+
+广东珠江超清,http://14.112.103.17:8000/rtp/239.20.0.63:3148
+广东珠江高清,http://14.112.103.17:8000/rtp/239.20.0.64:3144
 
 广东珠江台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
 广东新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
@@ -100,16 +113,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 广东体育高清,http://121.199.57.64:5000/rtp/239.77.0.112:5146
 广东体育超清,http://121.199.57.64:5000/udp/239.77.0.168:5146
 
-
-
-
-广东代理,#genre#
-
-卫视001,http://go.bkpcp.top/mg/gdws
-珠江002,http://go.bkpcp.top/mg/gdzj
-新闻003,http://go.bkpcp.top/mg/gdxw
-民生004,http://go.bkpcp.top/mg/gdms
-体育005,http://go.bkpcp.top/mg/gdty
 
 
 

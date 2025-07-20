@@ -1,31 +1,31 @@
 广东频道,#group#
 广东直播,#genre#
 
-广东卫视4k,http://blog.cqshushu.com/guangdong.php?id=gdws4k&token=509c2a5564e5156ef65200b46d3eb318 
-广东卫视,http://blog.cqshushu.com/guangdong.php?id=gdws&token=509c2a5564e5156ef65200b46d3eb318 
-广东珠江,http://blog.cqshushu.com/guangdong.php?id=gdzj&token=509c2a5564e5156ef65200b46d3eb318 
-广东民生,http://blog.cqshushu.com/guangdong.php?id=gdms&token=509c2a5564e5156ef65200b46d3eb318 
-广东体育,http://blog.cqshushu.com/guangdong.php?id=gdty&token=509c2a5564e5156ef65200b46d3eb318 
-大湾区卫视,http://blog.cqshushu.com/guangdong.php?id=dwqws1&token=509c2a5564e5156ef65200b46d3eb318 
-大湾区卫视(海外),http://blog.cqshushu.com/guangdong.php?id=dwqws2&token=509c2a5564e5156ef65200b46d3eb318 
-广东影视,http://blog.cqshushu.com/guangdong.php?id=gdys&token=509c2a5564e5156ef65200b46d3eb318 
-广东4K,http://blog.cqshushu.com/guangdong.php?id=gd4k&token=509c2a5564e5156ef65200b46d3eb318 
-广东少儿,http://blog.cqshushu.com/guangdong.php?id=gdse&token=509c2a5564e5156ef65200b46d3eb318 
-南方购物,http://blog.cqshushu.com/guangdong.php?id=nfgw&token=509c2a5564e5156ef65200b46d3eb318 
-岭南戏曲,http://blog.cqshushu.com/guangdong.php?id=lnxq&token=509c2a5564e5156ef65200b46d3eb318 
-广东移动,http://blog.cqshushu.com/guangdong.php?id=gdyd&token=509c2a5564e5156ef65200b46d3eb318 
-嘉佳卡通,http://blog.cqshushu.com/guangdong.php?id=jjkt&token=509c2a5564e5156ef65200b46d3eb318 
+广东卫视4k,http://blog.cqshushu.com/guangdong.php?id=gdws4k&token=64854d9d98e78145e05826b975abeb1c 
+广东卫视,http://blog.cqshushu.com/guangdong.php?id=gdws&token=64854d9d98e78145e05826b975abeb1c 
+广东珠江,http://blog.cqshushu.com/guangdong.php?id=gdzj&token=64854d9d98e78145e05826b975abeb1c 
+广东民生,http://blog.cqshushu.com/guangdong.php?id=gdms&token=64854d9d98e78145e05826b975abeb1c 
+广东体育,http://blog.cqshushu.com/guangdong.php?id=gdty&token=64854d9d98e78145e05826b975abeb1c 
+大湾区卫视,http://blog.cqshushu.com/guangdong.php?id=dwqws1&token=64854d9d98e78145e05826b975abeb1c 
+大湾区卫视(海外),http://blog.cqshushu.com/guangdong.php?id=dwqws2&token=64854d9d98e78145e05826b975abeb1c 
+广东影视,http://blog.cqshushu.com/guangdong.php?id=gdys&token=64854d9d98e78145e05826b975abeb1c 
+广东4K,http://blog.cqshushu.com/guangdong.php?id=gd4k&token=64854d9d98e78145e05826b975abeb1c 
+广东少儿,http://blog.cqshushu.com/guangdong.php?id=gdse&token=64854d9d98e78145e05826b975abeb1c 
+南方购物,http://blog.cqshushu.com/guangdong.php?id=nfgw&token=64854d9d98e78145e05826b975abeb1c 
+岭南戏曲,http://blog.cqshushu.com/guangdong.php?id=lnxq&token=64854d9d98e78145e05826b975abeb1c 
+广东移动,http://blog.cqshushu.com/guangdong.php?id=gdyd&token=64854d9d98e78145e05826b975abeb1c 
+嘉佳卡通,http://blog.cqshushu.com/guangdong.php?id=jjkt&token=64854d9d98e78145e05826b975abeb1c 
 
-凤凰中文,http://blog.cqshushu.com/guangdong.php?id=fhzw&token=509c2a5564e5156ef65200b46d3eb318 
-凤凰资讯,http://blog.cqshushu.com/guangdong.php?id=fhzx&token=509c2a5564e5156ef65200b46d3eb318 
-凤凰香港,http://blog.cqshushu.com/guangdong.php?id=fhhk&token=509c2a5564e5156ef65200b46d3eb318
+凤凰中文,http://blog.cqshushu.com/guangdong.php?id=fhzw&token=64854d9d98e78145e05826b975abeb1c 
+凤凰资讯,http://blog.cqshushu.com/guangdong.php?id=fhzx&token=64854d9d98e78145e05826b975abeb1c 
+凤凰香港,http://blog.cqshushu.com/guangdong.php?id=fhhk&token=64854d9d98e78145e05826b975abeb1c
 
-深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k&token=509c2a5564e5156ef65200b46d3eb318 
-深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k2&token=509c2a5564e5156ef65200b46d3eb318 
-深圳卫视,http://blog.cqshushu.com/guangdong.php?id=szws&token=509c2a5564e5156ef65200b46d3eb318 
+深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k&token=64854d9d98e78145e05826b975abeb1c 
+深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k2&token=64854d9d98e78145e05826b975abeb1c 
+深圳卫视,http://blog.cqshushu.com/guangdong.php?id=szws&token=64854d9d98e78145e05826b975abeb1c 
 
-肇庆综合,http://blog.cqshushu.com/guangdong.php?id=zqzh&token=509c2a5564e5156ef65200b46d3eb318 
-肇庆生活,http://blog.cqshushu.com/guangdong.php?id=zqsh&token=509c2a5564e5156ef65200b46d3eb318
+肇庆综合,http://blog.cqshushu.com/guangdong.php?id=zqzh&token=64854d9d98e78145e05826b975abeb1c 
+肇庆生活,http://blog.cqshushu.com/guangdong.php?id=zqsh&token=64854d9d98e78145e05826b975abeb1c
 
 肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
 肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8

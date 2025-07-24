@@ -73,6 +73,7 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 
 广东酒店,#genre#
+广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
 

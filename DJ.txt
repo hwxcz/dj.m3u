@@ -76,7 +76,7 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
 
-广东珠江,http://171.38.220.139:8082/tsfile/live/1020_1.m3u8
+广东珠江,http://171.38.219.20:8082/tsfile/live/1020_1.m3u8
 
 广东新闻,http://171.38.220.139:8082/tsfile/live/1024_1.m3u8
 

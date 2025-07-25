@@ -42,6 +42,11 @@
 民生004,http://go.bkpcp.top/mg/gdms
 体育005,http://go.bkpcp.top/mg/gdty
 
+珠江01,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=idtSbF&tk=cl177bPI6scY
+02新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=t8V1YO&tk=cl177bPI6scY
+03民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pWkRaM&tk=cl177bPI6scY
+04体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GrBTmn&tk=cl177bPI6scY
+大湾区05,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=34Lwjs&tk=cl177bPI6scY
 
 
 

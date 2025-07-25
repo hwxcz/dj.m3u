@@ -55,6 +55,9 @@
 广东珠江超清,http://14.112.103.72:8000/rtp/239.20.0.63:3148
 广东珠江高清,http://14.112.103.72:8000/rtp/239.20.0.64:3144
 
+广东珠江1,http://8.138.250.123:50088/tsfile/live/1102_1.m3u8?key=5ajsfgee
+广东民生2,http://8.138.250.123:50088/tsfile/live/1105_1.m3u8?key=sv38g1h5
+广东体育3,http://8.138.250.123:50088/tsfile/live/1107_1.m3u8?key=c4vum0k8
 
 广东珠江台,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 

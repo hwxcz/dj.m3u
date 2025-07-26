@@ -42,11 +42,18 @@
 民生004,http://go.bkpcp.top/mg/gdms
 体育005,http://go.bkpcp.top/mg/gdty
 
-珠江01,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=idtSbF&tk=cl177bPI6scY
-新闻02,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=t8V1YO&tk=cl177bPI6scY
-民生03,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=pWkRaM&tk=cl177bPI6scY
-体育04,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GrBTmn&tk=cl177bPI6scY
-大湾区05,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=34Lwjs&tk=cl177bPI6scY
+
+广东移动,http://wmh.synology.me:6633/rtp/239.77.0.20:5146
+广东卫视,http://wmh.synology.me:6633/rtp/239.77.0.166:5146
+广东珠江,http://wmh.synology.me:6633/rtp/239.77.0.114:5146
+广东新闻,http://wmh.synology.me:6633/rtp/239.77.0.173:5146
+广东民生,http://wmh.synology.me:6633/rtp/239.77.0.225:5146
+广东体育,http://wmh.synology.me:6633/rtp/239.77.0.112:5146
+湾区卫视,http://wmh.synology.me:6633/rtp/239.77.0.215:5146
+广东少儿,http://wmh.synology.me:6633/rtp/239.77.0.250:5146
+
+
+
 
 
 
@@ -78,6 +85,8 @@
 无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 
 HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+
+
 
 
 广东酒店,#genre#

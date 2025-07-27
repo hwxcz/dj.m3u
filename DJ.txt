@@ -2,6 +2,7 @@
 广东直播,#genre#
 
 广东卫视,http://blog.cqshushu.com/guangdong.php?id=gdws&token=2349ecf10eeeb7152a8956a2da187d28 
+珠江台,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
 广东珠江,http://blog.cqshushu.com/guangdong.php?id=gdzj&token=2349ecf10eeeb7152a8956a2da187d28 
 广东民生,http://blog.cqshushu.com/guangdong.php?id=gdms&token=2349ecf10eeeb7152a8956a2da187d28 
 广东体育,http://blog.cqshushu.com/guangdong.php?id=gdty&token=2349ecf10eeeb7152a8956a2da187d28 
@@ -60,7 +61,10 @@
 
 广东系列,#genre#
 
-广东珠江台,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+
+广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+
+广东珠江台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 广东新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 广东民生台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
 广东体育台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
@@ -69,11 +73,7 @@
 广东珠江超清,http://14.112.103.72:8000/rtp/239.20.0.63:3148
 广东珠江高清,http://14.112.103.72:8000/rtp/239.20.0.64:3144
 
-广东珠江1,http://8.138.250.123:50088/tsfile/live/1102_1.m3u8?key=5ajsfgee
-广东民生2,http://8.138.250.123:50088/tsfile/live/1105_1.m3u8?key=sv38g1h5
-广东体育3,http://8.138.250.123:50088/tsfile/live/1107_1.m3u8?key=c4vum0k8
 
-广东珠江,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 

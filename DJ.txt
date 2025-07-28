@@ -2,8 +2,9 @@
 广东直播,#genre#
 
 广东卫视,http://blog.cqshushu.com/guangdong.php?id=gdws&token=2349ecf10eeeb7152a8956a2da187d28 
-珠江台,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
-广东珠江,http://blog.cqshushu.com/guangdong.php?id=gdzj&token=2349ecf10eeeb7152a8956a2da187d28 
+
+广东珠江,http://183.24.62.163:44443/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+
 广东民生,http://blog.cqshushu.com/guangdong.php?id=gdms&token=2349ecf10eeeb7152a8956a2da187d28 
 广东体育,http://blog.cqshushu.com/guangdong.php?id=gdty&token=2349ecf10eeeb7152a8956a2da187d28 
 大湾区卫视,http://blog.cqshushu.com/guangdong.php?id=dwqws1&token=2349ecf10eeeb7152a8956a2da187d28 
@@ -15,6 +16,8 @@
 岭南戏曲,http://blog.cqshushu.com/guangdong.php?id=lnxq&token=2349ecf10eeeb7152a8956a2da187d28 
 广东移动,http://blog.cqshushu.com/guangdong.php?id=gdyd&token=2349ecf10eeeb7152a8956a2da187d28 
 嘉佳卡通,http://blog.cqshushu.com/guangdong.php?id=jjkt&token=2349ecf10eeeb7152a8956a2da187d28 
+珠江台,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
+广东珠江1,http://blog.cqshushu.com/guangdong.php?id=gdzj&token=2349ecf10eeeb7152a8956a2da187d28 
 
 凤凰中文,http://blog.cqshushu.com/guangdong.php?id=fhzw&token=2349ecf10eeeb7152a8956a2da187d28 
 凤凰资讯,http://blog.cqshushu.com/guangdong.php?id=fhzx&token=2349ecf10eeeb7152a8956a2da187d28 

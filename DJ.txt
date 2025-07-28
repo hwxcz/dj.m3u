@@ -77,11 +77,11 @@
 
 广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 
-广东珠江台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
-广东新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
-广东民生台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
-广东体育台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
-广东影视台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
+广东珠江台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
+广东新闻台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
+广东民生台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
+广东体育台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
+广东影视台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
 
 广东珠江超清,http://14.112.103.72:8000/rtp/239.20.0.63:3148
 广东珠江高清,http://14.112.103.72:8000/rtp/239.20.0.64:3144

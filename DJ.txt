@@ -33,8 +33,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 广东直播,#genre#
 
-珠江台,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
-
 广东卫视1,http://183.24.62.163:44443/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 广东珠江1,http://183.24.62.163:44443/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -45,7 +43,7 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 广东体育1,http://183.24.62.163:44443/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
+珠江台,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
 
 广东民生,http://blog.cqshushu.com/guangdong.php?id=gdms&token=2349ecf10eeeb7152a8956a2da187d28 
 广东体育,http://blog.cqshushu.com/guangdong.php?id=gdty&token=2349ecf10eeeb7152a8956a2da187d28 

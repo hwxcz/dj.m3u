@@ -31,8 +31,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 
 
-
-
 广东直播,#genre#
 
 广东卫视1,http://183.24.62.163:44443/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -109,9 +107,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 怀集综合,http://blog.cqshushu.com/gddf.php?id=hjzh&token=fe5f6a41a08d4d5072fc4191aef7141b
 
 
-
-
-
 翡翠台,http://blog.cqshushu.com/x4.php?id=fct&token=fe5f6a41a08d4d5072fc4191aef7141b
 翡翠台,http://blog.cqshushu.com/gddf.php?id=fct2&token=fe5f6a41a08d4d5072fc4191aef7141b
 无线新闻台,http://blog.cqshushu.com/x4.php?id=wxxwt&token=fe5f6a41a08d4d5072fc4191aef7141b
@@ -179,8 +174,6 @@ VIUTV1,http://blog.cqshushu.com/x4.php?id=viutv6_1&token=fe5f6a41a08d4d5072fc419
 广东少儿,http://171.38.219.89:8082/tsfile/live/1023_1.m3u8
 
 嘉佳卡通,http://171.38.219.89:8082/tsfile/live/1014_1.m3u8
-
-
 
 
 
@@ -263,10 +256,8 @@ VIUTV1,http://blog.cqshushu.com/x4.php?id=viutv6_1&token=fe5f6a41a08d4d5072fc419
 
 央视频道,#genre#
 
-CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226705/1.m3u8
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226736/1.m3u8
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
-CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226694/1.m3u8
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
 CCTV3综艺,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
 CCTV4中文国际,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8

@@ -109,9 +109,7 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 怀集综合,http://blog.cqshushu.com/gddf.php?id=hjzh&token=fe5f6a41a08d4d5072fc4191aef7141b
 
 
-凤凰中文,http://blog.cqshushu.com/guangdong.php?id=fhzw&token=2349ecf10eeeb7152a8956a2da187d28 
-凤凰资讯,http://blog.cqshushu.com/guangdong.php?id=fhzx&token=2349ecf10eeeb7152a8956a2da187d28 
-凤凰香港,http://blog.cqshushu.com/guangdong.php?id=fhhk&token=2349ecf10eeeb7152a8956a2da187d28
+
 
 
 翡翠台,http://blog.cqshushu.com/x4.php?id=fct&token=fe5f6a41a08d4d5072fc4191aef7141b
@@ -129,19 +127,13 @@ VIUTV1,http://blog.cqshushu.com/x4.php?id=viutv6_1&token=fe5f6a41a08d4d5072fc419
 凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=fe5f6a41a08d4d5072fc4191aef7141b
 纬来体育,http://blog.cqshushu.com/wltv.php?id=wlty&token=fe5f6a41a08d4d5072fc4191aef7141b
 
-
-深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k&token=2349ecf10eeeb7152a8956a2da187d28 
-深圳卫视4K,http://blog.cqshushu.com/guangdong.php?id=szws4k2&token=2349ecf10eeeb7152a8956a2da187d28 
-深圳卫视,http://blog.cqshushu.com/guangdong.php?id=szws&token=2349ecf10eeeb7152a8956a2da187d28 
-
-肇庆综合,http://blog.cqshushu.com/guangdong.php?id=zqzh&token=2349ecf10eeeb7152a8956a2da187d28 
-肇庆生活,http://blog.cqshushu.com/guangdong.php?id=zqsh&token=2349ecf10eeeb7152a8956a2da187d28
-
 肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
 肇庆生活服务,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
 怀集综合频道,https://www.zqhjtv.com/hls/hjzhpd.m3u8
 
-
+凤凰中文,http://blog.cqshushu.com/guangdong.php?id=fhzw&token=2349ecf10eeeb7152a8956a2da187d28 
+凤凰资讯,http://blog.cqshushu.com/guangdong.php?id=fhzx&token=2349ecf10eeeb7152a8956a2da187d28 
+凤凰香港,http://blog.cqshushu.com/guangdong.php?id=fhhk&token=2349ecf10eeeb7152a8956a2da187d28
 
 
 

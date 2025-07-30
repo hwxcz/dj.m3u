@@ -350,7 +350,8 @@ CETV4中教4台,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 
 
-移动央视,#genre#
+全网央视,#genre#
+
 CCTV1 综合,http://guanl-3.mi-ge.com:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2 财经,http://guanl-3.mi-ge.com:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3 综艺,http://guanl-3.mi-ge.com:9901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -373,7 +374,7 @@ CCTV17 农业,http://guanl-3.mi-ge.com:9901/tsfile/live/0019_1.m3u8?key=txiptv
 
 
 
-卫视直播,#genre#
+全网卫视,#genre#
 
 湖南卫视,http://guanl-3.mi-ge.com:9901/tsfile/live/0128_1.m3u8?key=txiptv
 浙江卫视,http://guanl-3.mi-ge.com:9901/tsfile/live/0124_1.m3u8?key=txiptv

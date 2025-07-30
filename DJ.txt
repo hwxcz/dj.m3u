@@ -251,7 +251,10 @@ VIUTV1,http://blog.cqshushu.com/x4.php?id=viutv6_1&token=fe5f6a41a08d4d5072fc419
 广东体育,http://line1.huase.ltd:8888/rtp/239.77.0.112:5146
 湾区卫视,http://line1.huase.ltd:8888/rtp/239.77.0.215:5146
 广东少儿,http://line1.huase.ltd:8888/rtp/239.77.0.250:5146
-
+睛彩青少高清,http://line1.huase.ltd:8888/rtp/239.77.1.22:5146
+睛彩竞技高清,http://line1.huase.ltd:8888/rtp/239.77.1.20:5146
+睛彩篮球高清,http://line1.huase.ltd:8888/rtp/239.77.1.21:5146
+睛彩广场舞高清,http://line1.huase.ltd:8888/rtp/239.77.1.23:5146
 
 
 央视频道,#genre#

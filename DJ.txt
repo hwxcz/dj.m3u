@@ -1,8 +1,6 @@
 广东频道,#group#
 广东系列,#genre#
 
-海南-海口2_8M1080,http://111.29.9.39:6610/200000001891/460000089100010015/1.m3u8?IASHttpSessionId=OTT
-
 广东珠江,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 
 广东珠江台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv

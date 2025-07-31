@@ -824,7 +824,7 @@ CCTV17 农业,http://guanl-3.mi-ge.com:9901/tsfile/live/0019_1.m3u8?key=txiptv
 
 
 
-家庭教育,#genre#
+家庭教育观念,#genre#
 家长要承担家庭教育的主体责任,https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/30ea0bb0-7207-4f93-a840-b9bb9e1b6e6c.t/zh-CN/1722504096947/videos/594105b1-c80c-40b5-92ea-7ded6e71c192-1920x1080-false-f387f3c1ead0fb08af2589e511d5b863-0b6fbea34da9480582c3d84b4edc7b44.m3u8
 家庭建设与父母携手育儿,https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/ba0f185b-6e0c-470f-a98d-c6597dacdd52.t/zh-CN/1722504097041/videos/a9c59ae1-481b-484e-93a2-e6bc7f555fc5-1920x1080-false-0ae7a0d4c6c59d0f9284eccf1bfc1ff9-2d99d4277c5249eda168c2b050cea189.m3u8
 言传身教：中国传统家庭教育内容与方法的传承与运用,https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/assets/b4137bd6-c3e5-41e3-9729-06e4591455e2.t/zh-CN/1722504097019/videos/e529b1f0-ed34-4903-a201-1f35524fa8f6-1920x1080-false-f7fdeb96d877f9308da2927cec1d85b9-ec5edd6c837c4c2f94f4d20969ad3d28.m3u8

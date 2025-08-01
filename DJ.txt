@@ -499,6 +499,16 @@ CCTV-戏曲,http://223.82.161.157:899/hls/74/index.m3u8
 
 香港代理,#genre#
 
+凤凰中文,http://dsm.ccb912.top:9998/udp/239.93.0.162:2192
+凤凰中文,http://dsm.ccb912.top:9998/udp/239.93.1.9:2192
+凤凰资讯,http://dsm.ccb912.top:9998/udp/239.93.0.118:2191
+凤凰资讯,http://dsm.ccb912.top:9998/udp/239.93.1.4:2191
+星空卫视,http://dsm.ccb912.top:9998/udp/239.93.0.156:2193
+星空卫视,http://dsm.ccb912.top:9998/udp/239.93.1.10:2193
+CHANNEL-V,http://dsm.ccb912.top:9998/udp/239.93.0.157:2194
+CHANNEL-V,http://dsm.ccb912.top:9998/udp/239.93.1.7:2194
+
+
 无线新闻台,http://bx.757888.xyz/api.php?id=wxxw
 
 翡翠台,http://bx.757888.xyz/api.php?id=fct

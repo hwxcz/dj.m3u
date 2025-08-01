@@ -138,6 +138,8 @@ VIUTV1,http://blog.cqshushu.com/x4.php?id=viutv6_1&token=fe5f6a41a08d4d5072fc419
 新闻003,http://go.bkpcp.top/mg/gdxw
 民生004,http://go.bkpcp.top/mg/gdms
 体育005,http://go.bkpcp.top/mg/gdty
+大湾区卫视,http://go.bkpcp.top/mg/dwqws 
+广东影视,http://go.bkpcp.top/mg/gdys
 
 
 

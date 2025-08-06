@@ -5,6 +5,8 @@
 
 广东珠江2,http://bxtv.3a.ink/api.php?id=gdzj
 
+广东珠江3,http://r.jdshipin.com/sE5vO
+
 广东珠江台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 广东新闻台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 广东民生台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
@@ -33,7 +35,7 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
-广东珠江4,http://r.jdshipin.com/sE5vO
+
 广东体育2,http://r.jdshipin.com/LiYdg
 
 

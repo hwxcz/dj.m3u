@@ -152,14 +152,14 @@ VIUTV1,http://blog.cqshushu.com/x4.php?id=viutv6_1&token=fe5f6a41a08d4d5072fc419
 
 
 
-广东卫视,http://qyl805.gicp.net:4023/rtp/239.77.0.166:5146
-广东珠江,http://qyl805.gicp.net:4023/rtp/239.77.0.114:5146
-广东新闻,http://qyl805.gicp.net:4023/rtp/239.77.0.173:5146
-广东民生,http://qyl805.gicp.net:4023/rtp/239.77.0.225:5146
-广东体育,http://qyl805.gicp.net:4023/rtp/239.77.0.112:5146
-湾区卫视,http://qyl805.gicp.net:4023/rtp/239.77.0.215:5146
-广东移动,http://qyl805.gicp.net:4023/rtp/239.77.0.20:5146
-广东少儿,http://qyl805.gicp.net:4023/rtp/239.77.0.250:5146
+广东卫视,http://plex.cyruslee.top:8888/rtp/239.77.0.166:5146
+广东珠江,http://plex.cyruslee.top:8888/rtp/239.77.0.114:5146
+广东新闻,http://plex.cyruslee.top:8888/rtp/239.77.0.173:5146
+广东民生,http://plex.cyruslee.top:8888/rtp/239.77.0.225:5146
+广东体育,http://plex.cyruslee.top:8888/rtp/239.77.0.112:5146
+湾区卫视,http://plex.cyruslee.top:8888/rtp/239.77.0.215:5146
+广东移动,http://plex.cyruslee.top:8888/rtp/239.77.0.20:5146
+广东少儿,http://plex.cyruslee.top:8888/rtp/239.77.0.250:5146
 
 
 

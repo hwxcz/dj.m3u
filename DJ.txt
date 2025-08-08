@@ -55,33 +55,77 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 
 
-广东卫视4k,http://blog.cqshushu.com/gddf.php?id=gdws4k&token=cd60535f06eb794f1935e846fe80882f
-广东卫视,http://blog.cqshushu.com/gddf.php?id=gdws&token=cd60535f06eb794f1935e846fe80882f
-广东珠江,http://blog.cqshushu.com/gddf.php?id=gdzj&token=cd60535f06eb794f1935e846fe80882f
-广东民生,http://blog.cqshushu.com/gddf.php?id=gdms&token=cd60535f06eb794f1935e846fe80882f
-广东体育,http://blog.cqshushu.com/gddf.php?id=gdty&token=cd60535f06eb794f1935e846fe80882f
-大湾区卫视,http://blog.cqshushu.com/gddf.php?id=dwqws1&token=cd60535f06eb794f1935e846fe80882f
-大湾区卫视(海外),http://blog.cqshushu.com/gddf.php?id=dwqws2&token=cd60535f06eb794f1935e846fe80882f
-广东影视,http://blog.cqshushu.com/gddf.php?id=gdys&token=cd60535f06eb794f1935e846fe80882f
+广东卫视4k,http://blog.cqshushu.com/gddf.php?id=gdws4k&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东卫视,http://blog.cqshushu.com/gddf.php?id=gdws&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东珠江,http://blog.cqshushu.com/gddf.php?id=gdzj&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东民生,http://blog.cqshushu.com/gddf.php?id=gdms&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东体育,http://blog.cqshushu.com/gddf.php?id=gdty&token=d1e01afe7ffba1e6e151134b2a2cf60a
+大湾区卫视,http://blog.cqshushu.com/gddf.php?id=dwqws1&token=d1e01afe7ffba1e6e151134b2a2cf60a
+大湾区卫视(海外),http://blog.cqshushu.com/gddf.php?id=dwqws2&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东影视,http://blog.cqshushu.com/gddf.php?id=gdys&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东4K,http://blog.cqshushu.com/gddf.php?id=gd4k&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东少儿,http://blog.cqshushu.com/gddf.php?id=gdse&token=d1e01afe7ffba1e6e151134b2a2cf60a
+南方购物,http://blog.cqshushu.com/gddf.php?id=nfgw&token=d1e01afe7ffba1e6e151134b2a2cf60a
+岭南戏曲,http://blog.cqshushu.com/gddf.php?id=lnxq&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广东移动,http://blog.cqshushu.com/gddf.php?id=gdyd&token=d1e01afe7ffba1e6e151134b2a2cf60a
+嘉佳卡通,http://blog.cqshushu.com/gddf.php?id=jjkt&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广州综合,http://blog.cqshushu.com/gddf.php?id=gzzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广州新闻,http://blog.cqshushu.com/gddf.php?id=gzxw&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广州法治,http://blog.cqshushu.com/gddf.php?id=gzfz&token=d1e01afe7ffba1e6e151134b2a2cf60a
+广州影视,http://blog.cqshushu.com/gddf.php?id=gzys&token=d1e01afe7ffba1e6e151134b2a2cf60a
+4K南国都市,http://blog.cqshushu.com/gddf.php?id=ngds&token=d1e01afe7ffba1e6e151134b2a2cf60a
+番禺综合,http://blog.cqshushu.com/gddf.php?id=pyzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳卫视4K,http://blog.cqshushu.com/gddf.php?id=szws4k&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳卫视4K,http://blog.cqshushu.com/gddf.php?id=szws4k2&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳卫视,http://blog.cqshushu.com/gddf.php?id=szws&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳都市,http://blog.cqshushu.com/gddf.php?id=szds&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳都市,http://blog.cqshushu.com/gddf.php?id=szds2&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳电视剧,http://blog.cqshushu.com/gddf.php?id=szdsj&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳财经,http://blog.cqshushu.com/gddf.php?id=szcj&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳少儿,http://blog.cqshushu.com/gddf.php?id=szse&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳移动,http://blog.cqshushu.com/gddf.php?id=szyd&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳宜和购物,http://blog.cqshushu.com/gddf.php?id=szyhgw&token=d1e01afe7ffba1e6e151134b2a2cf60a
+深圳国际,http://blog.cqshushu.com/gddf.php?id=szgj&token=d1e01afe7ffba1e6e151134b2a2cf60a
+东莞综合,http://blog.cqshushu.com/gddf.php?id=dgzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+东莞生活,http://blog.cqshushu.com/gddf.php?id=dgsh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+江门综合,http://blog.cqshushu.com/gddf.php?id=jmzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+江门侨乡,http://blog.cqshushu.com/gddf.php?id=jmqx&token=d1e01afe7ffba1e6e151134b2a2cf60a
+中山综合,http://blog.cqshushu.com/gddf.php?id=zszh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+云浮综合,http://blog.cqshushu.com/gddf.php?id=yfzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+云浮文旅,http://blog.cqshushu.com/gddf.php?id=yfwl&token=d1e01afe7ffba1e6e151134b2a2cf60a
+湛江综合,http://blog.cqshushu.com/gddf.php?id=zjzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+湛江公共,http://blog.cqshushu.com/gddf.php?id=zjgg&token=d1e01afe7ffba1e6e151134b2a2cf60a
+丰顺综合,http://blog.cqshushu.com/gddf.php?id=fszh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+五华综合,http://blog.cqshushu.com/gddf.php?id=whzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+汕头综合,http://blog.cqshushu.com/gddf.php?id=stzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+汕头生活,http://blog.cqshushu.com/gddf.php?id=stsh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+汕尾综合,http://blog.cqshushu.com/gddf.php?id=swzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+汕尾生活,http://blog.cqshushu.com/gddf.php?id=swsh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+潮州综合,http://blog.cqshushu.com/gddf.php?id=czzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+潮州民生,http://blog.cqshushu.com/gddf.php?id=czms&token=d1e01afe7ffba1e6e151134b2a2cf60a
+揭阳综合,http://blog.cqshushu.com/gddf.php?id=jytv1&token=d1e01afe7ffba1e6e151134b2a2cf60a
+揭阳生活,http://blog.cqshushu.com/gddf.php?id=jytv2&token=d1e01afe7ffba1e6e151134b2a2cf60a
+河源综合,http://blog.cqshushu.com/gddf.php?id=hyzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+河源生活,http://blog.cqshushu.com/gddf.php?id=hysh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+韶关综合,http://blog.cqshushu.com/gddf.php?id=sgzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+阳江1,http://blog.cqshushu.com/gddf.php?id=yjtv1&token=d1e01afe7ffba1e6e151134b2a2cf60a
+阳江2,http://blog.cqshushu.com/gddf.php?id=yjtv2&token=d1e01afe7ffba1e6e151134b2a2cf60a
+清远综合,http://blog.cqshushu.com/gddf.php?id=qyzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+肇庆综合,http://blog.cqshushu.com/gddf.php?id=zqzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+肇庆生活,http://blog.cqshushu.com/gddf.php?id=zqsh&token=d1e01afe7ffba1e6e151134b2a2cf60a
+怀集综合,http://blog.cqshushu.com/gddf.php?id=hjzh&token=d1e01afe7ffba1e6e151134b2a2cf60a
 
-广东少儿,http://blog.cqshushu.com/gddf.php?id=gdse&token=cd60535f06eb794f1935e846fe80882f
-
-嘉佳卡通,http://blog.cqshushu.com/gddf.php?id=jjkt&token=cd60535f06eb794f1935e846fe80882f
-
-肇庆综合,http://blog.cqshushu.com/gddf.php?id=zqzh&token=cd60535f06eb794f1935e846fe80882f
-肇庆生活,http://blog.cqshushu.com/gddf.php?id=zqsh&token=cd60535f06eb794f1935e846fe80882f
-怀集综合,http://blog.cqshushu.com/gddf.php?id=hjzh&token=cd60535f06eb794f1935e846fe80882f
 
 
-翡翠台,http://blog.cqshushu.com/x4.php?id=fct&token=cd60535f06eb794f1935e846fe80882f
-翡翠台,http://blog.cqshushu.com/gddf.php?id=fct2&token=cd60535f06eb794f1935e846fe80882f
-无线新闻台,http://blog.cqshushu.com/x4.php?id=wxxwt&token=cd60535f06eb794f1935e846fe80882f
-J2,http://blog.cqshushu.com/x4.php?id=tvb&token=cd60535f06eb794f1935e846fe80882f
-明珠台,http://blog.cqshushu.com/x4.php?id=mzt&token=cd60535f06eb794f1935e846fe80882f
+翡翠台,http://blog.cqshushu.com/x4.php?id=fct&token=d1e01afe7ffba1e6e151134b2a2cf60a
+翡翠台,http://blog.cqshushu.com/gddf.php?id=fct2&token=d1e01afe7ffba1e6e151134b2a2cf60a
+无线新闻台,http://blog.cqshushu.com/x4.php?id=wxxwt&token=d1e01afe7ffba1e6e151134b2a2cf60a
+J2,http://blog.cqshushu.com/x4.php?id=tvb&token=d1e01afe7ffba1e6e151134b2a2cf60a
+明珠台,http://blog.cqshushu.com/x4.php?id=mzt&token=d1e01afe7ffba1e6e151134b2a2cf60a
 
-凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=cd60535f06eb794f1935e846fe80882f
-凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=cd60535f06eb794f1935e846fe80882f
-凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=cd60535f06eb794f1935e846fe80882f
+凤凰中文,http://blog.cqshushu.com/gddf.php?id=fhzw&token=d1e01afe7ffba1e6e151134b2a2cf60a
+凤凰资讯,http://blog.cqshushu.com/gddf.php?id=fhzx&token=d1e01afe7ffba1e6e151134b2a2cf60a
+凤凰香港,http://blog.cqshushu.com/gddf.php?id=fhhk&token=d1e01afe7ffba1e6e151134b2a2cf60a
 
 
 肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8

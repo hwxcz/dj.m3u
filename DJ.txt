@@ -1,21 +1,21 @@
 广东频道,#group#
 电视家,#genre#
 
-广东珠江,http://119.123.78.161:8086/hls/47/index.m3u8
+广东珠江,http://119.123.78.252:8086/hls/47/index.m3u8
 广东珠江,http://119.123.76.111:8086/hls/47/index.m3u8
-广东新闻,http://119.123.78.161:8086/hls/45/index.m3u8
+广东新闻,http://119.123.78.252:8086/hls/45/index.m3u8
 广东新闻,http://119.123.76.111:8086/hls/45/index.m3u8
-广东民生,http://119.123.78.161:8086/hls/39/index.m3u8
+广东民生,http://119.123.78.252:8086/hls/39/index.m3u8
 广东民生,http://119.123.76.111:8086/hls/39/index.m3u8
-广东体育,http://119.123.78.161:8086/hls/42/index.m3u8
+广东体育,http://119.123.78.252:8086/hls/42/index.m3u8
 广东体育,http://119.123.76.111:8086/hls/42/index.m3u8
-广东大湾区,http://119.123.78.161:8086/hls/29/index.m3u8
+广东大湾区,http://119.123.78.252:8086/hls/29/index.m3u8
 广东大湾区,http://119.123.76.111:8086/hls/29/index.m3u8
-广东少儿,http://119.123.78.161:8086/hls/40/index.m3u8
+广东少儿,http://119.123.78.252:8086/hls/40/index.m3u8
 广东少儿,http://119.123.76.111:8086/hls/40/index.m3u8
-广东影视,http://119.123.78.161:8086/hls/46/index.m3u8
+广东影视,http://119.123.78.252:8086/hls/46/index.m3u8
 广东影视,http://119.123.76.111:8086/hls/46/index.m3u8
-广东经济,http://119.123.78.161:8086/hls/63/index.m3u8
+广东经济,http://119.123.78.252:8086/hls/63/index.m3u8
 广东经济,http://119.123.76.111:8086/hls/63/index.m3u8
 
 
@@ -42,13 +42,9 @@
 
 广东系列,#genre#
 
-广东珠江1,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-
 广东珠江2,http://bxtv.3a.ink/api.php?id=gdzj
 
 广东珠江3,http://r.jdshipin.com/sE5vO
-
-
 
 广东珠江台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 广东新闻台3,http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
@@ -78,8 +74,10 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,http://r.jdshipin.com/NfC0f
 澳视澳门,http://r.jdshipin.com/n2YZI
-
 广东体育2,http://r.jdshipin.com/LiYdg
+广东珠江1,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+
+
 
 
 广东直播,#genre#

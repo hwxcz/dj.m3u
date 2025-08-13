@@ -190,8 +190,6 @@ J2,http://blog.cqshushu.com/x4.php?id=tvb&token=d1e01afe7ffba1e6e151134b2a2cf60a
 
 广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
 
-广东珠江,http://198.16.100.186:8278/zhujiang/playlist.m3u8?tid=MABA9665191696651916&ct=20297&tsum=7203a7f7ad20991964d837ba5ee8b7bb
-
 广东新闻,http://171.38.221.163:8082/tsfile/live/1024_1.m3u8
 
 广东民生,http://171.38.221.163:8082/tsfile/live/1025_1.m3u8

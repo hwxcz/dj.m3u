@@ -3,15 +3,16 @@
 广东珠江台,#genre#
 广东珠江1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 
-广东珠江2,http://bxtv.3a.ink/api.php?id=gdzj
+广东珠江2,http://go.bkpcp.top/mg/gdzj
 
+广东珠江频道,http://113.65.9.181:4013/udp/239.77.0.114:5146
 
 广东珠江3,http://14.112.103.59:8000/rtp/239.20.0.63:3148
 广东珠江4,http://14.112.103.59:8000/rtp/239.20.0.64:3144
 
 广东珠江5,http://117.141.162.238:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广东珠江6,http://go.bkpcp.top/mg/gdzj
+广东珠江6,http://bxtv.3a.ink/api.php?id=gdzj
 
 广东珠江7,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 

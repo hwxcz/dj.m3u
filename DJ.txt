@@ -3,6 +3,8 @@
 广东珠江台,#genre#
 广东珠江1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 
+广东珠江频道,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
+
 广东珠江2,http://go.bkpcp.top/mg/gdzj
 
 广东珠江3,http://14.112.103.59:8000/rtp/239.20.0.63:3148

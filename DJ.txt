@@ -29,7 +29,7 @@
 
 广东珠江14,http://183.234.143.5:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广东珠江15,http://sosi.fallprojects.org:19981/stream/channelid/1992017484?ticket=03d3b7a6f85d243d708b43f04545d398b7d09316
+
 
 
 电视家,#genre#

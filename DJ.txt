@@ -27,7 +27,7 @@
 
 广东珠江13,http://163.142.186.49:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广东珠江14,http://183.234.143.5:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江14,http://116.22.147.101:54321/rtp/239.77.0.1:5146
 
 
 

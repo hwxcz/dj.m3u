@@ -1,7 +1,7 @@
 广东频道,#group#
 
 广东珠江台,#genre#
-广东珠江1,http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
+广东珠江1,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
 
 广东珠江台,http://blog.cqshushu.com/gddf.php?id=gdzj&token=798b40365b380413c0e35d8e58bd9882
 广东民生,http://blog.cqshushu.com/gddf.php?id=gdms&token=798b40365b380413c0e35d8e58bd9882

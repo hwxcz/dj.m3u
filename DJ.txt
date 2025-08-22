@@ -3,11 +3,12 @@
 广东珠江台,#genre#
 广东珠江1,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
 
-广东珠江台,http://blog.cqshushu.com/gddf.php?id=gdzj&token=798b40365b380413c0e35d8e58bd9882
-广东民生,http://blog.cqshushu.com/gddf.php?id=gdms&token=798b40365b380413c0e35d8e58bd9882
-广东体育,http://blog.cqshushu.com/gddf.php?id=gdty&token=798b40365b380413c0e35d8e58bd9882
-大湾区卫视,http://blog.cqshushu.com/gddf.php?id=dwqws1&token=798b40365b380413c0e35d8e58bd9882
-大湾区卫视(海外),http://blog.cqshushu.com/gddf.php?id=dwqws2&token=798b40365b380413c0e35d8e58bd9882
+广东珠江台,http://blog.cqshushu.com/gddf.php?id=gdzj&token=f1336c98ce3b340e9f62f670585a256d
+广东民生,http://blog.cqshushu.com/gddf.php?id=gdms&token=f1336c98ce3b340e9f62f670585a256d
+广东体育,http://blog.cqshushu.com/gddf.php?id=gdty&token=f1336c98ce3b340e9f62f670585a256d
+大湾区卫视,http://blog.cqshushu.com/gddf.php?id=dwqws1&token=f1336c98ce3b340e9f62f670585a256d
+大湾区卫视(海外),http://blog.cqshushu.com/gddf.php?id=dwqws2&token=f1336c98ce3b340e9f62f670585a256d
+
 
 
 广东珠江2,http://go.bkpcp.top/mg/gdzj

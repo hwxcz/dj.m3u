@@ -1,11 +1,11 @@
 广东频道,#group#
 广东珠江台,#genre#
 
-广东卫视,http://113.95.136.140:9999/tsfile/live/0125_1.m3u8
-广东珠江,http://113.95.136.140:9999/tsfile/live/1010_1.m3u8
-广东新闻,http://113.95.136.140:9999/tsfile/live/1011_1.m3u8
-广东公共,http://113.95.136.140:9999/tsfile/live/1012_1.m3u8
-广东体育,http://113.95.136.140:9999/tsfile/live/1013_1.m3u8
+荔枝卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
+荔枝珠江,http://www.kaniptv.cn/zy/cd.php?id=1183
+荔枝新闻,http://www.kaniptv.cn/zy/cd.php?id=1186
+荔枝民生,http://www.kaniptv.cn/zy/cd.php?id=1185
+荔枝体育,http://www.kaniptv.cn/zy/cd.php?id=1184
 
 
 

@@ -16,6 +16,10 @@
 广东珠江,http://119.123.76.234:8086/hls/47/index.m3u8
 
 
+
+广东珠江0,http://go.bkpcp.top/mg/gdzj
+
+
 广东珠江1,https://hnyst.130519.xyz/200000001898/460000089800010091/1.m3u8?IASHttpSessionId=OTT741820250823123333009794
 
 
@@ -39,11 +43,6 @@
 
 广东珠江11,http://14.145.130.191:9082/udp/239.77.0.114:5146
 
-广东珠江12,http://go.bkpcp.top/mg/gdzj
-
-
-
-
 
 
 
@@ -56,6 +55,21 @@
 大湾区卫视,http://blog.cqshushu.com/gddf.php?id=dwqws1&token=38eb292281cf8d6f13b04576dd491803
 大湾区卫视(海外),http://blog.cqshushu.com/gddf.php?id=dwqws2&token=38eb292281cf8d6f13b04576dd491803
 
+
+
+广东频道,#genre#
+
+广东移动,http://plex.cyruslee.top:8888/rtp/239.77.0.20:5146
+广东珠江,http://plex.cyruslee.top:8888/rtp/239.77.0.114:5146
+广东新闻,http://plex.cyruslee.top:8888/rtp/239.77.0.173:5146
+广东民生,http://plex.cyruslee.top:8888/rtp/239.77.0.225:5146
+广东体育,http://plex.cyruslee.top:8888/rtp/239.77.0.112:5146
+湾区卫视,http://plex.cyruslee.top:8888/rtp/239.77.0.215:5146
+广东少儿,http://plex.cyruslee.top:8888/rtp/239.77.0.250:5146
+睛彩青少高清,http://plex.cyruslee.top:8888/rtp/239.77.1.22:5146
+睛彩竞技高清,http://plex.cyruslee.top:8888/rtp/239.77.1.20:5146
+睛彩篮球高清,http://plex.cyruslee.top:8888/rtp/239.77.1.21:5146
+睛彩广场舞高清,http://plex.cyruslee.top:8888/rtp/239.77.1.23:5146
 
 
 
@@ -180,27 +194,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 
 
-深圳电信,#genre#
-
-广东卫视高清,http://183.53.109.67:9090/udp/239.77.1.19:5146
-广东卫视高清,http://183.53.109.67:9090/udp/239.77.1.152:5146
-广东卫视高清,http://183.53.109.67:9090/udp/239.77.0.84:5146
-广东卫视超清,http://183.53.109.67:9090/udp/239.77.0.166:5146
-
-广东珠江高清,http://183.53.109.67:9090/udp/239.77.0.1:5146
-广东珠江超清,http://183.53.109.67:9090/udp/239.77.0.114:5146
-广东珠江普清,http://183.53.109.67:9090/udp/239.77.0.94:5146
-
-
-
-广东新闻高清,http://183.53.109.67:9090/udp/239.77.0.173:5146
-广东民生高清,http://183.53.109.67:9090/udp/239.77.0.225:5146
-广东体育高清,http://183.53.109.67:9090/udp/239.77.0.112:5146
-大湾区卫视高清,http://183.53.109.67:9090/udp/239.77.0.215:5146
-广东影视高清,http://183.53.109.67:9090/udp/239.77.0.217:5146
-广东少儿高清,http://183.53.109.67:9090/udp/239.77.0.250:5146
-嘉佳卡通高清,http://183.53.109.67:9090/udp/239.77.0.179:5146
-
 
 
 
@@ -229,19 +222,9 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 
 
-广东频道,#genre#
 
-广东移动,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.20:5146
-广东珠江,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.114:5146
-广东新闻,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.173:5146
-广东民生,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.225:5146
-广东体育,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.112:5146
-湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
-广东少儿,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.250:5146
-睛彩青少高清,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.22:5146
-睛彩竞技高清,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.20:5146
-睛彩篮球高清,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.21:5146
-睛彩广场舞高清,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.23:5146
+
+
 
 
 央视频道,#genre#

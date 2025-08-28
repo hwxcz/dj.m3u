@@ -45,6 +45,21 @@
 
 
 
+广东代理,#genre#
+
+卫视001,http://go.bkpcp.top/mg/gdws
+珠江002,http://go.bkpcp.top/mg/gdzj
+新闻003,http://go.bkpcp.top/mg/gdxw
+民生004,http://go.bkpcp.top/mg/gdms
+体育005,http://go.bkpcp.top/mg/gdty
+少儿006,http://go.bkpcp.top/mg/gdse
+大湾区卫视,http://go.bkpcp.top/mg/dwqws 
+广东影视,http://go.bkpcp.top/mg/gdys
+
+
+
+
+
 
 珠江,#genre#
 
@@ -57,15 +72,6 @@
 
 
 
-广东代理,#genre#
-
-卫视001,http://go.bkpcp.top/mg/gdws
-珠江002,http://go.bkpcp.top/mg/gdzj
-新闻003,http://go.bkpcp.top/mg/gdxw
-民生004,http://go.bkpcp.top/mg/gdms
-体育005,http://go.bkpcp.top/mg/gdty
-大湾区卫视,http://go.bkpcp.top/mg/dwqws 
-广东影视,http://go.bkpcp.top/mg/gdys
 
 
 

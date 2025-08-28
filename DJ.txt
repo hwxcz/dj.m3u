@@ -74,6 +74,48 @@
 
 
 
+珠江组播,#genre#
+
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.152:5146
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.84:5146
+广东卫视超清,http://hulk.optimus66.top:4000/rtp/239.77.0.166:5146
+广东珠江高清,http://hulk.optimus66.top:4000/rtp/239.77.0.1:5146
+广东珠江超清,http://hulk.optimus66.top:4000/rtp/239.77.0.114:5146
+广东新闻高清,http://hulk.optimus66.top:4000/rtp/239.77.0.173:5146
+广东民生高清,http://hulk.optimus66.top:4000/rtp/239.77.0.225:5146
+大湾区卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.215:5146
+广东体育高清,http://hulk.optimus66.top:4000/rtp/239.77.0.112:5146
+广东体育超清,http://hulk.optimus66.top:4000/udp/239.77.0.168:5146
+
+
+
+
+
+
+广东电信,#genre#
+
+广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.1.19:5146
+广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.1.152:5146
+广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.84:5146
+广东卫视超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.166:5146
+广东珠江高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.1:5146
+广东珠江超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.114:5146
+广东新闻高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.173:5146
+广东民生高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.225:5146
+广东体育高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.112:5146
+广东体育超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.168:5146
+经济科教高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.85:5146
+经济科教超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.167:5146
+大湾区卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.215:5146
+广东影视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.217:5146
+广东少儿高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.250:5146
+嘉佳卡通高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.179:5146
+
+肇庆综合高清,http://ikuai.haleeyo.cn:9003/udp/239.253.43.1:5146
+肇庆生活服务高清,http://ikuai.haleeyo.cn:9003/udp/239.253.43.2:5146
+
+
 
 广东系列,#genre#
 
@@ -129,10 +171,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 广东体育1,http://183.24.62.163:44443/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
-珠江台,http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
-
-
-
 
 
 
@@ -157,53 +195,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 广东少儿,http://171.38.221.191:8082/tsfile/live/1023_1.m3u8
 
 嘉佳卡通,http://171.38.221.191:8082/tsfile/live/1014_1.m3u8
-
-
-
-珠江组播,#genre#
-
-广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146
-广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.152:5146
-广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.84:5146
-广东卫视超清,http://hulk.optimus66.top:4000/rtp/239.77.0.166:5146
-广东珠江高清,http://hulk.optimus66.top:4000/rtp/239.77.0.1:5146
-广东珠江超清,http://hulk.optimus66.top:4000/rtp/239.77.0.114:5146
-广东新闻高清,http://hulk.optimus66.top:4000/rtp/239.77.0.173:5146
-广东民生高清,http://hulk.optimus66.top:4000/rtp/239.77.0.225:5146
-大湾区卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.215:5146
-广东体育高清,http://hulk.optimus66.top:4000/rtp/239.77.0.112:5146
-广东体育超清,http://hulk.optimus66.top:4000/udp/239.77.0.168:5146
-
-
-
-
-
-
-广东电信,#genre#
-
-广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.1.19:5146
-广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.1.152:5146
-广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.84:5146
-广东卫视超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.166:5146
-广东珠江高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.1:5146
-广东珠江超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.114:5146
-广东新闻高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.173:5146
-广东民生高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.225:5146
-广东体育高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.112:5146
-广东体育超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.168:5146
-经济科教高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.85:5146
-经济科教超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.167:5146
-大湾区卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.215:5146
-广东影视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.217:5146
-广东少儿高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.250:5146
-嘉佳卡通高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.179:5146
-
-肇庆综合高清,http://ikuai.haleeyo.cn:9003/udp/239.253.43.1:5146
-肇庆生活服务高清,http://ikuai.haleeyo.cn:9003/udp/239.253.43.2:5146
-
-
-
-
 
 
 

@@ -445,32 +445,22 @@ Channel [V],http://tool.wifi942.com:5555/酒店代理/深圳酒店.php?id=127
 
 香港代理,#genre#
 
-凤凰中文,http://dsm.ccb912.top:9998/udp/239.93.0.162:2192
-凤凰中文,http://dsm.ccb912.top:9998/udp/239.93.1.9:2192
-凤凰资讯,http://dsm.ccb912.top:9998/udp/239.93.0.118:2191
-凤凰资讯,http://dsm.ccb912.top:9998/udp/239.93.1.4:2191
-星空卫视,http://dsm.ccb912.top:9998/udp/239.93.0.156:2193
-星空卫视,http://dsm.ccb912.top:9998/udp/239.93.1.10:2193
-CHANNEL-V,http://dsm.ccb912.top:9998/udp/239.93.0.157:2194
-CHANNEL-V,http://dsm.ccb912.top:9998/udp/239.93.1.7:2194
-
-
-无线新闻台,http://bx.757888.xyz/api.php?id=wxxw
-
-翡翠台,http://bx.757888.xyz/api.php?id=fct
-
-凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
-
-凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
-
-凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
-
-
-鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-無綫新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+PopC,http://bxtv.3a.ink/api.php?id=popc
+VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
+广东体育,http://bxtv.3a.ink/api.php?id=gdty
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 
 
 极速港台,#genre#

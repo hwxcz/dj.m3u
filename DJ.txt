@@ -74,22 +74,6 @@
 
 
 
-珠江,#genre#
-
-广东卫视,http://blog.cqshushu.com/gddf.php?id=gdws&token=a2950792ba0dba2c8fe398a04f81f564
-广东珠江,http://blog.cqshushu.com/gddf.php?id=gdzj&token=a2950792ba0dba2c8fe398a04f81f564
-广东民生,http://blog.cqshushu.com/gddf.php?id=gdms&token=a2950792ba0dba2c8fe398a04f81f564
-广东体育,http://blog.cqshushu.com/gddf.php?id=gdty&token=a2950792ba0dba2c8fe398a04f81f564
-大湾区卫视,http://blog.cqshushu.com/gddf.php?id=dwqws1&token=a2950792ba0dba2c8fe398a04f81f564
-大湾区卫视(海外),http://blog.cqshushu.com/gddf.php?id=dwqws2&token=a2950792ba0dba2c8fe398a04f81f564
-广东影视,http://blog.cqshushu.com/gddf.php?id=gdys&token=a2950792ba0dba2c8fe398a04f81f564
-广东4K,http://blog.cqshushu.com/gddf.php?id=gd4k&token=a2950792ba0dba2c8fe398a04f81f564
-广东少儿,http://blog.cqshushu.com/gddf.php?id=gdse&token=a2950792ba0dba2c8fe398a04f81f564
-
-
-
-
-
 
 珠江组播,#genre#
 
@@ -112,25 +96,18 @@
 
 广东电信,#genre#
 
-广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.1.19:5146
-广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.1.152:5146
-广东卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.84:5146
-广东卫视超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.166:5146
-广东珠江高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.1:5146
-广东珠江超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.114:5146
-广东新闻高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.173:5146
-广东民生高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.225:5146
-广东体育高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.112:5146
-广东体育超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.168:5146
-经济科教高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.85:5146
-经济科教超清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.167:5146
-大湾区卫视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.215:5146
-广东影视高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.217:5146
-广东少儿高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.250:5146
-嘉佳卡通高清,http://ikuai.haleeyo.cn:9003/udp/239.77.0.179:5146
-
-肇庆综合高清,http://ikuai.haleeyo.cn:9003/udp/239.253.43.1:5146
-肇庆生活服务高清,http://ikuai.haleeyo.cn:9003/udp/239.253.43.2:5146
+广东卫视,http://183.236.43.98:4111/udp/239.77.1.19:5146
+广东卫视,http://183.236.43.98:4111/udp/239.77.1.152:5146
+广东卫视,http://183.236.43.98:4111/udp/239.77.0.166:5146
+广东珠江频道,http://183.236.43.98:4111/udp/239.77.0.1:5146
+广东珠江频道,http://183.236.43.98:4111/udp/239.77.0.114:5146
+广东新闻频道,http://183.236.43.98:4111/udp/239.77.0.173:5146
+广东民生频道,http://183.236.43.98:4111/udp/239.77.0.225:5146
+广东体育频道,http://183.236.43.98:4111/udp/239.77.0.112:5146
+广东体育频道,http://183.236.43.98:4111/udp/239.77.0.168:5146
+广东经济科教,http://183.236.43.98:4111/udp/239.77.0.85:5146
+广东经济科教,http://183.236.43.98:4111/udp/239.77.0.167:5146
+广东大湾区卫视,http://183.236.43.98:4111/udp/239.77.0.215:5146
 
 
 
@@ -199,19 +176,19 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 
 广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
 
-广东新闻,http://171.38.221.191:8082/tsfile/live/1024_1.m3u8
+广东新闻,http://171.38.221.2:8082/tsfile/live/1024_1.m3u8
 
-广东民生,http://171.38.221.191:8082/tsfile/live/1025_1.m3u8
+广东民生,http://171.38.221.2:8082/tsfile/live/1025_1.m3u8
 
-广东体育,http://171.38.221.191:8082/tsfile/live/1006_1.m3u8
+广东体育,http://171.38.221.2:8082/tsfile/live/1006_1.m3u8
 
-大湾区卫视,http://171.38.221.191:8082/tsfile/live/1027_1.m3u8
+大湾区卫视,http://171.38.221.2:8082/tsfile/live/1027_1.m3u8
 
-广东影视,http://171.38.221.191:8082/tsfile/live/1043_1.m3u8
+广东影视,http://171.38.221.2:8082/tsfile/live/1043_1.m3u8
 
-广东少儿,http://171.38.221.191:8082/tsfile/live/1023_1.m3u8
+广东少儿,http://171.38.221.2:8082/tsfile/live/1023_1.m3u8
 
-嘉佳卡通,http://171.38.221.191:8082/tsfile/live/1014_1.m3u8
+嘉佳卡通,http://171.38.221.2:8082/tsfile/live/1014_1.m3u8
 
 
 

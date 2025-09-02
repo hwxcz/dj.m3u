@@ -9,6 +9,15 @@
 
 珠江台,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
 
+新闻台,http://113.81.20.131:20443/tsfile/live/1008_1.m3u8
+民生台,http://113.81.20.131:20443/tsfile/live/1006_1.m3u8
+体育台,http://113.81.20.131:20443/tsfile/live/1003_1.m3u8
+大湾区台,http://113.81.20.131:20443/tsfile/live/1004_1.m3u8
+少儿台,http://113.81.20.131:20443/tsfile/live/1007_1.m3u8
+
+
+
+
 广东珠江,http://119.123.177.78:8086/hls/47/index.m3u8
 
 广东珠江,http://119.123.76.176:8086/hls/47/index.m3u8

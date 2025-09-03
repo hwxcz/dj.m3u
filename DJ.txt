@@ -87,7 +87,8 @@ TVB星河,http://113.64.147.42:8811/hls/35/index.m3u8
 民视台,http://113.64.147.42:8811/hls/38/index.m3u8
 风云音乐,http://113.64.147.42:8811/hls/39/index.m3u8
 
-
+CCTV-1,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv1_2/index.m3u8
+CCTV-13,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv13_2/index.m3u8
 
 
 

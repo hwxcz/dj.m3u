@@ -71,6 +71,10 @@
 
 广东代理,#genre#
 
+珠江1,http://cdn2.163189.xyz/163189/gdzj
+珠江2,https://cdn2.101.qzz.io/163189/gdzj
+珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
 卫视001,http://go.bkpcp.top/mg/gdws
 珠江002,http://go.bkpcp.top/mg/gdzj
 珠江02,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
@@ -83,6 +87,7 @@
 
 
 揭阳酒店,#genre#
+
 广东卫视,http://113.64.147.26:8811/hls/16/index.m3u8
 广东珠江,http://113.64.147.26:8811/hls/17/index.m3u8
 广东公共,http://113.64.147.26:8811/hls/29/index.m3u8

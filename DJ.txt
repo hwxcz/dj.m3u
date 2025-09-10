@@ -79,6 +79,16 @@
 
 
 
+凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
+凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
+
+
+
+
+
 广东代理,#genre#
 
 珠江1,http://cdn2.163189.xyz/163189/gdzj

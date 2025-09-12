@@ -9,23 +9,6 @@
 
 荔枝珠江台,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
 
-广东新闻,http://atsj.tv.inf.ua/php/gd.php?id=gdxw
-
-广东珠江,http://atsj.tv.inf.ua/php/gd.php?id=gdzj
-
-广东体育,http://atsj.tv.inf.ua/php/gd.php?id=gdty
-
-广东民生,http://atsj.tv.inf.ua/php/gd.php?id=gdms
-
-广州综合,http://atsj.tv.inf.ua/php/gd.php?id=gzzh
-
-广东少儿,http://atsj.tv.inf.ua/php/gd.php?id=gdse
-
-深圳少儿,http://atsj.tv.inf.ua/php/gd.php?id=szse
-
-卫生健康,http://atsj.tv.inf.ua/php/gd.php?id=wsjk
-
-
 
 珠江台,http://113.81.20.131:20443/tsfile/live/0133_1.m3u8
 新闻台,http://113.81.20.131:20443/tsfile/live/1008_1.m3u8
@@ -71,6 +54,21 @@
 
 
 
+广东新闻,http://atsj.tv.inf.ua/php/gd.php?id=gdxw
+
+广东珠江,http://atsj.tv.inf.ua/php/gd.php?id=gdzj
+
+广东体育,http://atsj.tv.inf.ua/php/gd.php?id=gdty
+
+广东民生,http://atsj.tv.inf.ua/php/gd.php?id=gdms
+
+广州综合,http://atsj.tv.inf.ua/php/gd.php?id=gzzh
+
+广东少儿,http://atsj.tv.inf.ua/php/gd.php?id=gdse
+
+深圳少儿,http://atsj.tv.inf.ua/php/gd.php?id=szse
+
+卫生健康,http://atsj.tv.inf.ua/php/gd.php?id=wsjk
 
 
 

@@ -1,4 +1,33 @@
 广东频道,#group#
+广东频道,#genre#
+
+广东珠江,http://119.140.58.175:9901/tsfile/live/1000_1.m3u8
+广东新闻,http://119.140.58.175:9901/tsfile/live/1001_1.m3u8
+广东公共,http://119.140.58.175:9901/tsfile/live/1002_1.m3u8
+广东体育,http://119.140.58.175:9901/tsfile/live/1003_1.m3u8
+广东影视,http://119.140.58.175:9901/tsfile/live/1004_1.m3u8
+广东少儿,http://119.140.58.175:9901/tsfile/live/1006_1.m3u8
+岭南戏曲,http://119.140.58.175:9901/tsfile/live/1008_1.m3u8
+广东经济科教,http://119.140.58.175:9901/tsfile/live/1005_1.m3u8
+
+
+珠江组播,#genre#
+
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.152:5146
+广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.84:5146
+广东卫视超清,http://hulk.optimus66.top:4000/rtp/239.77.0.166:5146
+广东珠江高清,http://hulk.optimus66.top:4000/rtp/239.77.0.1:5146
+广东珠江超清,http://hulk.optimus66.top:4000/rtp/239.77.0.114:5146
+广东新闻高清,http://hulk.optimus66.top:4000/rtp/239.77.0.173:5146
+广东民生高清,http://hulk.optimus66.top:4000/rtp/239.77.0.225:5146
+大湾区卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.215:5146
+广东体育高清,http://hulk.optimus66.top:4000/rtp/239.77.0.112:5146
+广东体育超清,http://hulk.optimus66.top:4000/udp/239.77.0.168:5146
+
+
+
+
 广东珠江台,#genre#
 
 荔枝卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
@@ -30,17 +59,6 @@
 广东珠江,http://163.142.186.49:9901/tsfile/live/1018_1.m3u8
 
 广东体育,http://163.142.186.49:9901/tsfile/live/1026_1.m3u8
-
-
-广东珠江,http://119.140.58.175:9901/tsfile/live/1000_1.m3u8
-广东新闻,http://119.140.58.175:9901/tsfile/live/1001_1.m3u8
-广东公共,http://119.140.58.175:9901/tsfile/live/1002_1.m3u8
-广东体育,http://119.140.58.175:9901/tsfile/live/1003_1.m3u8
-广东影视,http://119.140.58.175:9901/tsfile/live/1004_1.m3u8
-广东经济科教,http://119.140.58.175:9901/tsfile/live/1005_1.m3u8
-广东少儿,http://119.140.58.175:9901/tsfile/live/1006_1.m3u8
-岭南戏曲,http://119.140.58.175:9901/tsfile/live/1008_1.m3u8
-
 
 
 
@@ -151,44 +169,6 @@ CCTV-1,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv1_2/index.m3u8
 CCTV-13,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv13_2/index.m3u8
 
 
-
-
-
-
-
-珠江组播,#genre#
-
-广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.19:5146
-广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.1.152:5146
-广东卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.84:5146
-广东卫视超清,http://hulk.optimus66.top:4000/rtp/239.77.0.166:5146
-广东珠江高清,http://hulk.optimus66.top:4000/rtp/239.77.0.1:5146
-广东珠江超清,http://hulk.optimus66.top:4000/rtp/239.77.0.114:5146
-广东新闻高清,http://hulk.optimus66.top:4000/rtp/239.77.0.173:5146
-广东民生高清,http://hulk.optimus66.top:4000/rtp/239.77.0.225:5146
-大湾区卫视高清,http://hulk.optimus66.top:4000/rtp/239.77.0.215:5146
-广东体育高清,http://hulk.optimus66.top:4000/rtp/239.77.0.112:5146
-广东体育超清,http://hulk.optimus66.top:4000/udp/239.77.0.168:5146
-
-
-
-
-
-
-广东电信,#genre#
-
-广东卫视,http://58.62.235.86:10000/udp/239.77.1.19:5146
-广东卫视,http://58.62.235.86:10000/udp/239.77.1.152:5146
-广东卫视,http://58.62.235.86:10000/udp/239.77.0.166:5146
-广东珠江频道,http://58.62.235.86:10000/udp/239.77.0.1:5146
-广东珠江频道,http://58.62.235.86:10000/udp/239.77.0.114:5146
-广东新闻频道,http://58.62.235.86:10000/udp/239.77.0.173:5146
-广东民生频道,http://58.62.235.86:10000/udp/239.77.0.225:5146
-广东体育频道,http://58.62.235.86:10000/udp/239.77.0.112:5146
-广东体育频道,http://58.62.235.86:10000/udp/239.77.0.168:5146
-广东经济科教,http://58.62.235.86:10000/udp/239.77.0.85:5146
-广东经济科教,http://58.62.235.86:10000/udp/239.77.0.167:5146
-广东大湾区卫视,http://58.62.235.86:10000/udp/239.77.0.215:5146
 
 
 

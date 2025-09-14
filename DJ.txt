@@ -74,28 +74,26 @@
 
 
 
-广东新闻,http://atsj.tv.inf.ua/php/gd.php?id=gdxw
+广东新闻1,http://atsj.tv.inf.ua/php/gd.php?id=gdxw
 
-广东珠江,http://atsj.tv.inf.ua/php/gd.php?id=gdzj
+广东珠江1,http://atsj.tv.inf.ua/php/gd.php?id=gdzj
 
-广东体育,http://atsj.tv.inf.ua/php/gd.php?id=gdty
+广东体育1,http://atsj.tv.inf.ua/php/gd.php?id=gdty
 
-广东民生,http://atsj.tv.inf.ua/php/gd.php?id=gdms
+广东民生1,http://atsj.tv.inf.ua/php/gd.php?id=gdms
 
-广州综合,http://atsj.tv.inf.ua/php/gd.php?id=gzzh
+广州综合1,http://atsj.tv.inf.ua/php/gd.php?id=gzzh
 
-广东少儿,http://atsj.tv.inf.ua/php/gd.php?id=gdse
+广东少儿1,http://atsj.tv.inf.ua/php/gd.php?id=gdse
 
-深圳少儿,http://atsj.tv.inf.ua/php/gd.php?id=szse
+深圳少儿1,http://atsj.tv.inf.ua/php/gd.php?id=szse
 
-卫生健康,http://atsj.tv.inf.ua/php/gd.php?id=wsjk
+卫生健康1,http://atsj.tv.inf.ua/php/gd.php?id=wsjk
 
 
 
 
 广东珠江0,http://bxtv.3a.ink/api.php?id=gdzj
-
-
 
 广东珠江2,http://r.jdshipin.com/sE5vO
 
@@ -105,11 +103,9 @@
 
 广东珠江5,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
-
 广东珠江8,http://47.106.224.31:33795/hls/39/index.m3u8
 
 广东珠江9,http://183.24.62.163:44443/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-
 
 广东珠江10,http://163.142.186.49:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 

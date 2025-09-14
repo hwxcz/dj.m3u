@@ -22,7 +22,7 @@
 新闻003,http://go.bkpcp.top/mg/gdxw
 民生004,http://go.bkpcp.top/mg/gdms
 体育005,http://go.bkpcp.top/mg/gdty
-大湾区卫视,http://go.bkpcp.top/mg/dwqws 
+湾区卫视,http://go.bkpcp.top/mg/dwqws 
 广东影视,http://go.bkpcp.top/mg/gdys
 
 

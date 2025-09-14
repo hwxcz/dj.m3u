@@ -1,6 +1,9 @@
 广东频道,#group#
 广东频道,#genre#
 
+广东珠江台,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
+珠江台,http://bxtv.3a.ink/api.php?id=gdzj
+
 广东珠江,http://119.140.58.175:9901/tsfile/live/1000_1.m3u8
 广东新闻,http://119.140.58.175:9901/tsfile/live/1001_1.m3u8
 广东公共,http://119.140.58.175:9901/tsfile/live/1002_1.m3u8
@@ -11,19 +14,18 @@
 广东经济科教,http://119.140.58.175:9901/tsfile/live/1005_1.m3u8
 
 
-珠江组播,#genre#
 
-广东卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.1.19:5146
-广东卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.1.152:5146
-广东卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.0.84:5146
-广东卫视超清,http://pr.19760929.xyz:9688/rtp/239.77.0.166:5146
-广东珠江高清,http://pr.19760929.xyz:9688/rtp/239.77.0.94:5146
-广东珠江超清,http://pr.19760929.xyz:9688/rtp/239.77.0.114:5146
-广东新闻高清,http://pr.19760929.xyz:9688/rtp/239.77.0.173:5146
-广东民生高清,http://pr.19760929.xyz:9688/rtp/239.77.0.225:5146
-大湾区卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.0.215:5146
-广东体育高清,http://pr.19760929.xyz:9688/rtp/239.77.0.112:5146
-广东体育超清,http://pr.19760929.xyz:9688/udp/239.77.0.168:5146
+广东代理,#genre#
+
+卫视001,http://go.bkpcp.top/mg/gdws
+珠江002,http://go.bkpcp.top/mg/gdzj
+新闻003,http://go.bkpcp.top/mg/gdxw
+民生004,http://go.bkpcp.top/mg/gdms
+体育005,http://go.bkpcp.top/mg/gdty
+大湾区卫视,http://go.bkpcp.top/mg/dwqws 
+广东影视,http://go.bkpcp.top/mg/gdys
+
+
 
 
 
@@ -113,6 +115,9 @@
 
 广东珠江11,http://14.145.130.191:9082/udp/239.77.0.114:5146
 
+珠江1,http://cdn2.163189.xyz/163189/gdzj
+珠江2,https://cdn2.101.qzz.io/163189/gdzj
+珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
@@ -124,21 +129,20 @@
 
 
 
+珠江组播,#genre#
 
-广东代理,#genre#
+广东卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.1.19:5146
+广东卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.1.152:5146
+广东卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.0.84:5146
+广东卫视超清,http://pr.19760929.xyz:9688/rtp/239.77.0.166:5146
+广东珠江高清,http://pr.19760929.xyz:9688/rtp/239.77.0.94:5146
+广东珠江超清,http://pr.19760929.xyz:9688/rtp/239.77.0.114:5146
+广东新闻高清,http://pr.19760929.xyz:9688/rtp/239.77.0.173:5146
+广东民生高清,http://pr.19760929.xyz:9688/rtp/239.77.0.225:5146
+大湾区卫视高清,http://pr.19760929.xyz:9688/rtp/239.77.0.215:5146
+广东体育高清,http://pr.19760929.xyz:9688/rtp/239.77.0.112:5146
+广东体育超清,http://pr.19760929.xyz:9688/udp/239.77.0.168:5146
 
-珠江1,http://cdn2.163189.xyz/163189/gdzj
-珠江2,https://cdn2.101.qzz.io/163189/gdzj
-珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-
-卫视001,http://go.bkpcp.top/mg/gdws
-珠江002,http://go.bkpcp.top/mg/gdzj
-珠江02,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
-新闻003,http://go.bkpcp.top/mg/gdxw
-民生004,http://go.bkpcp.top/mg/gdms
-体育005,http://go.bkpcp.top/mg/gdty
-大湾区卫视,http://go.bkpcp.top/mg/dwqws 
-广东影视,http://go.bkpcp.top/mg/gdys
 
 
 

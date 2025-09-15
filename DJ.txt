@@ -144,7 +144,7 @@
 
 
 
-电信组播#genre#
+电信组播,#genre#
 
 广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.19:5146
 广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.152:5146

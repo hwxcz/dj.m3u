@@ -144,6 +144,28 @@
 
 
 
+电信组播#genre#
+
+广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.19:5146
+广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.152:5146
+广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.84:5146
+广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.166:5146
+广东珠江,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.1:5146
+广东珠江,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.114:5146
+广东新闻,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.173:5146
+广东民生,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.225:5146
+广东体育,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.112:5146
+广东体育,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.168:5146
+经济科教,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.85:5146
+经济科教,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.167:5146
+大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
+广东影视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.217:5146
+广东少儿,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.250:5146
+嘉佳卡通,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.179:5146
+岭南戏曲,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.122:5146
+
+
+
 
 揭阳酒店,#genre#
 

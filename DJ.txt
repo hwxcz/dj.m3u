@@ -35,14 +35,7 @@
 
 广东珠江台,#genre#
 
-荔枝卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
-荔枝珠江,http://www.kaniptv.cn/zy/cd.php?id=1183
-荔枝新闻,http://www.kaniptv.cn/zy/cd.php?id=1186
-荔枝民生,http://www.kaniptv.cn/zy/cd.php?id=1185
-荔枝体育,http://www.kaniptv.cn/zy/cd.php?id=1184
-
 荔枝珠江台,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
-
 
 珠江台,http://113.81.20.131:20443/tsfile/live/0133_1.m3u8
 新闻台,http://113.81.20.131:20443/tsfile/live/1008_1.m3u8
@@ -75,27 +68,6 @@
 少儿频道,http://119.123.177.78:8086/hls/40/index.m3u8 
 
 
-
-
-广东新闻1,http://atsj.tv.inf.ua/php/gd.php?id=gdxw
-
-广东珠江1,http://atsj.tv.inf.ua/php/gd.php?id=gdzj
-
-广东体育1,http://atsj.tv.inf.ua/php/gd.php?id=gdty
-
-广东民生1,http://atsj.tv.inf.ua/php/gd.php?id=gdms
-
-广州综合1,http://atsj.tv.inf.ua/php/gd.php?id=gzzh
-
-广东少儿1,http://atsj.tv.inf.ua/php/gd.php?id=gdse
-
-深圳少儿1,http://atsj.tv.inf.ua/php/gd.php?id=szse
-
-卫生健康1,http://atsj.tv.inf.ua/php/gd.php?id=wsjk
-
-
-
-
 广东珠江0,http://bxtv.3a.ink/api.php?id=gdzj
 
 广东珠江2,http://r.jdshipin.com/sE5vO
@@ -126,74 +98,29 @@
 珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 
 
-
-
-珠江组播,#genre#
-
-广东卫视高清,http://61.145.188.90:50005/rtp/239.77.1.19:5146
-广东卫视高清,http://61.145.188.90:50005/rtp/239.77.1.152:5146
-广东卫视高清,http://61.145.188.90:50005/rtp/239.77.0.84:5146
-广东卫视超清,http://61.145.188.90:50005/rtp/239.77.0.166:5146
-广东珠江高清,http://61.145.188.90:50005/rtp/239.77.0.94:5146
-广东珠江超清,http://61.145.188.90:50005/rtp/239.77.0.114:5146
-广东新闻高清,http://61.145.188.90:50005/rtp/239.77.0.173:5146
-广东民生高清,http://61.145.188.90:50005/rtp/239.77.0.225:5146
-大湾区卫视高清,http://61.145.188.90:50005/rtp/239.77.0.215:5146
-广东体育高清,http://61.145.188.90:50005/rtp/239.77.0.112:5146
-广东体育超清,http://61.145.188.90:50005/udp/239.77.0.168:5146
-
-
-
-电信组播,#genre#
-
-广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.19:5146
-广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.1.152:5146
-广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.84:5146
-广东卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.166:5146
-广东珠江,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.1:5146
-广东珠江,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.114:5146
-广东新闻,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.173:5146
-广东民生,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.225:5146
-广东体育,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.112:5146
-广东体育,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.168:5146
-经济科教,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.85:5146
-经济科教,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.167:5146
-大湾区卫视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.215:5146
-广东影视,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.217:5146
-广东少儿,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.250:5146
-嘉佳卡通,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.179:5146
-岭南戏曲,http://zhengyilu503.myqnapcloud.com:5000/rtp/239.77.0.122:5146
-
-
-
-
-揭阳酒店,#genre#
-
-广东珠江,http://119.140.58.175:9901/tsfile/live/1000_1.m3u8
-广东新闻,http://119.140.58.175:9901/tsfile/live/1001_1.m3u8
-广东公共,http://119.140.58.175:9901/tsfile/live/1002_1.m3u8
-广东体育,http://119.140.58.175:9901/tsfile/live/1003_1.m3u8
-广东影视,http://119.140.58.175:9901/tsfile/live/1004_1.m3u8
-广东经济科教,http://119.140.58.175:9901/tsfile/live/1005_1.m3u8
-广东少儿,http://119.140.58.175:9901/tsfile/live/1006_1.m3u8
-岭南戏曲,http://119.140.58.175:9901/tsfile/live/1008_1.m3u8
-
-
-广东珠江 高清,http://113.15.187.126:8181/tsfile/live/1000_1.m3u8
-广东新闻 高清,http://113.15.187.126:8181/tsfile/live/1007_1.m3u8
-广东公共 高清,http://113.15.187.126:8181/tsfile/live/1002_1.m3u8
-广东体育 高清,http://113.15.187.126:8181/tsfile/live/1001_1.m3u8
-广东科教 高清,http://113.15.187.126:8181/tsfile/live/1003_1.m3u8
-广东影视 高清,http://113.15.187.126:8181/tsfile/live/1004_1.m3u8
-广东少儿 高清,http://113.15.187.126:8181/tsfile/live/1005_1.m3u8
-岭南戏剧 高清,http://113.15.187.126:8181/tsfile/live/1006_1.m3u8
-
-
-
 CCTV-1,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv1_2/index.m3u8
 CCTV-13,https://newbndtxy.liveplay.myqcloud.com/newbnd/necctv13_2/index.m3u8
 
 
+
+
+广东酒店,#genre#
+
+广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
+
+广东新闻,http://171.38.221.2:8082/tsfile/live/1024_1.m3u8
+
+广东民生,http://171.38.221.2:8082/tsfile/live/1025_1.m3u8
+
+广东体育,http://171.38.221.2:8082/tsfile/live/1006_1.m3u8
+
+大湾区卫视,http://171.38.221.2:8082/tsfile/live/1027_1.m3u8
+
+广东影视,http://171.38.221.2:8082/tsfile/live/1043_1.m3u8
+
+广东少儿,http://171.38.221.2:8082/tsfile/live/1023_1.m3u8
+
+嘉佳卡通,http://171.38.221.2:8082/tsfile/live/1014_1.m3u8
 
 
 
@@ -237,42 +164,6 @@ HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 广东珠江4,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 
 
-
-
-广东直播,#genre#
-
-广东卫视 高清,http://113.101.245.95:1020/udp/239.77.0.84:5146
-广东珠江 高清,http://113.101.245.95:1020/udp/239.77.0.1:5146
-广东新闻 高清,http://113.101.245.95:1020/udp/239.77.0.173:5146
-广东影视 高清,http://113.101.245.95:1020/udp/239.77.0.217:5146
-广东民生 高清,http://113.101.245.95:1020/udp/239.77.0.225:5146
-广东体育 高清,http://113.101.245.95:1020/udp/239.77.0.112:5146
-大湾区卫视 高清,http://113.101.245.95:1020/udp/239.77.0.215:5146
-广东少儿 高清,http://113.101.245.95:1020/udp/239.77.0.250:5146
-嘉佳卡通 高清,http://113.101.245.95:1020/udp/239.77.0.179:5146
-金鹰卡通 高清,http://113.101.245.95:1020/udp/239.77.0.164:5146
-
-
-
-
-
-广东酒店,#genre#
-
-广东珠江,http://47.106.224.31:33795/hls/39/index.m3u8
-
-广东新闻,http://171.38.221.2:8082/tsfile/live/1024_1.m3u8
-
-广东民生,http://171.38.221.2:8082/tsfile/live/1025_1.m3u8
-
-广东体育,http://171.38.221.2:8082/tsfile/live/1006_1.m3u8
-
-大湾区卫视,http://171.38.221.2:8082/tsfile/live/1027_1.m3u8
-
-广东影视,http://171.38.221.2:8082/tsfile/live/1043_1.m3u8
-
-广东少儿,http://171.38.221.2:8082/tsfile/live/1023_1.m3u8
-
-嘉佳卡通,http://171.38.221.2:8082/tsfile/live/1014_1.m3u8
 
 
 

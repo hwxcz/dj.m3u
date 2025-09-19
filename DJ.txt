@@ -50,7 +50,9 @@ TVB星河,http://113.64.147.64:8811/hls/35/index.m3u8
 广东经济科教,http://119.140.58.107:9901/tsfile/live/1005_1.m3u8
 
 广东体育,http://163.142.186.49:9901/tsfile/live/1026_1.m3u8
-
+广东体育,http://116.77.33.196:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://116.77.33.196:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://116.77.33.196:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 

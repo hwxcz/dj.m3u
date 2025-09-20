@@ -9,6 +9,7 @@
 
 广东珠江4,http://183.10.180.82:202/tsfile/live/1002_1.m3u8
 
+广东珠江5,http://r.jdshipin.com/sE5vO
 
 珠江台,http://bxtv.3a.ink/api.php?id=gdzj
 

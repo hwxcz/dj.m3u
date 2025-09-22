@@ -14,6 +14,13 @@
 珠江台,http://bxtv.3a.ink/api.php?id=gdzj
 
 
+卫视,http://36.36.200.198:44330/tsfile/live/0125_1.m3u8
+体育,http://36.36.200.198:44330/tsfile/live/1004_1.m3u8
+民生,http://36.36.200.198:44330/tsfile/live/1005_1.m3u8
+新闻,http://36.36.200.198:44330/tsfile/live/1006_1.m3u8
+
+
+
 广东卫视,http://113.64.147.51:8811/hls/16/index.m3u8
 广东珠江,http://113.64.147.51:8811/hls/17/index.m3u8
 广东民生,http://113.64.147.51:8811/hls/29/index.m3u8

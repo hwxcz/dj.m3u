@@ -83,6 +83,8 @@ TVB星河,http://113.64.147.51:8811/hls/35/index.m3u8
 湾区卫视,http://go.bkpcp.top/mg/dwqws 
 广东影视,http://go.bkpcp.top/mg/gdys
 
+中国气象,https://hls.liveshow.bdstatic.com/live/stream_bduid_619393875_10684565673-L1.m3u8
+中国天气,https://hls.liveshow.bdstatic.com/live/stream_bduid_2220686522_10683983477-L1.m3u8
 
 
 ﻿

@@ -7,7 +7,7 @@
 
 广东珠江3,http://cdn2.163189.xyz/163189/gdzj
 
-广东珠江4,http://183.10.180.82:202/tsfile/live/1002_1.m3u8
+广东珠江4,http://home.l-ht.cn:4000/rtp/239.77.0.114:5146
 
 广东珠江5,http://r.jdshipin.com/sE5vO
 

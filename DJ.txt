@@ -102,6 +102,25 @@ TVB星河,http://113.64.147.155:8811/hls/35/index.m3u8
 
 
 
+电视家,#genre#
+
+广东珠江,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
+广东珠江,http://ik.kimkimkk.top:2222/rtp/239.0.1.134:5173
+广东珠江,http://ik.kimkimkk.top:2222/rtp/239.0.1.6:5003
+广东新闻,http://ik.kimkimkk.top:2222/rtp/239.0.1.47:5006
+广东民生,http://ik.kimkimkk.top:2222/rtp/239.0.1.48:5005
+广东体育,http://ik.kimkimkk.top:2222/rtp/239.0.1.49:5004
+广东体育,http://ik.kimkimkk.top:2222/rtp/239.0.1.95:5057
+湾区卫视,http://ik.kimkimkk.top:2222/rtp/239.0.1.52:5009
+广东少儿,http://ik.kimkimkk.top:2222/rtp/239.0.1.55:5012
+广东影视,http://ik.kimkimkk.top:2222/rtp/239.0.1.169:6030
+广东影视,http://ik.kimkimkk.top:2222/rtp/239.0.1.54:5011
+广东经济,http://ik.kimkimkk.top:2222/rtp/239.0.1.51:5008
+广东经济,http://ik.kimkimkk.top:2222/rtp/239.0.1.94:5013
+岭南戏曲,http://ik.kimkimkk.top:2222/rtp/239.0.1.59:5073
+旅游卫视,http://ik.kimkimkk.top:2222/rtp/239.0.1.33:8304
+
+
 
 
 广东珠江台,#genre#

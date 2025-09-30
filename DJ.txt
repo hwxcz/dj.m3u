@@ -14,6 +14,21 @@
 凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 
+新聞台,http://a21.star2hk.com:8001/bysid/83
+
+資訊台,http://a21.star2hk.com:8003/bysid/78
+
+香港台,http://a21.star2hk.com:8001/bysid/85
+
+明珠台,http://a21.star2hk.com:8001/bysid/2
+
+翡翠台,http://a21.star2hk.com:8002/bysid/1
+
+財經台,http://a21.star2hk.com:8003/bysid/76
+
+TVB Plus,http://a21.star2hk.com:8001/bysid/82
+
+
 
 
 

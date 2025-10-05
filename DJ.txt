@@ -27,6 +27,18 @@ TVB星河,http://113.64.147.106:8811/hls/35/index.m3u8
 风云音乐,http://113.64.147.106:8811/hls/39/index.m3u8
 
 
+广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
+广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8
+广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
+广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
+广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
+广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
+优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
+嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
+大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
+广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
+
+
 
 
 广东荔枝台,#genre#

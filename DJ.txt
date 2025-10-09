@@ -1,7 +1,7 @@
 广东频道,#group#
 
 广东代理,#genre#
-
+珠江台,http://bxtv.3a.ink/api.php?id=gdzj
 卫视001,http://go.bkpcp.top/mg/gdws
 珠江002,http://go.bkpcp.top/mg/gdzj
 新闻003,http://go.bkpcp.top/mg/gdxw

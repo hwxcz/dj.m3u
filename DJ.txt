@@ -77,6 +77,22 @@ TVB星河,http://113.64.147.71:8811/hls/35/index.m3u8
 广东4K超高清,http://www.kaniptv.cn/zy/cd.php?id=1198
 
 
+广东,#genre#
+
+广东卫视,http://iptv.cqshushu.com/gddf.php?id=gdws&token=489480b8de34d82c9143c1e16451e159
+广东珠江,http://iptv.cqshushu.com/gddf.php?id=gdzj&token=489480b8de34d82c9143c1e16451e159
+广东体育,http://iptv.cqshushu.com/gddf.php?id=gdty&token=489480b8de34d82c9143c1e16451e159
+大湾区卫视,http://iptv.cqshushu.com/gddf.php?id=dwqws1&token=489480b8de34d82c9143c1e16451e159
+大湾区卫视(海外),http://iptv.cqshushu.com/gddf.php?id=dwqws2&token=489480b8de34d82c9143c1e16451e159
+广东影视,http://iptv.cqshushu.com/gddf.php?id=gdys&token=489480b8de34d82c9143c1e16451e159
+广东4K,http://iptv.cqshushu.com/gddf.php?id=gd4k&token=489480b8de34d82c9143c1e16451e159
+岭南戏曲,http://iptv.cqshushu.com/gddf.php?id=lnxq&token=489480b8de34d82c9143c1e16451e159
+广东移动,http://iptv.cqshushu.com/gddf.php?id=gdyd&token=489480b8de34d82c9143c1e16451e159
+广东少儿,http://iptv.cqshushu.com/gddf.php?id=gdse&token=489480b8de34d82c9143c1e16451e159
+嘉佳卡通,http://iptv.cqshushu.com/gddf.php?id=jjkt&token=489480b8de34d82c9143c1e16451e159
+
+
+
 
 广东频道,#genre#
 

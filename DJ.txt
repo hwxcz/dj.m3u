@@ -96,6 +96,56 @@ TVB星河,http://113.64.147.84:8811/hls/35/index.m3u8
 
 
 
+酷9荔枝,#genre#
+
+广东卫视,video://https://m.gdtv.cn/tvChannelDetail/43
+
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+
+广东珠江,video://https://m.gdtv.cn/tvChannelDetail/44
+
+广东珠江,video://https://www.gdtv.cn/tvChannelDetail/44
+
+广东新闻,video://https://m.gdtv.cn/tvChannelDetail/45
+
+广东新闻,video://https://www.gdtv.cn/tvChannelDetail/45
+
+广东民生,video://https://m.gdtv.cn/tvChannelDetail/48
+
+广东民生,video://https://www.gdtv.cn/tvChannelDetail/48
+
+广东体育,video://https://m.gdtv.cn/tvChannelDetail/47
+
+广东体育,video://https://www.gdtv.cn/tvChannelDetail/47
+
+大湾区卫视,video://https://m.gdtv.cn/tvChannelDetail/51
+
+大湾区卫视,video://https://www.gdtv.cn/tvChannelDetail/51
+
+大湾区卫视（海外）,video://https://m.gdtv.cn/tvChannelDetail/46
+
+大湾区卫视（海外）,video://https://www.gdtv.cn/tvChannelDetail/46
+
+广东少儿,video://https://m.gdtv.cn/tvChannelDetail/54
+
+广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
+
+嘉佳卡通,video://https://m.gdtv.cn/tvChannelDetail/66
+
+嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
+
+广东移动,video://https://m.gdtv.cn/tvChannelDetail/74
+
+广东移动,video://https://www.gdtv.cn/tvChannelDetail/74
+
+
+
+
+
+
+
+
+
 
 
 广东2,#genre#

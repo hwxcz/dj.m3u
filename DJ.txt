@@ -82,17 +82,6 @@ TVB星河,http://113.64.147.84:8811/hls/35/index.m3u8
 湾区卫视1,rtmp://116.63.53.136/live/dwqws
 
 
-广东卫视,http://www.kaniptv.cn/zy/cd.php?id=1182
-广东珠江,http://www.kaniptv.cn/zy/cd.php?id=1183
-广东新闻,http://www.kaniptv.cn/zy/cd.php?id=1186
-广东民生,http://www.kaniptv.cn/zy/cd.php?id=1185
-广东体育,http://www.kaniptv.cn/zy/cd.php?id=1184
-大湾区卫视,http://www.kaniptv.cn/zy/cd.php?id=1191
-大湾区卫视,http://www.kaniptv.cn/zy/cd.php?id=1197
-广东影视,http://www.kaniptv.cn/zy/cd.php?id=1199
-广东少儿,http://www.kaniptv.cn/zy/cd.php?id=1200
-嘉佳卡通,http://www.kaniptv.cn/zy/cd.php?id=1187
-广东4K超高清,http://www.kaniptv.cn/zy/cd.php?id=1198
 
 
 

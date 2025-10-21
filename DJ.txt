@@ -15,6 +15,11 @@
 湾区卫视,http://go.bkpcp.top/mg/dwqws 
 广东影视,http://go.bkpcp.top/mg/gdys
 
+广东珠江1,rtmp://116.63.53.136/live/gdzj
+广东民生1,rtmp://116.63.53.136/live/gdms
+湾区卫视1,rtmp://116.63.53.136/live/dwqws
+
+
 凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
@@ -213,18 +218,6 @@ TVB星河,http://113.64.147.8:8811/hls/35/index.m3u8
 珠江1,http://cdn2.163189.xyz/163189/gdzj
 珠江2,https://cdn2.101.qzz.io/163189/gdzj
 珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-
-
-
-凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
-珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
-
-
-
-
 
 
 

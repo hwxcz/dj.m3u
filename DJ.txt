@@ -88,6 +88,63 @@ TVB星河,http://113.64.147.8:8811/hls/35/index.m3u8
 
 
 
+移动中兴,#genre#
+
+广东卫视超清,http://txy918.synology.me:10000/rtp/239.20.0.99:3004
+广东卫视高清,http://txy918.synology.me:10000/rtp/239.20.0.101:2000
+
+
+广东珠江超清,http://txy918.synology.me:10000/rtp/239.20.0.63:3148
+广东珠江高清,http://txy918.synology.me:10000/rtp/239.20.0.64:3144
+
+
+广东新闻高清,http://txy918.synology.me:10000/rtp/239.21.0.93:3712
+
+
+广东民生高清,http://txy918.synology.me:10000/rtp/239.21.0.86:3684
+
+
+大湾区卫视高清,http://txy918.synology.me:10000/rtp/239.21.0.84:3676
+
+
+广东体育超清,http://txy918.synology.me:10000/rtp/239.20.0.97:3012
+广东体育高清,http://txy918.synology.me:10000/rtp/239.20.0.103:2004
+
+
+广东少儿高清,http://txy918.synology.me:10000/rtp/239.21.0.87:3688
+
+
+嘉佳卡通高清,http://txy918.synology.me:10000/rtp/239.21.0.94:3716
+
+
+广东影视高清,http://txy918.synology.me:10000/rtp/239.21.0.85:3680
+
+
+
+
+华为移动,#genre#
+
+
+广东卫视,http://txy918.synology.me:10000/rtp/239.10.0.45:1025
+广东卫视,http://txy918.synology.me:10000/rtp/239.10.0.111:1025
+
+广东珠江,http://txy918.synology.me:10000/rtp/239.10.0.63:1025
+广东珠江,http://txy918.synology.me:10000/rtp/239.10.0.62:1025
+广东珠江,http://txy918.synology.me:10000/rtp/239.11.0.16:1025
+
+广东民生,http://txy918.synology.me:10000/rtp/239.11.0.80:1025
+
+广东新闻,http://txy918.synology.me:10000/rtp/239.10.0.199:1025
+
+广东体育,http://txy918.synology.me:10000/rtp/239.10.0.47:1025
+广东体育,http://txy918.synology.me:10000/rtp/239.10.0.113:1025
+
+大湾区卫视,http://txy918.synology.me:10000/rtp/239.11.0.78:1025
+
+广东影视,http://txy918.synology.me:10000/rtp/239.11.0.79:1025
+
+
+
 
 
 酷9荔枝,#genre#

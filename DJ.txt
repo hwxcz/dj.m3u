@@ -6,7 +6,7 @@
 珠江2,https://cdn2.101.qzz.io/163189/gdzj
 珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
-珠江4,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+珠江4,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 
 卫视001,http://go.bkpcp.top/mg/gdws

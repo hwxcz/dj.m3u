@@ -8,6 +8,9 @@
 
 珠江4,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
+珠江5,http://198.204.234.58:82/live/gdzj.m3u8?jsbt=1762220712&jsbk=fa3a67889b7145631480d098686cfc1f
+
+
 
 卫视001,http://go.bkpcp.top/mg/gdws
 珠江002,http://go.bkpcp.top/mg/gdzj

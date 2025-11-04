@@ -9,9 +9,8 @@
 珠江4,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 珠江5,http://wmh.wmh.ink:6633/rtp/239.77.0.114:5146
-珠江5,http://wmh.wmh.ink:6633/rtp/239.77.0.1:5146
-珠江5,http://wmh.wmh.ink:6633/rtp/239.77.0.3:5146
-珠江5,http://wmh.wmh.ink:6633/rtp/239.77.1.94:5146
+
+珠江6,http://wmh.wmh.ink:6633/rtp/239.77.1.94:5146
 
 
 

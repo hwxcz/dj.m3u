@@ -30,7 +30,7 @@
 香港新闻3,http://hls.168.us.kg/u/332/master.m3u8
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+
 亚洲音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 

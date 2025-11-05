@@ -11,12 +11,6 @@
 珠江5,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 
-
-
-
-
-
-
 卫视001,http://go.bkpcp.top/mg/gdws
 珠江002,http://go.bkpcp.top/mg/gdzj
 新闻003,http://go.bkpcp.top/mg/gdxw

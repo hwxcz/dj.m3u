@@ -10,6 +10,9 @@
 
 珠江5,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
+珠江6,http://106.53.99.30/tv/api.php?id=gdzj
+
+
 
 卫视001,http://go.bkpcp.top/mg/gdws
 珠江002,http://go.bkpcp.top/mg/gdzj
@@ -575,6 +578,25 @@ Channel [V],http://tool.wifi942.com:5555/酒店代理/深圳酒店.php?id=127
 云南卫视,http://tool.wifi942.com:5555/酒店代理/深圳酒店.php?id=157
 
 
+天冀央视,#genre#
+
+cctv1,http://by4.nty.tv189.cn/live/tm-cctv1-2000k.m3u8
+cctv2,http://by4.nty.tv189.cn/live/tm-cctv2-2000k.m3u8
+cctv3,http://by4.nty.tv189.cn/live/tm-cctv3-2000k.m3u8
+cctv4,http://by4.nty.tv189.cn/live/tm-cctv4-2000k.m3u8
+cctv5,http://by4.nty.tv189.cn/live/tm-cctv5-2000k.m3u8
+cctv6,http://by4.nty.tv189.cn/live/tm-cctv6-2000k.m3u8
+cctv7,http://by4.nty.tv189.cn/live/tm-cctv7-2000k.m3u8
+cctv8,http://by4.nty.tv189.cn/live/tm-cctv8-2000k.m3u8
+cctv9,http://by4.nty.tv189.cn/live/tm-cctv9-2000k.m3u8
+cctv10,http://by4.nty.tv189.cn/live/tm-cctv10-2000k.m3u8
+cctv11,http://by4.nty.tv189.cn/live/tm-cctv11-2000k.m3u8
+cctv12,http://by4.nty.tv189.cn/live/tm-cctv12-2000k.m3u8
+cctv13,http://by4.nty.tv189.cn/live/tm-cctv13-2000k.m3u8
+cctv14,http://by4.nty.tv189.cn/live/tm-cctv14-2000k.m3u8
+cctv15,http://by4.nty.tv189.cn/live/tm-cctv15-2000k.m3u8
+cctv16,http://by4.nty.tv189.cn/live/tm-cctv16-2000k.m3u8
+cctv17,http://by4.nty.tv189.cn/live/tm-cctv17-2000k.m3u8
 
 
 

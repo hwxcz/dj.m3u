@@ -44,18 +44,6 @@
 
 
 
-
-星空卫视,http://113.64.147.55:8811/hls/31/index.m3u8
-凤凰资讯,http://113.64.147.55:8811/hls/33/index.m3u8
-凤凰卫视,http://113.64.147.55:8811/hls/32/index.m3u8
-凤凰香港,http://113.64.147.55:8811/hls/34/index.m3u8
-TVB星河,http://113.64.147.55:8811/hls/35/index.m3u8
-香港翡翠,http://113.64.147.55:8811/hls/36/index.m3u8
-明珠台,http://113.64.147.55:8811/hls/37/index.m3u8
-风云音乐,http://113.64.147.55:8811/hls/39/index.m3u8
-
-
-
 广东珠江,http://tcl33.xrk.top:8086/hls/47/index.m3u8
 广东新闻,http://tcl33.xrk.top:8086/hls/45/index.m3u8
 广东民生,http://tcl33.xrk.top:8086/hls/39/index.m3u8
@@ -93,7 +81,14 @@ TVB星河,http://113.64.147.55:8811/hls/35/index.m3u8
 
 
 
-
+星空卫视,http://113.64.147.55:8811/hls/31/index.m3u8
+凤凰资讯,http://113.64.147.55:8811/hls/33/index.m3u8
+凤凰卫视,http://113.64.147.55:8811/hls/32/index.m3u8
+凤凰香港,http://113.64.147.55:8811/hls/34/index.m3u8
+TVB星河,http://113.64.147.55:8811/hls/35/index.m3u8
+香港翡翠,http://113.64.147.55:8811/hls/36/index.m3u8
+明珠台,http://113.64.147.55:8811/hls/37/index.m3u8
+风云音乐,http://113.64.147.55:8811/hls/39/index.m3u8
 
 
 大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8

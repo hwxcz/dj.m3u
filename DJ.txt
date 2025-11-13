@@ -9,12 +9,7 @@
 珠江4,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
 
 珠江5,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-珠江6,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
 
-
-体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-
-珠江7,http://106.53.99.30/tv/api.php?id=gdzj
 
 
 广东珠江3,http://m.061899.xyz/mg/gdzj

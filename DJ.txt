@@ -31,6 +31,11 @@
 肇庆生活,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
 
 
+凤凰资讯1,http://183.60.205.156:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
+凤凰中文1,http://183.60.205.156:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
+凤凰香港1,http://183.60.205.156:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
+
+
 
 香港新闻1,http://hls.168.us.kg/u/78/master.m3u8
 香港新闻2,http://hls.168.us.kg/u/83/master.m3u8

@@ -10,7 +10,7 @@
 
 珠江5,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
-
+珠江频道HD,http://120.197.2.134:9003/hls/47/index.m3u8
 
 广东珠江3,http://m.061899.xyz/mg/gdzj
 广东新闻3,http://m.061899.xyz/mg/gdxw
@@ -87,12 +87,7 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 
-大湾区卫视,http://119.123.78.54:8086/hls/29/index.m3u8
-广东民生,http://119.123.78.54:8086/hls/39/index.m3u8
-广东珠江,http://119.123.78.54:8086/hls/47/index.m3u8
-广东影视,http://119.123.78.54:8086/hls/46/index.m3u8
-广东体育,http://119.123.78.54:8086/hls/42/index.m3u8
-广东少儿,http://119.123.78.54:8086/hls/40/index.m3u8
+
 
 
 
@@ -115,11 +110,6 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 
-广东体育,http://183.57.249.188:8183/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://183.57.249.188:8183/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.57.249.188:8183/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://183.57.249.188:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://183.57.249.188:8183/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 

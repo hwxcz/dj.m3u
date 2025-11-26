@@ -129,20 +129,31 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 广东,#genre#
+广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=aaba7de701aed545994392cc8563ac1c
+广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=aaba7de701aed545994392cc8563ac1c
+广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=aaba7de701aed545994392cc8563ac1c
+大湾区卫视,http://iptv.cqshushu.com/gdtv.php?id=dwqws1&token=aaba7de701aed545994392cc8563ac1c
+大湾区卫视(海外),http://iptv.cqshushu.com/gdtv.php?id=dwqws2&token=aaba7de701aed545994392cc8563ac1c
+广东影视,http://iptv.cqshushu.com/gdtv.php?id=gdys&token=aaba7de701aed545994392cc8563ac1c
+广东4K,http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=aaba7de701aed545994392cc8563ac1c
+岭南戏曲,http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=aaba7de701aed545994392cc8563ac1c
+广东民生,http://iptv.cqshushu.com/gdtv.php?id=gdms&token=aaba7de701aed545994392cc8563ac1c
+广东新闻,http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=aaba7de701aed545994392cc8563ac1c
+广东移动,http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=aaba7de701aed545994392cc8563ac1c
+广东少儿,http://iptv.cqshushu.com/gdtv.php?id=gdse&token=aaba7de701aed545994392cc8563ac1c
+嘉佳卡通,http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=aaba7de701aed545994392cc8563ac1c
+清远综合,http://iptv.cqshushu.com/gddf.php?id=qyzh&token=aaba7de701aed545994392cc8563ac1c
+肇庆综合,http://iptv.cqshushu.com/gddf.php?id=zqzh&token=aaba7de701aed545994392cc8563ac1c
+肇庆生活,http://iptv.cqshushu.com/gddf.php?id=zqsh&token=aaba7de701aed545994392cc8563ac1c
+怀集综合,http://iptv.cqshushu.com/gddf.php?id=hjzh&token=aaba7de701aed545994392cc8563ac1c
 
-广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=556f0ad9059286c2f3e08213c4896517
-广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=556f0ad9059286c2f3e08213c4896517
-广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=556f0ad9059286c2f3e08213c4896517
-大湾区卫视,http://iptv.cqshushu.com/gdtv.php?id=dwqws1&token=556f0ad9059286c2f3e08213c4896517
-大湾区卫视(海外),http://iptv.cqshushu.com/gdtv.php?id=dwqws2&token=556f0ad9059286c2f3e08213c4896517
-广东影视,http://iptv.cqshushu.com/gdtv.php?id=gdys&token=556f0ad9059286c2f3e08213c4896517
-广东4K,http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=556f0ad9059286c2f3e08213c4896517
-岭南戏曲,http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=556f0ad9059286c2f3e08213c4896517
-广东民生,http://iptv.cqshushu.com/gdtv.php?id=gdms&token=556f0ad9059286c2f3e08213c4896517
-广东新闻,http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=556f0ad9059286c2f3e08213c4896517
-广东移动,http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=556f0ad9059286c2f3e08213c4896517
-广东少儿,http://iptv.cqshushu.com/gdtv.php?id=gdse&token=556f0ad9059286c2f3e08213c4896517
-嘉佳卡通,http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=556f0ad9059286c2f3e08213c4896517
+
+凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=aaba7de701aed545994392cc8563ac1c
+凤凰资讯,http://iptv.cqshushu.com/gddf.php?id=fhzx&token=aaba7de701aed545994392cc8563ac1c
+凤凰香港,http://iptv.cqshushu.com/gddf.php?id=fhhk&token=aaba7de701aed545994392cc8563ac1c
+纬来体育,http://iptv.cqshushu.com/wltv.php?id=wlty&token=aaba7de701aed545994392cc8563ac1c
+
+
 
 
 

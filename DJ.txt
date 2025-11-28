@@ -294,7 +294,7 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 少儿,http://pa.kuangdeng.top:8081/hls/73/index.m3u8
 影视,http://pa.kuangdeng.top:8081/hls/75/index.m3u8
 CCTN,http://pa.kuangdeng.top:8081/hls/70/index.m3u8
-粤TV,http://pa.kuangdeng.top:8081/hls/62/index.m3u8
+粤影视,http://pa.kuangdeng.top:8081/hls/62/index.m3u8
 金鹰卡通,http://pa.kuangdeng.top:8081/hls/61/index.m3u8
 
 

@@ -293,7 +293,7 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 体育,http://pa.kuangdeng.top:8081/hls/68/index.m3u8
 少儿,http://pa.kuangdeng.top:8081/hls/73/index.m3u8
 影视,http://pa.kuangdeng.top:8081/hls/75/index.m3u8
-
+CCTN,http://pa.kuangdeng.top:8081/hls/70/index.m3u8
 
 
 

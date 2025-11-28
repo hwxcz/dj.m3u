@@ -114,8 +114,9 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 广东珠江2,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
-广东珠江2,http://word.mtoo.vip:8333/rtp/239.77.0.94:5146
-广东珠江2,http://photo.mtoo.vip:8333/rtp/239.77.0.94:5146
+广东珠江2,http://unraid.cyruslee.top:8888/rtp/239.77.0.1:5146
+广东珠江2,http://www.hongzhijiaoyu.net:8188/rtp/239.77.0.1:5146
+广东珠江2,http://file.cyruslee.top:8888/rtp/239.77.0.1:5146
 
 
 

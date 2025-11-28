@@ -275,8 +275,6 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 
-
-
 广东频道,#genre#
 
 广东珠江1,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
@@ -326,18 +324,16 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 
-广东珠江,http://163.142.186.48:9901/tsfile/live/1018_1.m3u8
-
-广东体育,http://163.142.186.48:9901/tsfile/live/1026_1.m3u8
 
 
 
-广东卫视,http://119.123.177.21:8086/hls/44/index.m3u8
-广东新闻,http://119.123.177.21:8086/hls/45/index.m3u8
-广东民生,http://119.123.177.21:8086/hls/39/index.m3u8
-广东体育,http://119.123.177.21:8086/hls/42/index.m3u8
-广东影视,http://119.123.177.21:8086/hls/46/index.m3u8
-少儿频道,http://119.123.177.21:8086/hls/40/index.m3u8 
+
+广东卫视,http://119.123.177.132:8086/hls/44/index.m3u8
+广东新闻,http://119.123.177.132:8086/hls/45/index.m3u8
+广东民生,http://119.123.177.132:8086/hls/39/index.m3u8
+广东体育,http://119.123.177.132:8086/hls/42/index.m3u8
+广东影视,http://119.123.177.132:8086/hls/46/index.m3u8
+少儿频道,http://119.123.177.132:8086/hls/40/index.m3u8 
 
 
 
@@ -351,11 +347,7 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 广东珠江8,http://47.106.224.31:33795/hls/39/index.m3u8
 
-广东珠江9,http://183.24.62.163:44443/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广东珠江10,http://163.142.186.49:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-
-广东珠江11,http://14.145.130.191:9082/udp/239.77.0.114:5146
 
 珠江1,http://cdn2.163189.xyz/163189/gdzj
 珠江2,https://cdn2.101.qzz.io/163189/gdzj

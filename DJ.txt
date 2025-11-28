@@ -112,7 +112,9 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 
-
+广东珠江3,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
+广东珠江3,http://ik.kimkimkk.top:2222/rtp/239.0.1.134:5173
+广东珠江3,http://ik.kimkimkk.top:2222/rtp/239.0.1.6:5003
 
 
 

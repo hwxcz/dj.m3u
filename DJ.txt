@@ -133,8 +133,24 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 
+广东本地,#genre#
+
+大湾区卫视,http://119-123-shenzhen.andyqiang.com:8086/hls/29/index.m3u8
+广东民生,http://119-123-shenzhen.andyqiang.com:8086/hls/39/index.m3u8
+广东珠江,http://119-123-shenzhen.andyqiang.com:8086/hls/47/index.m3u8
+广东影视,http://119-123-shenzhen.andyqiang.com:8086/hls/46/index.m3u8
+广东体育,http://119-123-shenzhen.andyqiang.com:8086/hls/42/index.m3u8
+广东少儿,http://119-123-shenzhen.andyqiang.com:8086/hls/40/index.m3u8
+
+大湾区卫视,http://leidayu.f3322.net:8086/hls/29/index.m3u8
+广东民生,http://leidayu.f3322.net:8086/hls/39/index.m3u8
+广东珠江,http://leidayu.f3322.net:8086/hls/47/index.m3u8
+广东影视,http://leidayu.f3322.net:8086/hls/46/index.m3u8
+广东体育,http://leidayu.f3322.net:8086/hls/42/index.m3u8
+广东少儿,http://leidayu.f3322.net:8086/hls/40/index.m3u8
 
 广东,#genre#
+
 广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=aaba7de701aed545994392cc8563ac1c
 广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=aaba7de701aed545994392cc8563ac1c
 广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=aaba7de701aed545994392cc8563ac1c

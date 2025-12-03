@@ -707,6 +707,25 @@ cctv16,http://by4.nty.tv189.cn/live/tm-cctv16-2000k.m3u8
 cctv17,http://by4.nty.tv189.cn/live/tm-cctv17-2000k.m3u8
 
 
+CDN央视,#genre#
+
+CCTV-1,https://cdn6.101.qzz.io/163189/cctv1
+CCTV-2,https://cdn6.101.qzz.io/163189/cctv2
+CCTV-3,https://cdn6.101.qzz.io/163189/cctv3
+CCTV-4,https://cdn6.101.qzz.io/163189/cctv4
+CCTV-5,https://cdn6.101.qzz.io/163189/cctv5
+CCTV-6,https://cdn6.101.qzz.io/163189/cctv6
+CCTV-7,https://cdn6.101.qzz.io/163189/cctv7 
+CCTV-8,https://cdn6.101.qzz.io/163189/cctv8 
+CCTV-9,https://cdn6.101.qzz.io/163189/cctv9 
+CCTV-10,https://cdn6.101.qzz.io/163189/cctv10 
+CCTV-11,https://cdn6.101.qzz.io/163189/cctv11 
+CCTV-12,https://cdn6.101.qzz.io/163189/cctv12 
+CCTV-13,https://cdn6.101.qzz.io/163189/cctv13 
+CCTV-14,https://cdn6.101.qzz.io/163189/cctv14 
+CCTV-15,https://cdn6.101.qzz.io/163189/cctv15
+
+
 
 深圳天威,#genre#
 

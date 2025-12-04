@@ -53,6 +53,7 @@
 香港新闻3,http://hls.168.us.kg/u/332/master.m3u8
 
 重温经典,http://8.138.7.223/tv/cwjd.php
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
 
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 

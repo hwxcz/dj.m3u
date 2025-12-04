@@ -14,7 +14,9 @@
 
 
 珠江酒店,http://219.137.50.211:9003/hls/47/index.m3u8
-珠江频道,http://47.106.224.31:33795/hls/39/index.m3u8
+
+珠江频道,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
+
 
 广东珠江3,http://m.061899.xyz/mg/gdzj
 广东新闻3,http://m.061899.xyz/mg/gdxw
@@ -119,10 +121,6 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 
 
-广东珠江2,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
-广东珠江2,http://unraid.cyruslee.top:8888/rtp/239.77.0.1:5146
-广东珠江2,http://www.hongzhijiaoyu.net:8188/rtp/239.77.0.1:5146
-广东珠江2,http://file.cyruslee.top:8888/rtp/239.77.0.1:5146
 
 
 

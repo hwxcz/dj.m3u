@@ -148,6 +148,50 @@ http://119.123.177.196:8086/hls/44/index.m3u8
 
 
 
+阿里酒店,#genre#
+
+广东卫视,http://8.134.184.162:8314/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://8.134.184.162:8314/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://8.134.184.162:8314/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://8.134.184.162:8314/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://8.134.184.162:8314/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+经济科教,http://8.134.184.162:8314/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://8.134.184.162:8314/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://8.134.184.162:8314/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://8.134.184.162:8314/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://8.134.184.162:8314/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://8.134.184.162:8314/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://8.134.184.162:8314/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://8.134.184.162:8314/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+南方购物,http://8.134.184.162:8314/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+爱体育高清,http://8.134.184.162:8314/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广东移动,http://8.134.184.162:8314/tsfile/live/1014_1.m3u8?
+HZTV,http://8.134.184.162:8314/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+广东卫视,http://8.134.184.162:18424/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://8.134.184.162:18424/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://8.134.184.162:18424/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://8.134.184.162:18424/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://8.134.184.162:18424/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东经济科教,http://8.134.184.162:18424/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://8.134.184.162:18424/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://8.134.184.162:18424/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://8.134.184.162:18424/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://8.134.184.162:18424/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://8.134.184.162:18424/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://8.134.184.162:18424/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+优漫卡通,http://8.134.184.162:18424/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+南方购物,http://8.134.184.162:10424/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+爱体育高清,http://8.134.184.162:18424/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+广东移动,http://8.134.184.162:8314/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+
+
 
 广东酒店,#genre#
 

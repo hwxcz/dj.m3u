@@ -190,26 +190,6 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-
-
-
-广东酒店,#genre#
-
-广东卫视,http://8.134.184.162:18424/tsfile/live/0125_1.m3u8
-广东珠江,http://8.134.184.162:18424/tsfile/live/1000_1.m3u8
-广东新闻,http://8.134.184.162:18424/tsfile/live/1001_1.m3u8
-广东民生,http://8.134.184.162:18424/tsfile/live/1002_1.m3u8
-广东体育,http://8.134.184.162:18424/tsfile/live/1003_1.m3u8
-广东影视,http://8.134.184.162:18424/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://8.134.184.162:18424/tsfile/live/1007_1.m3u8
-广东嘉佳,http://8.134.184.162:18424/tsfile/live/1008_1.m3u8
-广东少儿,http://8.134.184.162:18424/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://8.134.184.162:18424/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-广东经济科教,http://8.134.184.162:18424/tsfile/live/1006_1.m3u8
-
-
-
-
 广东,#genre#
 
 广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=aaba7de701aed545994392cc8563ac1c
@@ -248,15 +228,6 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 广东影视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=SLHFSz&tk=kBjLajoD7mNZ
 广东珠江,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=9gzzTg&tk=kBjLajoD7mNZ
 广东经济,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=23FIaM&tk=kBjLajoD7mNZ
-
-
-
-
-
-
-
-
-
 
 
 
@@ -350,27 +321,6 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-广东频道,#genre#
-
-广东珠江1,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
-
-广东珠江2,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-
-广东珠江3,http://cdn2.163189.xyz/163189/gdzj
-
-广东珠江4,http://119.123.177.132:8086/hls/47/index.m3u8
-
-广东珠江5,http://r.jdshipin.com/sE5vO
-
-
-新闻,http://pa.kuangdeng.top:8081/hls/71/index.m3u8
-民生,http://pa.kuangdeng.top:8081/hls/63/index.m3u8
-体育,http://pa.kuangdeng.top:8081/hls/68/index.m3u8
-少儿,http://pa.kuangdeng.top:8081/hls/73/index.m3u8
-影视,http://pa.kuangdeng.top:8081/hls/75/index.m3u8
-CCTN,http://pa.kuangdeng.top:8081/hls/70/index.m3u8
-粤影视,http://pa.kuangdeng.top:8081/hls/62/index.m3u8
-金鹰卡通,http://pa.kuangdeng.top:8081/hls/61/index.m3u8
 
 
 
@@ -393,43 +343,6 @@ CCTN,http://pa.kuangdeng.top:8081/hls/70/index.m3u8
 旅游卫视,http://ik.kimkimkk.top:2222/rtp/239.0.1.33:8304
 
 
-
-
-广东珠江台,#genre#
-
-荔枝珠江台,http://t.061899.xyz/tl/js/js.php?id=gdzjpd
-
-
-
-
-
-
-
-广东卫视,http://119.123.177.132:8086/hls/44/index.m3u8
-广东珠江,http://119.123.177.132:8086/hls/47/index.m3u8
-广东新闻,http://119.123.177.132:8086/hls/45/index.m3u8
-广东民生,http://119.123.177.132:8086/hls/39/index.m3u8
-广东体育,http://119.123.177.132:8086/hls/42/index.m3u8
-广东影视,http://119.123.177.132:8086/hls/46/index.m3u8
-少儿频道,http://119.123.177.132:8086/hls/40/index.m3u8 
-
-
-
-广东珠江2,http://r.jdshipin.com/sE5vO
-
-广东珠江3,http://go.bkpcp.top/mg/gdzj
-
-
-
-广东珠江5,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-
-广东珠江8,http://47.106.224.31:33795/hls/39/index.m3u8
-
-
-
-珠江1,http://cdn2.163189.xyz/163189/gdzj
-珠江2,https://cdn2.101.qzz.io/163189/gdzj
-珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
 

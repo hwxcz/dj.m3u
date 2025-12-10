@@ -218,18 +218,6 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 
 
 
-广东大湾区,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=izdKeV&tk=kBjLajoD7mNZ
-广东民生,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Rd2YoY&tk=kBjLajoD7mNZ
-广东戏曲,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=jYyQ8w&tk=kBjLajoD7mNZ
-广东少儿,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=tPqdvU&tk=kBjLajoD7mNZ
-广东体育,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=dJeTgi&tk=kBjLajoD7mNZ
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=HgbQlZ&tk=kBjLajoD7mNZ
-广东新闻,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=WGO8Hn&tk=kBjLajoD7mNZ
-广东影视,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=SLHFSz&tk=kBjLajoD7mNZ
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=9gzzTg&tk=kBjLajoD7mNZ
-广东经济,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=23FIaM&tk=kBjLajoD7mNZ
-
-
 
 
 

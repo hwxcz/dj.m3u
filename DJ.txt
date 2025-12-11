@@ -13,9 +13,8 @@
 珠江6,http://iptv.4666888.xyz/iptv2A.php?id=19
 
 
-珠江酒店,http://219.137.48.113:9003/hls/47/index.m3u8
+珠江酒店,http://kodbox.guangyuan.site:8188/udp/239.77.0.1:5146
 
-体育酒店,http://219.137.48.113:9003/hls/46/index.m3u8
 
 珠江7,http://47.106.224.31:33795/hls/39/index.m3u8
 

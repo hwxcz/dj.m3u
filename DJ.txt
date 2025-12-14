@@ -14,11 +14,13 @@
 
 珠江7,http://r.jdshipin.com/sE5vO
 
-珠江8,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
+广东珠江8,http://8.138.7.223/tv/gdzj.m3u8
 
 珠江9,http://47.106.224.31:33795/hls/39/index.m3u8
 
 珠江10,http://183.57.248.86:8183/tsfile/live/1001_1.m3u8
+
+珠江11,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
 
 
 广东卫视3,http://m.061899.xyz/mg/gdws

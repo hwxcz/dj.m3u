@@ -57,43 +57,6 @@
 广东影视,http://183.57.248.74:8183/tsfile/live/1004_1.m3u8
 
 
-鳳凰中文1,http://j.s.bkpcp.top/js/fhzw
-鳳凰資訊1,http://j.s.bkpcp.top/js/fhzx
-鳳凰香港1,http://j.s.bkpcp.top/js/fhxg
-
-
-凤凰卫视,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-
-
-
-香港新闻1,http://hls.168.us.kg/u/78/master.m3u8
-香港新闻2,http://hls.168.us.kg/u/83/master.m3u8
-香港新闻3,http://hls.168.us.kg/u/332/master.m3u8
-
-重温经典,http://8.138.7.223/tv/cwjd.php
-重温经典,https://other.ottiptv.cc/cwjd.m3u8
-
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-
-亚洲音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-
-凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-TVB翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct 
-TVB无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt 
-TVB明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt 
-香港有线新闻台,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt 
-
-
-
-
-TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01 
-无线新闻台,rtmp://nowast.net/live/yifatv-wxxw01 
-中天新聞台,rtmp://123.161.179.74/live/yifatv-ztxw01 
- 
-
 
 
 广东本地,#genre#
@@ -178,6 +141,46 @@ HZTV,http://8.134.184.162:8314/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&aut
 爱体育高清,http://8.134.184.162:18424/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 广东移动,http://8.134.184.162:8314/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+鳳凰中文1,http://j.s.bkpcp.top/js/fhzw
+鳳凰資訊1,http://j.s.bkpcp.top/js/fhzx
+鳳凰香港1,http://j.s.bkpcp.top/js/fhxg
+
+
+凤凰卫视,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+
+
+
+香港新闻1,http://hls.168.us.kg/u/78/master.m3u8
+香港新闻2,http://hls.168.us.kg/u/83/master.m3u8
+香港新闻3,http://hls.168.us.kg/u/332/master.m3u8
+
+重温经典,http://8.138.7.223/tv/cwjd.php
+重温经典,https://other.ottiptv.cc/cwjd.m3u8
+
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+
+亚洲音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+
+凤凰卫视资讯台,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰卫视中文台,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰卫视香港台,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+TVB翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct 
+TVB无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt 
+TVB明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt 
+香港有线新闻台,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt 
+
+
+
+
+TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01 
+无线新闻台,rtmp://nowast.net/live/yifatv-wxxw01 
+中天新聞台,rtmp://123.161.179.74/live/yifatv-ztxw01 
+
+
 
 
 

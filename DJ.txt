@@ -42,6 +42,10 @@
 
 珠江11,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
 
+广东珠江,http://113.90.245.146:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://113.90.245.146:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://113.90.245.146:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
 肇庆生活,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8

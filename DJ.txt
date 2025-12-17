@@ -7,13 +7,6 @@
 珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 
 
-珠江8,http://8.138.7.223/tv/gdzj.m3u8
-
-珠江9,http://47.106.224.31:33795/hls/39/index.m3u8
-
-珠江10,http://183.57.248.86:8183/tsfile/live/1001_1.m3u8
-
-珠江11,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
 
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -48,7 +41,13 @@
 广东体育2,http://k.061899.xyz/k.php?id=gdty
 
 
+珠江4,http://8.138.7.223/tv/gdzj.m3u8
 
+珠江9,http://47.106.224.31:33795/hls/39/index.m3u8
+
+珠江10,http://183.57.248.86:8183/tsfile/live/1001_1.m3u8
+
+珠江11,http://ik.kimkimkk.top:2222/rtp/239.0.1.133:5172
 
 
 肇庆综合,http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8

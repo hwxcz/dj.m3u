@@ -572,7 +572,7 @@ CETV4,http://qgtf.jydjd.top:2903/udp/224.1.100.109:11111
 
 
 
-移动央视,#genre#
+移动内网央视,#genre#
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -640,7 +640,7 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 
 
-移动卫视,#genre#
+移动内网卫视,#genre#
 
 广东卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
 深圳卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8

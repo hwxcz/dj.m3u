@@ -2,23 +2,6 @@
 
 广东代理,#genre#
 
-珠江1,http://cdn2.163189.xyz/163189/gdzj
-珠江2,https://cdn2.101.qzz.io/163189/gdzj
-珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-
-珠江4,http://8.138.7.223/tv/gdzj.m3u8
-
-珠江5,http://iptv.4666888.xyz/iptv2A.php?id=19
-
-珠江6,http://r.jdshipin.com/sE5vO
-
-
-珠江7,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-
-珠江8,http://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-
-
-
 广东卫视3,http://m.061899.xyz/mg/gdws
 广东珠江3,http://m.061899.xyz/mg/gdzj
 广东新闻3,http://m.061899.xyz/mg/gdxw
@@ -44,6 +27,22 @@
 广东新闻2,http://k.061899.xyz/k.php?id=gdxw
 广东体育2,http://k.061899.xyz/k.php?id=gdty
 
+
+
+珠江1,http://cdn2.163189.xyz/163189/gdzj
+珠江2,https://cdn2.101.qzz.io/163189/gdzj
+珠江3,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
+珠江4,http://8.138.7.223/tv/gdzj.m3u8
+
+珠江5,http://iptv.4666888.xyz/iptv2A.php?id=19
+
+珠江6,http://r.jdshipin.com/sE5vO
+
+
+珠江7,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+
+珠江8,http://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 
 珠江9,http://47.106.224.31:33795/hls/39/index.m3u8

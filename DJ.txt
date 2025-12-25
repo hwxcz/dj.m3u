@@ -194,19 +194,13 @@ TVB星河,http://113.64.147.54:8811/hls/35/index.m3u8
 
 广东组播,#genre#
 
-广东珠江,http://113.119.27.173:58888/rtp/239.77.0.1:5146
-广东珠江,http://113.119.27.173:58888/rtp/239.77.1.94:5146
-广东珠江,http://113.119.27.173:58888/rtp/239.77.0.114:5146
-广东新闻,http://113.119.27.173:58888/rtp/239.77.0.173:5146
-广东影视,http://113.119.27.173:58888/rtp/239.77.0.217:5146
-广东民生,http://113.119.27.173:58888/rtp/239.77.0.225:5146
-
-广东珠江,http://yahao.mycloudnas.com:4022/rtp/239.77.0.1:5146
-广东珠江,http://yahao.mycloudnas.com:4022/rtp/239.77.1.94:5146
-广东珠江,http://yahao.mycloudnas.com:4022/rtp/239.77.0.114:5146
-广东新闻,http://yahao.mycloudnas.com:4022/rtp/239.77.0.173:5146
-广东影视,http://yahao.mycloudnas.com:4022/rtp/239.77.0.217:5146
-广东民生,http://yahao.mycloudnas.com:4022/rtp/239.77.0.225:5146
+广东珠江,http://istoreos.guangyuan.site:8188/rtp/239.77.0.1:5146
+广东珠江,http://istoreos.guangyuan.site:8188/rtp/239.77.1.94:5146
+广东珠江,http://istoreos.guangyuan.site:8188/rtp/239.77.0.114:5146
+广东新闻,http://istoreos.guangyuan.site:8188/rtp/239.77.0.173:5146
+广东影视,http://istoreos.guangyuan.site:8188/rtp/239.77.0.217:5146
+广东民生,http://istoreos.guangyuan.site:8188/rtp/239.77.0.225:5146
+广东少儿,http://istoreos.guangyuan.site:8188/rtp/239.77.0.250:5146
 
 
 

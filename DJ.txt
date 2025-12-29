@@ -205,18 +205,19 @@ TVB星河,http://113.64.147.54:8811/hls/35/index.m3u8
 
 
 梅州酒店,#genre#
+http://59.32.97.250:9999/tsfile/live/1010_1.m3u8
 
 http://59.32.97.101:9999/tsfile/live/0125_1.m3u8
 http://59.32.97.184:9999/tsfile/live/0125_1.m3u8
 
 
-广东卫视,http://59.32.97.120:9999/tsfile/live/0125_1.m3u8
-广东珠江,http://59.32.97.120:9999/tsfile/live/1010_1.m3u8
-广东新闻,http://59.32.97.120:9999/tsfile/live/1011_1.m3u8
-广东公共,http://59.32.97.120:9999/tsfile/live/1012_1.m3u8
-广东体育,http://59.32.97.120:9999/tsfile/live/1013_1.m3u8
-经济科教,http://59.32.97.120:9999/tsfile/live/1014_1.m3u8
-大湾卫视,http://59.32.97.120:9999/tsfile/live/1015_1.m3u8
+广东卫视,http://59.32.97.250:9999/tsfile/live/0125_1.m3u8
+广东珠江,http://59.32.97.250:9999/tsfile/live/1010_1.m3u8
+广东新闻,http://59.32.97.250:9999/tsfile/live/1011_1.m3u8
+广东公共,http://59.32.97.250:9999/tsfile/live/1012_1.m3u8
+广东体育,http://59.32.97.250:9999/tsfile/live/1013_1.m3u8
+经济科教,http://59.32.97.250:9999/tsfile/live/1014_1.m3u8
+大湾卫视,http://59.32.97.250:9999/tsfile/live/1015_1.m3u8
 广东影视,http://59.32.97.120:9999/tsfile/live/1016_1.m3u8
 广东少儿,http://59.32.97.120:9999/tsfile/live/1017_1.m3u8
 嘉佳卡通,http://59.32.97.120:9999/tsfile/live/1030_1.m3u8
@@ -277,23 +278,15 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 广东,#genre#
 
-广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=aaba7de701aed545994392cc8563ac1c
-广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=aaba7de701aed545994392cc8563ac1c
-广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=aaba7de701aed545994392cc8563ac1c
-大湾区卫视,http://iptv.cqshushu.com/gdtv.php?id=dwqws1&token=aaba7de701aed545994392cc8563ac1c
-大湾区卫视(海外),http://iptv.cqshushu.com/gdtv.php?id=dwqws2&token=aaba7de701aed545994392cc8563ac1c
-广东影视,http://iptv.cqshushu.com/gdtv.php?id=gdys&token=aaba7de701aed545994392cc8563ac1c
-广东4K,http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=aaba7de701aed545994392cc8563ac1c
-岭南戏曲,http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=aaba7de701aed545994392cc8563ac1c
-广东民生,http://iptv.cqshushu.com/gdtv.php?id=gdms&token=aaba7de701aed545994392cc8563ac1c
-广东新闻,http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=aaba7de701aed545994392cc8563ac1c
-广东移动,http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=aaba7de701aed545994392cc8563ac1c
-广东少儿,http://iptv.cqshushu.com/gdtv.php?id=gdse&token=aaba7de701aed545994392cc8563ac1c
-嘉佳卡通,http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=aaba7de701aed545994392cc8563ac1c
-清远综合,http://iptv.cqshushu.com/gddf.php?id=qyzh&token=aaba7de701aed545994392cc8563ac1c
-肇庆综合,http://iptv.cqshushu.com/gddf.php?id=zqzh&token=aaba7de701aed545994392cc8563ac1c
-肇庆生活,http://iptv.cqshushu.com/gddf.php?id=zqsh&token=aaba7de701aed545994392cc8563ac1c
-怀集综合,http://iptv.cqshushu.com/gddf.php?id=hjzh&token=aaba7de701aed545994392cc8563ac1c
+广东体育,http://iptv.cqshushu.com/migu.php?pid=hk_gdty&token=bbf98b1df20a3a45b77d907085dddc50
+广东体育,http://iptv.cqshushu.com/migu.php?pid=gd_gdty&token=bbf98b1df20a3a45b77d907085dddc50
+广东新闻,http://iptv.cqshushu.com/migu.php?pid=gd_gdxw&token=bbf98b1df20a3a45b77d907085dddc50
+广东珠江,http://iptv.cqshushu.com/migu.php?pid=gd_gdzj&token=bbf98b1df20a3a45b77d907085dddc50
+广东民生,http://iptv.cqshushu.com/migu.php?pid=gd_gdms&token=bbf98b1df20a3a45b77d907085dddc50
+广东影视,http://iptv.cqshushu.com/migu.php?pid=gd_gdys&token=bbf98b1df20a3a45b77d907085dddc50
+广东少儿,http://iptv.cqshushu.com/migu.php?pid=gd_gdse&token=bbf98b1df20a3a45b77d907085dddc50
+嘉佳卡通,http://iptv.cqshushu.com/migu.php?pid=gd_jjkt&token=bbf98b1df20a3a45b77d907085dddc50
+
 
 
 凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=aaba7de701aed545994392cc8563ac1c

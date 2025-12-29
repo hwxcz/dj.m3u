@@ -156,7 +156,7 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 广东影视,http://183.7.172.83:8888/hls/9/index.m3u8
 广东少儿,http://183.7.172.83:8888/hls/10/index.m3u8
 嘉佳卡通,http://183.7.172.83:8888/hls/11/index.m3u8
-汕头综合,http://183.7.172.83:8888/hls/4/index.m3u8
+
 
 
 

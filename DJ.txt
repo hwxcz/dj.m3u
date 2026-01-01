@@ -119,6 +119,42 @@
 
 
 
+汕头酒店,#genre#
+
+
+广东卫视,http://183.7.172.224:8888/hls/1/index.m3u8
+广东珠江,http://183.7.172.224:8888/hls/2/index.m3u8
+广东新闻,http://183.7.172.224:8888/hls/3/index.m3u8
+广东体育,http://183.7.172.224:8888/hls/5/index.m3u8
+广东影视,http://183.7.172.224:8888/hls/9/index.m3u8
+广东少儿,http://183.7.172.224:8888/hls/10/index.m3u8
+嘉佳卡通,http://183.7.172.224:8888/hls/11/index.m3u8
+
+
+
+
+
+梅州酒店,#genre#
+
+广东卫视,http://59.32.97.250:9999/tsfile/live/0125_1.m3u8
+广东珠江,http://59.32.97.250:9999/tsfile/live/1010_1.m3u8
+广东新闻,http://59.32.97.250:9999/tsfile/live/1011_1.m3u8
+广东公共,http://59.32.97.250:9999/tsfile/live/1012_1.m3u8
+广东体育,http://59.32.97.250:9999/tsfile/live/1013_1.m3u8
+经济科教,http://59.32.97.250:9999/tsfile/live/1014_1.m3u8
+大湾卫视,http://59.32.97.250:9999/tsfile/live/1015_1.m3u8
+广东影视,http://59.32.97.250:9999/tsfile/live/1016_1.m3u8
+广东少儿,http://59.32.97.250:9999/tsfile/live/1017_1.m3u8
+嘉佳卡通,http://59.32.97.250:9999/tsfile/live/1030_1.m3u8
+卡酷少儿,http://59.32.97.250:9999/tsfile/live/1031_1.m3u8
+澳视澳门,http://59.32.97.250:9999/tsfile/live/1033_1.m3u8
+少儿动画,http://59.32.97.250:9999/tsfile/live/1034_1.m3u8
+
+凤凰中文,http://59.32.97.250:9999/tsfile/live/1019_1.m3u8
+翡翠台,http://59.32.97.250:9999/tsfile/live/1007_1.m3u8
+明珠台,http://59.32.97.250:9999/tsfile/live/1009_1.m3u8
+
+
 
 
 阿里酒店,#genre#
@@ -165,10 +201,6 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 
 广东本地,#genre#
 
-119.123.76.67:8086 119.123.76.236:8086 119.123.77.99:8086 119.123.77.235:8086 119.123.78.54:8086 119.123.79.39:8086 119.123.79.190:8086 119.123.79.244:8086 119.123.178.185:8086 119.123.179.177:8086 119.123.179.207:8086 119.123.179.165:8086
-
-
-
 广东卫视,http://119.123.178.185:8086/hls/44/index.m3u8
 广东珠江,http://119.123.178.185:8086/hls/47/index.m3u8
 广东新闻,http://119.123.178.185:8086/hls/45/index.m3u8
@@ -176,9 +208,6 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 广东体育,http://119.123.178.185:8086/hls/42/index.m3u8
 广东影视,http://119.123.178.185:8086/hls/46/index.m3u8
 少儿频道,http://119.123.178.185:8086/hls/40/index.m3u8 
-
-
-
 
 
 
@@ -209,53 +238,6 @@ HZTV,http://8.134.184.162:18424/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&au
 广东少儿,http://119.123.79.39:8086/hls/40/index.m3u8
 
 
-
-汕头酒店,#genre#
-
-
-广东卫视,http://183.7.172.83:8888/hls/1/index.m3u8
-广东珠江,http://183.7.172.83:8888/hls/2/index.m3u8
-广东新闻,http://183.7.172.83:8888/hls/3/index.m3u8
-广东体育,http://183.7.172.83:8888/hls/5/index.m3u8
-广东影视,http://183.7.172.83:8888/hls/9/index.m3u8
-广东少儿,http://183.7.172.83:8888/hls/10/index.m3u8
-嘉佳卡通,http://183.7.172.83:8888/hls/11/index.m3u8
-
-
-
-
-
-
-
-
-梅州酒店,#genre#
-
-
-广东卫视,http://59.32.97.250:9999/tsfile/live/0125_1.m3u8
-广东珠江,http://59.32.97.250:9999/tsfile/live/1010_1.m3u8
-广东新闻,http://59.32.97.250:9999/tsfile/live/1011_1.m3u8
-广东公共,http://59.32.97.250:9999/tsfile/live/1012_1.m3u8
-广东体育,http://59.32.97.250:9999/tsfile/live/1013_1.m3u8
-经济科教,http://59.32.97.250:9999/tsfile/live/1014_1.m3u8
-大湾卫视,http://59.32.97.250:9999/tsfile/live/1015_1.m3u8
-广东影视,http://59.32.97.250:9999/tsfile/live/1016_1.m3u8
-广东少儿,http://59.32.97.250:9999/tsfile/live/1017_1.m3u8
-嘉佳卡通,http://59.32.97.250:9999/tsfile/live/1030_1.m3u8
-卡酷少儿,http://59.32.97.250:9999/tsfile/live/1031_1.m3u8
-澳视澳门,http://59.32.97.250:9999/tsfile/live/1033_1.m3u8
-少儿动画,http://59.32.97.250:9999/tsfile/live/1034_1.m3u8
-
-凤凰中文,http://59.32.97.250:9999/tsfile/live/1019_1.m3u8
-翡翠台,http://59.32.97.250:9999/tsfile/live/1007_1.m3u8
-明珠台,http://59.32.97.250:9999/tsfile/live/1009_1.m3u8
-
-
-
-
-
-
-
-
 鳳凰中文1,http://j.s.bkpcp.top/js/fhzw
 鳳凰資訊1,http://j.s.bkpcp.top/js/fhzx
 鳳凰香港1,http://j.s.bkpcp.top/js/fhxg
@@ -284,9 +266,6 @@ TVB翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
 TVB无线新闻台,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt 
 TVB明珠台,http://t.061899.xyz/tl/js/js.php?id=tvbmzt 
 香港有线新闻台,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt 
-
-
-
 
 TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01 
 无线新闻台,rtmp://nowast.net/live/yifatv-wxxw01 

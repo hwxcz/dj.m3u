@@ -119,6 +119,20 @@ php？n=HKTV&id=DORDLR&tk=inWducl7RAaR
 
 
 
+东莞酒店,#genre#
+
+广东体育高清,http://183.57.249.119:8183/tsfile/live/1000_1.m3u8
+广东卫视高清,http://183.57.249.119:8183/tsfile/live/0125_1.m3u8
+广东珠江高清,http://183.57.249.119:8183/tsfile/live/1001_1.m3u8
+大湾区卫视高清,http://183.57.249.119:8183/tsfile/live/1002_1.m3u8
+广东影视高清,http://183.57.249.119:8183/tsfile/live/1004_1.m3u8
+
+广东珠江,http://183.10.180.127:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+广东新闻,http://183.10.180.127:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+广东影视,http://183.10.180.127:202/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+
+
+
 
 
 梅州酒店,#genre#

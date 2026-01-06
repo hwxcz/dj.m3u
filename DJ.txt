@@ -51,7 +51,7 @@
 大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
 广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
 
-
+珠江8,http://183.7.172.83:8888/hls/2/index.m3u8
 
 珠江9,http://47.106.224.31:33795/hls/39/index.m3u8
 
@@ -65,8 +65,9 @@
 肇庆生活,http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
 
 
-广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
+广东影视,http://220.231.188.199:8088/hls/32/index.m3u8
 广东影视,http://183.57.249.119:8183/tsfile/live/1004_1.m3u8
+
 
 
 广东系列,#genre#

@@ -112,23 +112,6 @@ TVB星河,http://112.92.129.96:9898/hls/122/index.m3u8
 
 广东系列,#genre#
 
-广东卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lYIlrp&tk=inWducl7RAaR
-
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eTewpj&tk=inWducl7RAaR
-
-广东新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=98puXl&tk=inWducl7RAaR
-
-广东民生,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=l6SGeY&tk=inWducl7RAaR
-
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4sODPH&tk=inWducl7RAaR
-
-广东影视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Eqe2sj&tk=inWducl7RAaR
-
-湾区卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gXfaFe&tk=inWducl7RAaR
-
-广东少儿,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Wkl8ta&tk=inWducl7RAaR
-
-
 广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zdWNtx&tk=inWducl7RAaR
 
 广东影视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BzjMKU&tk=inWducl7RAaR

@@ -159,18 +159,6 @@ php？n=HKTV&id=DORDLR&tk=inWducl7RAaR
 
 
 
-珠江,http://183.10.180.6:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.7:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.10:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.13:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.167:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.172:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.181:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.184:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-珠江,http://183.10.180.186:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-
-
-
 
 
 梅州酒店,#genre#

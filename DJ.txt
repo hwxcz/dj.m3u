@@ -91,7 +91,7 @@
 金鹰卡通,http://121.57.88.206:898/hls/39/index.m3u8
 
 
-凤凰香港,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=3&IASHttpSessionId=OTT&肇庆移动
+凤凰香港,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 凤凰中文,http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 
@@ -152,10 +152,10 @@ php？n=HKTV&id=DORDLR&tk=inWducl7RAaR
 广东影视,http://183.7.172.224:8888/hls/9/index.m3u8
 
 
-广东卫视,http://183.10.180.5:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
-广东珠江,http://183.10.180.5:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-广东新闻,http://183.10.180.5:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
-广东影视,http://183.10.180.5:202/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+广东卫视,https://gd.pl10000.top/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+广东珠江,https://gd.pl10000.top/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+广东新闻,https://gd.pl10000.top/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+广东影视,https://gd.pl10000.top/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
 
 
 

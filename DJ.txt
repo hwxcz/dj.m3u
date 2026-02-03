@@ -47,12 +47,9 @@
 珠江4,http://8.138.7.223/tv/gdzj.m3u8
 
 
-珠江5,http://183.57.249.119:8183/tsfile/live/1001_1.m3u8
+珠江5,http://183.57.249.143:8183/tsfile/live/1001_1.m3u8
 
-珠江6,http://r.jdshipin.com/sE5vO
 
-珠江7,https://t.freetv.fun/live/yan-dong-zhu-jiang-1.m3u8
-新闻,https://t.freetv.fun/live/yan-dong-xin-wen-1.m3u8
 
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东新闻,http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub

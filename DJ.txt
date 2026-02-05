@@ -299,18 +299,20 @@ TVB翡翠台,rtmp://nowast.net/live/yifatv-jade01
 
 广东,#genre#
 
-广东体育,http://iptv.cqshushu.com/migu.php?pid=hk_gdty&token=383fa861f5c78e4b9251fe2c62fa020d
-广东体育,http://iptv.cqshushu.com/migu.php?pid=gd_gdty&token=383fa861f5c78e4b9251fe2c62fa020d
-广东新闻,http://iptv.cqshushu.com/migu.php?pid=gd_gdxw&token=383fa861f5c78e4b9251fe2c62fa020d
-广东珠江,http://iptv.cqshushu.com/migu.php?pid=gd_gdzj&token=383fa861f5c78e4b9251fe2c62fa020d
-广东民生,http://iptv.cqshushu.com/migu.php?pid=gd_gdms&token=383fa861f5c78e4b9251fe2c62fa020d
-广东影视,http://iptv.cqshushu.com/migu.php?pid=gd_gdys&token=383fa861f5c78e4b9251fe2c62fa020d
-广东少儿,http://iptv.cqshushu.com/migu.php?pid=gd_gdse&token=383fa861f5c78e4b9251fe2c62fa020d
-嘉佳卡通,http://iptv.cqshushu.com/migu.php?pid=gd_jjkt&token=383fa861f5c78e4b9251fe2c62fa020d
-岭南戏曲,http://iptv.cqshushu.com/migu.php?pid=gd_lnxq&token=383fa861f5c78e4b9251fe2c62fa020d
-广东移动,http://iptv.cqshushu.com/migu.php?pid=gd_gdyd&token=383fa861f5c78e4b9251fe2c62fa020d
-现代教育,http://iptv.cqshushu.com/migu.php?pid=gd_xdjy&token=383fa861f5c78e4b9251fe2c62fa020d
-广东生活频道,http://iptv.cqshushu.com/migu.php?pid=gd_gdsh&token=383fa861f5c78e4b9251fe2c62fa020d
+广东卫视,http://iptv.cqshushu.com/gdtv.php?id=gdws&token=ab710663f87b6d644eaecb18f55536e9
+广东珠江,http://iptv.cqshushu.com/gdtv.php?id=gdzj&token=ab710663f87b6d644eaecb18f55536e9
+广东体育,http://iptv.cqshushu.com/gdtv.php?id=gdty&token=ab710663f87b6d644eaecb18f55536e9
+大湾区卫视,http://iptv.cqshushu.com/gdtv.php?id=dwqws1&token=ab710663f87b6d644eaecb18f55536e9
+大湾区卫视(海外),http://iptv.cqshushu.com/gdtv.php?id=dwqws2&token=ab710663f87b6d644eaecb18f55536e9
+广东影视,http://iptv.cqshushu.com/gdtv.php?id=gdys&token=ab710663f87b6d644eaecb18f55536e9
+广东4K,http://iptv.cqshushu.com/gdtv.php?id=gd4k&token=ab710663f87b6d644eaecb18f55536e9
+岭南戏曲,http://iptv.cqshushu.com/gdtv.php?id=lnxq&token=ab710663f87b6d644eaecb18f55536e9
+广东民生,http://iptv.cqshushu.com/gdtv.php?id=gdms&token=ab710663f87b6d644eaecb18f55536e9
+广东新闻,http://iptv.cqshushu.com/gdtv.php?id=gdxw&token=ab710663f87b6d644eaecb18f55536e9
+广东移动,http://iptv.cqshushu.com/gdtv.php?id=gdyd&token=ab710663f87b6d644eaecb18f55536e9
+广东少儿,http://iptv.cqshushu.com/gdtv.php?id=gdse&token=ab710663f87b6d644eaecb18f55536e9
+嘉佳卡通,http://iptv.cqshushu.com/gdtv.php?id=jjkt&token=ab710663f87b6d644eaecb18f55536e9
+
 
 
 凤凰中文,http://iptv.cqshushu.com/gddf.php?id=fhzw&token=aaba7de701aed545994392cc8563ac1c

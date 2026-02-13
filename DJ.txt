@@ -1,7 +1,7 @@
 广东频道,#group#
 
 广东代理,#genre#
-
+广东珠江3,http://go.061899.xyz/mg/gdzj
 广东卫视3,http://m.061899.xyz/mg/gdws
 广东珠江3,http://m.061899.xyz/mg/gdzj
 广东新闻3,http://m.061899.xyz/mg/gdxw

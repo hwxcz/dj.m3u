@@ -75,22 +75,20 @@
 
 荔枝台,#genre#
 
-广东卫视,http://111.170.156.74:3344/广东地方/gdtv.php?id=43
-广东珠江,http://111.170.156.74:3344/广东地方/gdtv.php?id=44
-广东新闻,http://111.170.156.74:3344/广东地方/gdtv.php?id=45
-广东民生,http://111.170.156.74:3344/广东地方/gdtv.php?id=48
-广东体育,http://111.170.156.74:3344/广东地方/gdtv.php?id=47
-:9901/tsfile/live/0019_1.m3u8
-大湾区卫视,http://111.170.156.74:3344/广东地方/gdtv.php?id=51
-大湾区卫视（海外版）,http://111.170.156.74:3344/广东地方/gdtv.php?id=46
-广东影视,http://111.170.156.74:3344/广东地方/gdtv.php?id=53
-4K超高清,http://111.170.156.74:3344/广东地方/gdtv.php?id=16
-广东少儿,http://111.170.156.74:3344/广东地方/gdtv.php?id=54
-嘉佳卡通,http://111.170.156.74:3344/广东地方/gdtv.php?id=66
-南方购物,http://111.170.156.74:3344/广东地方/gdtv.php?id=42
-岭南戏曲,http://111.170.156.74:3344/广东地方/gdtv.php?id=15
-广东移动,http://111.170.156.74:3344/广东地方/gdtv.php?id=74
-广东台经典剧,http://111.170.156.74:3344/广东地方/gdtv.php?id=100
+广东珠江,http://9.zubo.cc.cd/gdfsdx.php?id=1012
+
+广东体育,http://9.zubo.cc.cd/gdfsdx.php?id=1015
+
+广东科教,http://9.zubo.cc.cd/gdfsdx.php?id=1016
+
+广东新闻,http://9.zubo.cc.cd/gdfsdx.php?id=1013
+
+大湾区卫视,http://9.zubo.cc.cd/gdfsdx.php?id=1017
+
+广东影视,http://9.zubo.cc.cd/gdfsdx.php?id=1018
+
+广东卫视,http://9.zubo.cc.cd/gdfsdx.php?id=0019
+
 
 
 

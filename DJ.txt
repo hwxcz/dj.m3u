@@ -95,7 +95,7 @@
 
 电信组播,#genre#
 
-揭阳IPTV,#genre#
+
 揭阳综合高清,http://hello.ejoydom.com:9999/udp/239.77.0.229:5146
 揭阳生活高清,http://hello.ejoydom.com:9999/udp/239.77.0.251:5146
 汕尾综合高清,http://hello.ejoydom.com:9999/udp/239.77.0.25:5146

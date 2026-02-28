@@ -50,7 +50,7 @@
 珠江4,http://8.138.7.223/tv/gdzj.m3u8
 
 
-珠江5,http://183.57.249.143:8183/tsfile/live/1001_1.m3u8
+
 
 珠江6,http://r.jdshipin.com/sE5vO
 
@@ -66,7 +66,7 @@
 
 
 
-珠江10,http://183.57.249.143:8183/tsfile/live/1001_1.m3u8
+珠江10,http://183.57.248.89:8183/tsfile/live/1001_1.m3u8
 
 
 
@@ -118,11 +118,11 @@
 
 珠江系列,#genre#
 
-广东体育,http://27.41.245.32:801/hls/204/index.m3u8
-广东珠江,http://27.41.245.32:801/hls/25/index.m3u8
-广东体育,http://27.41.245.32:801/hls/204/index.m3u8
 
-广东卫视,http://121.57.88.206:898/hls/22/index.m3u8
+
+1,http://112.92.129.58:9898/hls/2/index.m3u8
+2,http://112.92.129.95:9898/hls/2/index.m3u8
+
 广东卫视,http://112.92.129.96:9898/hls/1/index.m3u8
 广东珠江,http://112.92.129.96:9898/hls/2/index.m3u8
 广东民生,http://112.92.129.96:9898/hls/3/index.m3u8
@@ -154,21 +154,13 @@ TVB星河,http://112.92.129.96:9898/hls/122/index.m3u8
 
 广东系列,#genre#
 
-广东体育,http://183.57.249.40:8183/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://183.57.249.40:8183/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.57.249.40:8183/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://183.57.249.40:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://183.57.249.40:8183/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://183.57.248.89:8183/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://183.57.248.89:8183/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.57.248.89:8183/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视,http://183.57.248.89:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://183.57.248.89:8183/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广东体育高清,http://183.57.248.142:8183/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视高清,http://183.57.248.142:8183/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江高清,http://183.57.248.142:8183/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视高清,http://183.57.248.142:8183/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视高清,http://183.57.248.142:8183/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://183.57.248.143:8183/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视高清,http://183.57.248.142:8183/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视高清,http://183.57.248.142:8183/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视高清,http://183.57.248.142:8183/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
@@ -184,33 +176,33 @@ TVB星河,http://112.92.129.96:9898/hls/122/index.m3u8
 
 汕头酒店,#genre#
 
-http://183.7.146.207:808/hls/105/index.m3u8
+http://183.7.148.42:808/hls/105/index.m3u8
 
-广东珠江,http://183.7.146.207:808/hls/105/index.m3u8
-广东新闻,http://183.7.146.207:808/hls/106/index.m3u8
-广东公共,http://183.7.146.207:808/hls/107/index.m3u8
-湾区卫视,http://183.7.146.207:808/hls/109/index.m3u8
-广东卫视,http://183.7.146.207:808/hls/152/index.m3u8
-广东体育,http://183.7.146.207:808/hls/108/index.m3u8
-广东影视,http://183.7.146.207:808/hls/110/index.m3u8
-广东少儿,http://183.7.146.207:808/hls/111/index.m3u8
-岭南戏曲,http://183.7.146.207:808/hls/22/index.m3u8
+广东珠江,http://183.7.148.42:808/hls/105/index.m3u8
+广东新闻,http://183.7.148.42:808/hls/106/index.m3u8
+广东公共,http://183.7.148.42:808/hls/107/index.m3u8
+湾区卫视,http://183.7.148.42:808/hls/109/index.m3u8
+广东卫视,http://183.7.148.42:808/hls/152/index.m3u8
+广东体育,http://183.7.148.42:808/hls/108/index.m3u8
+广东影视,http://183.7.148.42:808/hls/110/index.m3u8
+广东少儿,http://183.7.148.42:808/hls/111/index.m3u8
+岭南戏曲,http://183.7.148.42:808/hls/22/index.m3u8
 
 
 
 东莞酒店,#genre#
 
-广东体育高清,http://183.57.248.142:8183/tsfile/live/1000_1.m3u8
-广东卫视高清,http://183.57.248.142:8183/tsfile/live/0125_1.m3u8
-广东珠江高清,http://183.57.248.142:8183/tsfile/live/1001_1.m3u8
-大湾区卫视高清,http://183.57.248.142:8183/tsfile/live/1002_1.m3u8
-广东影视高清,http://183.57.248.142:8183/tsfile/live/1004_1.m3u8
+广东体育高清,http://183.57.248.86:8183/tsfile/live/1000_1.m3u8
+广东卫视高清,http://183.57.248.89:8183/tsfile/live/0125_1.m3u8
+广东珠江高清,http://183.57.248.89:8183/tsfile/live/1001_1.m3u8
+大湾区卫视高清,http://183.57.248.89:8183/tsfile/live/1002_1.m3u8
+广东影视高清,http://183.57.248.89:8183/tsfile/live/1004_1.m3u8
 
 
-广东卫视,http://183.10.180.112:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
-广东珠江,http://183.10.180.112:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
-广东新闻,http://183.10.180.112:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
-广东影视,http://183.10.180.112:202/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+广东卫视,http://183.10.180.185:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&down=1
+广东珠江,http://183.10.180.185:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+广东新闻,http://183.10.180.185:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+广东影视,http://183.10.180.185:202/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
 
 
 

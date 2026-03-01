@@ -78,17 +78,19 @@
 
 荔枝台,#genre#
 
-广东卫视,http://139.162.112.85:17174/gdtv.php?id=43
-广东珠江频道,http://139.162.112.85:17174/gdtv.php?id=44
-广东新闻频道,http://139.162.112.85:17174/gdtv.php?id=45
-广东民生频道,http://139.162.112.85:17174/gdtv.php?id=48
-广东体育频道,http://139.162.112.85:17174/gdtv.php?id=47
+广东珠江,http://9.zubo.cc.cd/gdfsdx.php?id=1012
 
-大湾区卫视,http://139.162.112.85:17174/gdtv.php?id=51
-大湾区卫视海外版,http://139.162.112.85:17174/gdtv.php?id=46
-广东影视频道,http://139.162.112.85:17174/gdtv.php?id=53
-广东少儿频道,http://139.162.112.85:17174/gdtv.php?id=54
-嘉佳卡通,http://139.162.112.85:17174/gdtv.php?id=66
+广东体育,http://9.zubo.cc.cd/gdfsdx.php?id=1015
+
+广东科教,http://9.zubo.cc.cd/gdfsdx.php?id=1016
+
+广东新闻,http://9.zubo.cc.cd/gdfsdx.php?id=1013
+
+大湾区卫视,http://9.zubo.cc.cd/gdfsdx.php?id=1017
+
+广东影视,http://9.zubo.cc.cd/gdfsdx.php?id=1018
+
+广东卫视,http://9.zubo.cc.cd/gdfsdx.php?id=0019
 
 
 电信组播,#genre#

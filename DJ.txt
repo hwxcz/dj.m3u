@@ -78,6 +78,17 @@
 
 荔枝台,#genre#
 
+广东卫视频道,http://hub.sohu.blog/gdtv.php?id=43
+广东珠江频道,http://hub.sohu.blog/gdtv.php?id=44
+广东新闻频道,http://hub.sohu.blog/gdtv.php?id=45
+广东民生频道,http://hub.sohu.blog/gdtv.php?id=48
+广东体育频道,http://hub.sohu.blog/gdtv.php?id=47
+大湾区卫视,http://hub.sohu.blog/gdtv.php?id=51
+大湾区卫视海外版,http://hub.sohu.blog/gdtv.php?id=46
+广东影视频道,http://hub.sohu.blog/gdtv.php?id=53
+广东少儿频道,http://hub.sohu.blog/gdtv.php?id=54
+
+
 广东珠江,http://9.zubo.cc.cd/gdfsdx.php?id=1012
 
 广东体育,http://9.zubo.cc.cd/gdfsdx.php?id=1015

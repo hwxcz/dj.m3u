@@ -23,6 +23,10 @@
 影视006,http://go.bkpcp.top/mg/gdys
 湾区卫视,http://go.bkpcp.top/mg/dwqws
 
+翡翠台,http://116.77.38.138:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+明珠台,http://116.77.38.138:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+中文台,http://116.77.38.138:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 广东卫视2,http://k.061899.xyz/k.php?id=gdws
 广东影视2,http://k.061899.xyz/k.php?id=gdys

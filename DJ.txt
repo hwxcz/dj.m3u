@@ -40,15 +40,15 @@
 广东体育2,http://k.061899.xyz/k.php?id=gdty
 
 
-珠江0,https://test.tvbjack.de5.net/proxy/d42e7bab94c99ec4
-
-
-凤凰中文,https://test.tvbjack.de5.net/proxy/b27f23f12104eeaf
-凤凰资讯,https://test.tvbjack.de5.net/proxy/87d2cd4e4b944f78
-凤凰香港,https://test.tvbjack.de5.net/proxy/ea5f9b5f693cc12c 
-
 翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://183.62.8.58:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.62.8.58:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.62.8.58:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://183.62.8.58:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 珠江1,http://cdn2.163189.xyz/163189/gdzj

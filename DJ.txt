@@ -19,6 +19,10 @@
 凤凰中文8,http://221.229.212.86:14896
 凤凰香港8,http://221.229.212.86:14897
 
+广东珠江7,http://107.150.60.122/live/gdzj.m3u8
+广东体育7,http://107.150.60.122/live/gdty.m3u8
+广东新闻7,http://107.150.60.122/live/gdxw.m3u8
+
 卫视001,http://go.bkpcp.top/mg/gdws
 珠江002,http://go.bkpcp.top/mg/gdzj
 新闻003,http://go.bkpcp.top/mg/gdxw

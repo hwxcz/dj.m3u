@@ -43,6 +43,9 @@
 广东新闻2,http://k.061899.xyz/k.php?id=gdxw
 广东体育2,http://k.061899.xyz/k.php?id=gdty
 
+鳳凰中文,http://j.s.bkpcp.top/js/fhzw
+鳳凰資訊,http://j.s.bkpcp.top/js/fhzx
+鳳凰香港,http://j.s.bkpcp.top/js/fhxg
 
 翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -148,15 +151,15 @@
 汕头酒店,#genre#
 
 http://183.7.145.202:808/hls/105/index.m3u8
-广东珠江,http://183.7.148.202:808/hls/105/index.m3u8
-广东新闻,http://183.7.148.202:808/hls/106/index.m3u8
-广东公共,http://183.7.148.202:808/hls/107/index.m3u8
-湾区卫视,http://183.7.148.202:808/hls/109/index.m3u8
-广东卫视,http://183.7.148.202:808/hls/152/index.m3u8
-广东体育,http://183.7.148.202:808/hls/108/index.m3u8
-广东影视,http://183.7.148.202:808/hls/110/index.m3u8
-广东少儿,http://183.7.148.202:808/hls/111/index.m3u8
-岭南戏曲,http://183.7.148.202:808/hls/22/index.m3u8
+广东珠江,http://183.7.145.202:808/hls/105/index.m3u8
+广东新闻,http://183.7.145.202:808/hls/106/index.m3u8
+广东公共,http://183.7.145.202:808/hls/107/index.m3u8
+湾区卫视,http://183.7.145.202:808/hls/109/index.m3u8
+广东卫视,http://183.7.145.202:808/hls/152/index.m3u8
+广东体育,http://183.7.145.202:808/hls/108/index.m3u8
+广东影视,http://183.7.145.202:808/hls/110/index.m3u8
+广东少儿,http://183.7.145.202:808/hls/111/index.m3u8
+岭南戏曲,http://183.7.145.202:808/hls/22/index.m3u8
 
 
 
@@ -239,20 +242,7 @@ TVB星河,http://112.92.129.96:9898/hls/122/index.m3u8
 
 
 
-梅州酒店,#genre#
 
-广东卫视,http://110.72.76.6:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://110.72.76.6:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://110.72.76.6:8181/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://110.72.76.6:8181/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://110.72.76.6:8181/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-大湾区卫视,http://110.72.76.6:8181/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://110.72.76.6:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://110.72.76.6:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CHC家庭影院,http://110.72.76.6:8181/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://110.72.76.6:8181/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://110.72.76.6:8181/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -307,9 +297,7 @@ HOY77,http://r.jdshipin.com/sFw4S
 资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-鳳凰中文,http://j.s.bkpcp.top/js/fhzw
-鳳凰資訊,http://j.s.bkpcp.top/js/fhzx
-鳳凰香港,http://j.s.bkpcp.top/js/fhxg
+
 
 凤凰卫视,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
 

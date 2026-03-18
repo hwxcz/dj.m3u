@@ -15,6 +15,7 @@
 珠江01,http://221.229.212.86:14909/
 体育02,http://221.229.212.86:14975/
 
+怀集综合,http://115.29.208.41:34567/gd.php?id=2462
 
 影视,http://111.170.157.210:30113/guangdong/tv/play/7167b4ea4273b14443ca8f31356dd7fe:75508f6c5024baf3f4c186c1758320828f2a802e6a273a6b0f67ef713c2d71a0e9a69403ca4a3a713d588f0e71107dba
 
@@ -97,15 +98,28 @@
 
 荔枝台,#genre#
 
-广东卫视频道,http://hub.sohu.blog/gdtv.php?id=43
-广东珠江频道,http://hub.sohu.blog/gdtv.php?id=44
-广东新闻频道,http://hub.sohu.blog/gdtv.php?id=45
-广东民生频道,http://hub.sohu.blog/gdtv.php?id=48
-广东体育频道,http://hub.sohu.blog/gdtv.php?id=47
-大湾区卫视,http://hub.sohu.blog/gdtv.php?id=51
-大湾区卫视海外版,http://hub.sohu.blog/gdtv.php?id=46
-广东影视频道,http://hub.sohu.blog/gdtv.php?id=53
-广东少儿频道,http://hub.sohu.blog/gdtv.php?id=54
+怀集综合,http://115.29.208.41:34567/gd.php?id=2462
+广东卫视,http://115.29.208.41:34567/gd.php?id=43
+广东卫视,http://115.29.208.41:34567/gd.php?id=1182
+广东珠江,http://115.29.208.41:34567/gd.php?id=44
+广东珠江,http://115.29.208.41:34567/gd.php?id=1183
+广东新闻,http://115.29.208.41:34567/gd.php?id=45
+广东新闻,http://115.29.208.41:34567/gd.php?id=1186
+广东民生,http://115.29.208.41:34567/gd.php?id=48
+广东民生,http://115.29.208.41:34567/gd.php?id=1185
+广东体育,http://115.29.208.41:34567/gd.php?id=47
+广东体育,http://115.29.208.41:34567/gd.php?id=1184
+大湾区卫视,http://115.29.208.41:34567/gd.php?id=51
+大湾区卫视,http://115.29.208.41:34567/gd.php?id=1197
+广东影视,http://115.29.208.41:34567/gd.php?id=53
+广东影视,http://115.29.208.41:34567/gd.php?id=1199
+广东少儿,http://115.29.208.41:34567/gd.php?id=54
+广东少儿,http://115.29.208.41:34567/gd.php?id=1200
+嘉佳卡通,http://115.29.208.41:34567/gd.php?id=66
+嘉佳卡通,http://115.29.208.41:34567/gd.php?id=1187
+大湾区卫视（海外版）,http://115.29.208.41:34567/gd.php?id=46
+大湾区卫视（海外版）,http://115.29.208.41:34567/gd.php?id=1191
+广东卫视4K,http://115.29.208.41:34567/gd.php?id=2567
 
 
 广东珠江,http://9.zubo.cc.cd/gdfsdx.php?id=1012

@@ -15,6 +15,10 @@
 珠江01,http://221.229.212.86:14909/
 体育02,http://221.229.212.86:14975/
 
+凤凰中文a,http://m.061899.xyz/mg/fhzw
+凤凰资讯a,http://m.061899.xyz/mg/fhzx
+凤凰香港a,http://m.061899.xyz/mg/fhhk
+
 怀集综合,http://115.29.208.41:34567/gd.php?id=2462
 
 影视,http://111.170.157.210:30113/guangdong/tv/play/7167b4ea4273b14443ca8f31356dd7fe:75508f6c5024baf3f4c186c1758320828f2a802e6a273a6b0f67ef713c2d71a0e9a69403ca4a3a713d588f0e71107dba

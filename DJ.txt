@@ -776,7 +776,7 @@ CCTV17,http://A/ku9/py/socks5.py?ip=36.33.1.106:37645&u=http://rrs03.hw.gmcc.net
 
 
 
-移动内网央视,#genre#
+移动01内网央视,#genre#
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -809,6 +809,9 @@ CETV2中教2台,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV3中教3台,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 CETV4中教4台,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
+
+
+移动03内网央视,#genre#
 
 CCTV1综合,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV2财经,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -844,7 +847,7 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 
 
-移动内网卫视,#genre#
+移动01内网卫视,#genre#
 
 广东卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
 深圳卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
@@ -897,6 +900,8 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 金鹰卡通,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
 
 
+
+移动03内网卫视,#genre#
 
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8

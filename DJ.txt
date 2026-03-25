@@ -105,6 +105,31 @@
 广东影视,http://183.57.249.119:8183/tsfile/live/1004_1.m3u8
 
 
+潮汕组播,#genre#
+
+广东卫视FHD,http://www.happyic.cn:10000/udp/239.10.0.45:1025
+
+广东卫视HD,http://www.happyic.cn:10000/udp/239.10.0.111:1025
+
+
+广东珠江FHD,http://www.happyic.cn:10000/udp/239.10.0.63:1025
+
+广东珠江HD,http://www.happyic.cn:10000/udp/239.10.0.62:1025
+
+广东新闻HD,http://www.happyic.cn:10000/udp/239.10.0.199:1025
+
+广东民生HD,http://www.happyic.cn:10000/udp/239.11.0.80:1025
+
+广东体育FHD,http://www.happyic.cn:10000/udp/239.10.0.47:1025
+
+广东体育HD,http://www.happyic.cn:10000/udp/239.10.0.113:1025
+
+广东影视HD,http://www.happyic.cn:10000/udp/239.11.0.79:1025
+
+大湾区卫视HD,http://www.happyic.cn:10000/udp/239.11.0.78:1025
+
+广东少儿HD,http://www.happyic.cn:10000/udp/239.11.0.81:1025
+
 
 广州酒店,#genre#
 

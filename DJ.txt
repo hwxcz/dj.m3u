@@ -96,6 +96,29 @@
 广东影视,http://183.57.249.119:8183/tsfile/live/1004_1.m3u8
 
 
+广州酒店,#genre#
+
+广东卫视,http://183.62.8.58:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.62.8.58:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.62.8.58:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://183.62.8.58:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+汕头酒店,#genre#
+
+广东珠江,http://183.10.180.145:202/hls/105/index.m3u8
+广东新闻,http://183.10.180.145:202/hls/106/index.m3u8
+广东公共,http://183.10.180.145:202/hls/107/index.m3u8
+湾区卫视,http://183.10.180.145:202/hls/109/index.m3u8
+广东卫视,http://183.10.180.145:202/hls/152/index.m3u8
+广东体育,http://183.10.180.145:202/hls/108/index.m3u8
+广东影视,http://183.10.180.145:202/hls/110/index.m3u8
+广东少儿,http://183.10.180.145:202/hls/111/index.m3u8
+岭南戏曲,http://183.10.180.145:202/hls/22/index.m3u8
+
+
 
 
 潮州移动,#genre#
@@ -166,13 +189,7 @@ TVB星河频道,http://120.238.5.44:1698/hls/88/index.m3u8
 广东少儿HD,http://www.happyic.cn:10000/udp/239.11.0.81:1025
 
 
-广州酒店,#genre#
 
-广东卫视,http://183.62.8.58:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.62.8.58:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.62.8.58:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东公共,http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://183.62.8.58:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -246,18 +263,7 @@ TVB星河频道,http://120.238.5.44:1698/hls/88/index.m3u8
 
 
 
-汕头酒店,#genre#
 
-
-广东珠江,http://183.10.180.145:202/hls/105/index.m3u8
-广东新闻,http://183.10.180.145:202/hls/106/index.m3u8
-广东公共,http://183.10.180.145:202/hls/107/index.m3u8
-湾区卫视,http://183.10.180.145:202/hls/109/index.m3u8
-广东卫视,http://183.10.180.145:202/hls/152/index.m3u8
-广东体育,http://183.10.180.145:202/hls/108/index.m3u8
-广东影视,http://183.10.180.145:202/hls/110/index.m3u8
-广东少儿,http://183.10.180.145:202/hls/111/index.m3u8
-岭南戏曲,http://183.10.180.145:202/hls/22/index.m3u8
 
 
 

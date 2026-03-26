@@ -16,7 +16,10 @@
 珠江11,http://112.92.129.58:9898/hls/2/index.m3u8
 珠江21,http://112.92.129.95:9898/hls/2/index.m3u8
 
-
+凤凰香港,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+凤凰中文,http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+珠江5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=3&IASHttpSessionId=OTT55
 
 
 凤凰中文a,http://m.061899.xyz/mg/fhzw

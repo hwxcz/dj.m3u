@@ -1,6 +1,6 @@
 广东频道,#group#
-
 广东代理,#genre#
+
 广东珠江3,http://go.061899.xyz/mg/gdzj
 广东卫视3,http://m.061899.xyz/mg/gdws
 广东珠江3,http://m.061899.xyz/mg/gdzj
@@ -56,6 +56,7 @@
 影视006,http://go.bkpcp.top/mg/gdys
 湾区卫视,http://go.bkpcp.top/mg/dwqws
 
+
 翡翠台,http://116.77.38.138:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 明珠台,http://116.77.38.138:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 中文台,http://116.77.38.138:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -107,8 +108,40 @@
 
 
 
-珠江系列,#genre#
+汕头酒店,#genre#
 
+大湾区卫视,http://119.123.76.242:8086/hls/29/index.m3u8
+广东民生,http://119.123.76.242:8086/hls/39/index.m3u8
+广东少儿,http://119.123.76.242:8086/hls/40/index.m3u8
+广东体育,http://119.123.76.242:8086/hls/42/index.m3u8
+广东卫视,http://119.123.76.242:8086/hls/44/index.m3u8
+广东新闻,http://119.123.76.242:8086/hls/45/index.m3u8
+广东影视,http://119.123.76.242:8086/hls/46/index.m3u8
+广东珠江,http://119.123.76.242:8086/hls/47/index.m3u8 
+
+大湾区卫视,http://119.123.79.244:8086/hls/29/index.m3u8
+广东民生,http://119.123.79.244:8086/hls/39/index.m3u8
+广东少儿,http://119.123.79.244:8086/hls/40/index.m3u8
+广东体育,http://119.123.79.244:8086/hls/42/index.m3u8
+广东卫视,http://119.123.79.244:8086/hls/44/index.m3u8
+广东新闻,http://119.123.79.244:8086/hls/45/index.m3u8
+广东影视,http://119.123.79.244:8086/hls/46/index.m3u8
+广东珠江,http://119.123.79.244:8086/hls/47/index.m3u8 
+
+大湾区卫视,http://119.123.179.177:8086/hls/29/index.m3u8
+广东民生,http://119.123.179.177:8086/hls/39/index.m3u8
+广东少儿,http://119.123.179.177:8086/hls/40/index.m3u8
+广东体育,http://119.123.179.177:8086/hls/42/index.m3u8
+广东卫视,http://119.123.179.177:8086/hls/44/index.m3u8
+广东新闻,http://119.123.179.177:8086/hls/45/index.m3u8
+广东影视,http://119.123.179.177:8086/hls/46/index.m3u8
+广东珠江,http://119.123.179.177:8086/hls/47/index.m3u8 
+
+
+
+
+
+珠江系列,#genre#
 
 广东卫视,http://112.92.129.96:9898/hls/1/index.m3u8
 广东珠江,http://112.92.129.96:9898/hls/2/index.m3u8
@@ -159,29 +192,6 @@ TVB星河,http://112.92.129.96:9898/hls/122/index.m3u8
 广东新闻,http://183.62.8.58:50085/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共,http://183.62.8.58:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://183.62.8.58:50085/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-汕头酒店,#genre#
-
-广东卫视,http://183.10.180.193:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.193:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.193:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.197:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.197:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.192:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.192:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.185:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.185:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.150:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.150:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.152:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.152:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.145:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.145:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.151:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.151:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-
 
 
 
@@ -299,11 +309,6 @@ TVB星河频道,http://120.238.5.44:1698/hls/88/index.m3u8
 广东影视,http://9.zubo.cc.cd/gdfsdx.php?id=1018
 
 广东卫视,http://9.zubo.cc.cd/gdfsdx.php?id=0019
-
-
-
-
-
 
 
 

@@ -14,7 +14,7 @@
 凤凰香港b,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 
 珠江5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-
+珠江7,http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
 
 
 广东珠江9,http://livea-ori.huarentv.live:14909

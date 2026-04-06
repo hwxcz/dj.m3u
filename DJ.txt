@@ -39,10 +39,7 @@
 
 
 
-广东珠江8,http://221.229.212.86:14909
-广东体育8,http://221.229.212.86:14975
-凤凰中文8,http://221.229.212.86:14896
-凤凰香港8,http://221.229.212.86:14897
+
 
 广东珠江7,http://107.150.60.122/live/gdzj.m3u8
 广东体育7,http://107.150.60.122/live/gdty.m3u8
@@ -125,6 +122,26 @@
 广东珠江,http://107.150.60.122/live/gdzj.m3u8
 广东体育,http://107.150.60.122/live/gdty.m3u8
 广东新闻,http://107.150.60.122/live/gdxw.m3u8
+
+
+
+广东卫视,http://home.szjim.top:4000/rtp/239.77.0.84:5146
+广东卫视,http://home.szjim.top:4000/rtp/239.77.0.166:5146
+广东卫视,http://home.szjim.top:4000/rtp/239.77.1.19:5146
+广东卫视,http://home.szjim.top:4000/rtp/239.77.1.152:5146
+广东珠江,http://home.szjim.top:4000/rtp/239.77.0.1:5146
+广东珠江,http://home.szjim.top:4000/rtp/239.77.1.94:5146
+广东珠江,http://home.szjim.top:4000/rtp/239.77.0.114:5146
+广东新闻,http://home.szjim.top:4000/rtp/239.77.0.173:5146
+广东影视,http://home.szjim.top:4000/rtp/239.77.0.217:5146
+广东民生,http://home.szjim.top:4000/rtp/239.77.0.225:5146
+广东少儿,http://home.szjim.top:4000/rtp/239.77.0.250:5146
+广东体育,http://home.szjim.top:4000/rtp/239.77.0.112:5146
+广东体育,http://home.szjim.top:4000/rtp/239.77.0.168:5146
+广东体育,http://home.szjim.top:4000/rtp/239.77.1.97:5146
+大湾区卫视,http://home.szjim.top:4000/rtp/239.77.0.215:5146
+大湾区卫视,http://home.szjim.top:4000/rtp/239.77.1.12:5146
+
 
 
 

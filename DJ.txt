@@ -143,19 +143,36 @@
 
 520接口,#genre#
 
-广东体育,http://113.64.147.169:8081/hls/1/index.m3u8
-广东体育,http://113.64.147.73:8081/hls/1/index.m3u8
+广东新闻,http://183.10.180.169:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.10.180.158:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.10.180.183:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.10.180.164:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.10.180.182:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://183.10.180.187:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.10.180.169:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.10.180.158:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.10.180.164:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.10.180.182:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.10.180.187:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://183.10.180.183:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://113.64.147.20:8081/hls/1/index.m3u8
 广东体育,http://113.64.147.146:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.73:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.143:8081/hls/1/index.m3u8
 广东体育,http://113.64.147.16:8081/hls/1/index.m3u8
-广东新闻,http://183.10.180.56:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.60:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://183.10.180.47:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.56:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.60:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.10.180.47:202/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-天气预报,http://183.10.180.60:202/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-天气预报,http://183.10.180.56:202/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-天气预报,http://183.10.180.47:202/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://113.64.147.107:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.244:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.191:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.171:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.148:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.245:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.169:8081/hls/1/index.m3u8
+广东卫视,http://183.10.180.182:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://183.10.180.187:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://183.10.180.164:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://183.10.180.169:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://183.10.180.158:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://183.10.180.183:202/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 

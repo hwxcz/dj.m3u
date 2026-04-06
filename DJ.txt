@@ -141,7 +141,7 @@
 
 
 
-520接口,#genre#
+202端口,#genre#
 
 广东新闻,http://183.10.180.169:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 广东新闻,http://183.10.180.158:202/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -179,7 +179,7 @@
 
 
 
-汕头酒店,#genre#
+8086端口,#genre#
 
 大湾区卫视,http://119.123.76.242:8086/hls/29/index.m3u8
 广东民生,http://119.123.76.242:8086/hls/39/index.m3u8

@@ -1,13 +1,13 @@
 直播接口,#group#
 广东代理,#genre#
 
-广东珠江3,http://go.061899.xyz/mg/gdzj
-广东卫视3,http://go.061899.xyz/mg/gdws
 广东珠江3,http://m.061899.xyz/mg/gdzj
-广东新闻3,http://go.061899.xyz/mg/gdxw
-广东民生3,http://go.061899.xyz/mg/gdms
-广东体育3,http://go.061899.xyz/mg/gdty
-广东影视3,http://go.061899.xyz/mg/gdys
+广东卫视3,http://m.061899.xyz/mg/gdws
+广东珠江3,http://m.061899.xyz/mg/gdzj
+广东新闻3,http://m.061899.xyz/mg/gdxw
+广东民生3,http://m.061899.xyz/mg/gdms
+广东体育3,http://m.061899.xyz/mg/gdty
+广东影视3,http://m.061899.xyz/mg/gdys
 
 凤凰中文b,http://115.44.140.170:18180/TV00000000000000000008@HHZT
 凤凰资讯b,http://115.44.140.170:18180/TV00000000000000000009@HHZT
@@ -16,13 +16,6 @@
 
 
 珠江8,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-
-
-
-广东珠江9,http://livea-ori.huarentv.live:14909
-广东体育9,http://livea-ori.huarentv.live:14975
-凤凰中文9,http://livea-ori.huarentv.live:14896
-凤凰香港9,http://livea-ori.huarentv.live:14897
 
 
 
@@ -36,8 +29,6 @@
 凤凰香港,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 凤凰中文,http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-
-
 
 
 

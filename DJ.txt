@@ -15,8 +15,10 @@
 
 
 珠江7,http://cdn2.163189.xyz/163189/gdzj
-珠江8,https://cdn2.101.qzz.io/163189/gdzj
-珠江9,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+
+
+珠江8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
+体育1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
 
 珠江10,http://r.jdshipin.com/sE5vO
 

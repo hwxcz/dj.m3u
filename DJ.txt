@@ -89,11 +89,6 @@
 广东新闻2,http://k.061899.xyz/k.php?id=gdxw
 广东体育2,http://k.061899.xyz/k.php?id=gdty
 
-鳳凰中文,http://j.s.bkpcp.top/js/fhzw
-鳳凰資訊,http://j.s.bkpcp.top/js/fhzx
-鳳凰香港,http://j.s.bkpcp.top/js/fhxg
-
-
 
 
 

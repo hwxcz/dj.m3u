@@ -34,7 +34,9 @@
 凤凰资讯b,http://115.44.140.170:18180/TV00000000000000000009@HHZT
 凤凰香港b,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 
-
+资讯台,https://gxgp.537224.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
+中文台,https://gxgp.537224.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
+香港台,https://gxgp.537224.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 
 
 广东珠江6,http://221.229.212.86:14909

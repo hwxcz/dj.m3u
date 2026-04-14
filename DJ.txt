@@ -11,7 +11,7 @@
 
 珠江5,http://222.128.55.152:9080/live/gdzj.m3u8 
 
-
+珠江6,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 
 广东卫视3,http://m.061899.xyz/mg/gdws
@@ -24,10 +24,6 @@
 凤凰中文b,http://115.44.140.170:18180/TV00000000000000000008@HHZT
 凤凰资讯b,http://115.44.140.170:18180/TV00000000000000000009@HHZT
 凤凰香港b,http://115.44.140.170:18180/TV00000000000000000024@HHZT
-
-
-
-珠江6,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 
 

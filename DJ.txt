@@ -3,16 +3,16 @@
 
 珠江1,http://8.138.7.223/tv/gdzj.m3u8
  
-珠江2,https://gxgp.537224.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 
+珠江2,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
 珠江3,http://192.151.150.154/live/gdzj.m3u8 
 珠江4,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub 
 
 珠江5,http://222.128.55.152:9080/live/gdzj.m3u8 
 
-珠江6,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
+珠江6,https://gxgp.537224.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 
 珠江7,http://cdn2.163189.xyz/163189/gdzj
 

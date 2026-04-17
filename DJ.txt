@@ -61,7 +61,9 @@
 凤凰资讯,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 
 
-
+凤凰资讯 高清,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视 高清,http://36.136.11.222:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港 高清,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 广东珠江7,http://107.150.60.122/live/gdzj.m3u8
@@ -150,22 +152,31 @@
 
 806,#genre#
 
-大湾区卫视,http://119.123.177.33:8086/hls/29/index.m3u8
-广东民生,http://119.123.177.33:8086/hls/39/index.m3u8
-广东少儿,http://119.123.177.33:8086/hls/40/index.m3u8
-广东体育,http://119.123.177.33:8086/hls/42/index.m3u8
-广东新闻,http://119.123.177.33:8086/hls/45/index.m3u8
-广东影视,http://119.123.177.33:8086/hls/46/index.m3u8
-广东珠江,http://119.123.177.33:8086/hls/47/index.m3u8
+大湾区卫视,http://119.123.176.87:8086/hls/29/index.m3u8
+广东民生,http://119.123.176.87:8086/hls/39/index.m3u8
+广东少儿,http://119.123.176.87:8086/hls/40/index.m3u8
+广东体育,http://119.123.176.87:8086/hls/42/index.m3u8
+广东新闻,http://119.123.176.87:8086/hls/45/index.m3u8
+广东影视,http://119.123.176.87:8086/hls/46/index.m3u8
+广东珠江,http://119.123.176.87:8086/hls/47/index.m3u8
 
 
-大湾区卫视,http://119.123.78.83:8086/hls/29/index.m3u8
-广东民生,http://119.123.78.83:8086/hls/39/index.m3u8
-广东少儿,http://119.123.78.83:8086/hls/40/index.m3u8
-广东体育,http://119.123.78.83:8086/hls/42/index.m3u8
-广东新闻,http://119.123.78.83:8086/hls/45/index.m3u8
-广东影视,http://119.123.78.83:8086/hls/46/index.m3u8
-广东珠江,http://119.123.78.83:8086/hls/47/index.m3u8
+大湾区卫视,http://119.123.78.9:8086/hls/29/index.m3u8
+广东民生,http://119.123.78.9:8086/hls/39/index.m3u8
+广东少儿,http://119.123.78.9:8086/hls/40/index.m3u8
+广东体育,http://119.123.78.9:8086/hls/42/index.m3u8
+广东新闻,http://119.123.78.9:8086/hls/45/index.m3u8
+广东影视,http://119.123.78.9:8086/hls/46/index.m3u8
+广东珠江,http://119.123.78.9:8086/hls/47/index.m3u8
+
+
+广东卫视3,http://36.136.11.222:18885/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江3,http://36.136.11.222:18885/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻3,http://36.136.11.222:18885/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育3,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生3,http://36.136.11.222:18885/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视3,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 

@@ -265,61 +265,7 @@ TVB星河,http://112.92.129.96:9898/hls/122/index.m3u8
 
 
 
-天威央视,#genre#
 
-CCTV1,http://36.36.200.198:44330/tsfile/live/0001_1.m3u8?key=txiptv
-CCTV2,http://36.36.200.198:44330/tsfile/live/0002_1.m3u8?key=txiptv
-CCTV3,http://36.36.200.198:44330/tsfile/live/0003_1.m3u8?key=txiptv
-CCTV4,http://36.36.200.198:44330/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://36.36.200.198:44330/tsfile/live/0005_1.m3u8?key=txiptv
-CCTV6,http://36.36.200.198:44330/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV8,http://36.36.200.198:44330/tsfile/live/0009_1.m3u8?key=txiptv
-CCTV9,http://36.36.200.198:44330/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV10,http://36.36.200.198:44330/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV11,http://36.36.200.198:44330/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV12,http://36.36.200.198:44330/tsfile/live/0013_1.m3u8?key=txiptv
-CCTV13,http://36.36.200.198:44330/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV14,http://36.36.200.198:44330/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV15,http://36.36.200.198:44330/tsfile/live/0016_1.m3u8?key=txiptv
-
-
-
-天威卫视,#genre#
-
-广东卫视,http://36.36.200.198:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://36.36.200.198:44330/tsfile/live/0130_1.m3u8?key=txiptv
-
-广东体育,http://36.36.200.198:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-广东公共,http://36.36.200.198:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻,http://36.36.200.198:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-湾区卫视,http://36.36.200.198:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-
-凤凰中文,http://36.36.200.198:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-翡翠台,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv
-明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv
-星空卫视,http://36.36.200.198:44330/tsfile/live/1012_1.m3u8?key=txiptv
-
-
-重庆卫视,http://36.36.200.198:44330/tsfile/live/0142_1.m3u8?key=txiptv
-江苏卫视,http://36.36.200.198:44330/tsfile/live/0127_1.m3u8?key=txiptv
-浙江卫视,http://36.36.200.198:44330/tsfile/live/0124_1.m3u8?key=txiptv
-
-湖南卫视,http://36.36.200.198:44330/tsfile/live/0128_1.m3u8?key=txiptv
-东方卫视,http://36.36.200.198:44330/tsfile/live/0107_1.m3u8?key=txiptv
-深圳卫视,http://36.36.200.198:44330/tsfile/live/0018_1.m3u8?key=txiptv
-北京卫视,http://36.36.200.198:44330/tsfile/live/0122_1.m3u8?key=txiptv
-山东卫视,http://36.36.200.198:44330/tsfile/live/0131_1.m3u8?key=txiptv
-天津卫视,http://36.36.200.198:44330/tsfile/live/0135_1.m3u8?key=txiptv
-四川卫视,http://36.36.200.198:44330/tsfile/live/0123_1.m3u8?key=txiptv
-黑龙江卫视,http://36.36.200.198:44330/tsfile/live/0143_1.m3u8?key=txiptv
-山西卫视,http://36.36.200.198:44330/tsfile/live/0118_1.m3u8?key=txiptv
-江西卫视,http://36.36.200.198:44330/tsfile/live/0138_1.m3u8?key=txiptv
-湖北卫视,http://36.36.200.198:44330/tsfile/live/0132_1.m3u8?key=txiptv
-旅游卫视,http://36.36.200.198:44330/tsfile/live/0114_1.m3u8?key=txiptv
-陕西卫视,http://36.36.200.198:44330/tsfile/live/0136_1.m3u8?key=txiptv
-吉林卫视,http://36.36.200.198:44330/tsfile/live/0116_1.m3u8?key=txiptv
-辽宁卫视,http://36.36.200.198:44330/tsfile/live/0121_1.m3u8?key=txiptv
-河南卫视,http://36.36.200.198:44330/tsfile/live/0139_1.m3u8?key=txiptv
 
 
 
@@ -580,111 +526,28 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 
 
 
-移动央视频道,#genre#
-
-CCTV1,http://115.29.208.41:34567/gd.php?id=cctv1&kl=www.9kds.com
-
-CCTV2,http://115.29.208.41:34567/gd.php?id=cctv2&kl=www.9kds.com
-
-CCTV3,http://115.29.208.41:34567/gd.php?id=cctv3&kl=www.9kds.com
-
-CCTV4,http://115.29.208.41:34567/gd.php?id=cctv4&kl=www.9kds.com
-
-CCTV5,http://115.29.208.41:34567/gd.php?id=cctv5&kl=www.9kds.com
-
-CCTV6,http://115.29.208.41:34567/gd.php?id=cctv6&kl=www.9kds.com
-
-CCTV7,http://115.29.208.41:34567/gd.php?id=cctv7&kl=www.9kds.com
-
-CCTV8,http://115.29.208.41:34567/gd.php?id=cctv8&kl=www.9kds.com
-
-CCTV9,http://115.29.208.41:34567/gd.php?id=cctv9&kl=www.9kds.com
-
-CCTV10,http://115.29.208.41:34567/gd.php?id=cctv10&kl=www.9kds.com
-
-CCTV11,http://115.29.208.41:34567/gd.php?id=cctv11&kl=www.9kds.com
-
-CCTV12,http://115.29.208.41:34567/gd.php?id=cctv12&kl=www.9kds.com
-
-CCTV13,http://115.29.208.41:34567/gd.php?id=cctv13&kl=www.9kds.com
-
-CCTV14,http://115.29.208.41:34567/gd.php?id=cctv14&kl=www.9kds.com
-
-CCTV15,http://115.29.208.41:34567/gd.php?id=cctv15&kl=www.9kds.com
-
-CCTV16,http://115.29.208.41:34567/gd.php?id=cctv16&kl=www.9kds.com
-
-CCTV17,http://115.29.208.41:34567/gd.php?id=cctv17&kl=www.9kds.com
 
 
-
-
-
-移动卫视频道,#genre#
-
-广东卫视,http://115.29.208.41:34567/gd.php?id=gdws&kl=www.9kds.com
-
-安徽卫视,http://115.29.208.41:34567/gd.php?id=ahws&kl=www.9kds.com
-
-湖南卫视,http://115.29.208.41:34567/gd.php?id=hunws&kl=www.9kds.com
-
-东方卫视,http://115.29.208.41:34567/gd.php?id=dfws&kl=www.9kds.com
-
-北京卫视,http://115.29.208.41:34567/gd.php?id=bjws&kl=www.9kds.com
-
-江苏卫视,http://115.29.208.41:34567/gd.php?id=jsws&kl=www.9kds.com
-
-江西卫视,http://115.29.208.41:34567/gd.php?id=jxws&kl=www.9kds.com
-
-东南卫视,http://115.29.208.41:34567/gd.php?id=dnws&kl=www.9kds.com
-
-厦门卫视,http://115.29.208.41:34567/gd.php?id=xmws&kl=www.9kds.com
-
-广西卫视,http://115.29.208.41:34567/gd.php?id=gxws&kl=www.9kds.com
-
-海南卫视,http://115.29.208.41:34567/gd.php?id=hanws&kl=www.9kds.com
-
-四川卫视,http://115.29.208.41:34567/gd.php?id=scws&kl=www.9kds.com
-
-贵州卫视,http://115.29.208.41:34567/gd.php?id=gzws&kl=www.9kds.com
-
-云南卫视,http://115.29.208.41:34567/gd.php?id=ynws&kl=www.9kds.com
-
-天津卫视,http://115.29.208.41:34567/gd.php?id=tjws&kl=www.9kds.com
-
-湖北卫视,http://115.29.208.41:34567/gd.php?id=hbws&kl=www.9kds.com
-
-河北卫视,http://115.29.208.41:34567/gd.php?id=hebws&kl=www.9kds.com
-
-河南卫视,http://115.29.208.41:34567/gd.php?id=henws&kl=www.9kds.com
-
-黑龙江卫视,http://115.29.208.41:34567/gd.php?id=hljws&kl=www.9kds.com
-
-辽宁卫视,http://115.29.208.41:34567/gd.php?id=lnws&kl=www.9kds.com
-
-宁夏卫视,http://115.29.208.41:34567/gd.php?id=nxws&kl=www.9kds.com
-
-山东卫视,http://115.29.208.41:34567/gd.php?id=sdws&kl=www.9kds.com
 
 
 
 潮州移动,#genre#
 
-广东卫视高清,http://120.238.5.44:1698/hls/8/index.m3u8
-
-广东新闻,http://120.238.5.44:1698/hls/10/index.m3u8
-
-广东影视,http://120.238.5.44:1698/hls/12/index.m3u8
-
-大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
+广东卫视,http://120.238.5.44:1698/hls/8/index.m3u8
 
 广东珠江,http://120.238.5.44:1698/hls/78/index.m3u8
 
 广东民生,http://120.238.5.44:1698/hls/9/index.m3u8
 
-广东少儿,http://120.238.5.44:1698/hls/13/index.m3u8
+广东新闻,http://120.238.5.44:1698/hls/10/index.m3u8
 
 广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
+
+广东影视,http://120.238.5.44:1698/hls/12/index.m3u8
+
+大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
+
+广东少儿,http://120.238.5.44:1698/hls/13/index.m3u8
 
 CHC影迷电影,http://120.238.5.44:1698/hls/82/index.m3u8
 

@@ -1,12 +1,14 @@
 直播接口,#group#
 广东代理,#genre#
 
-珠江1,http://8.138.7.223/tv/gdzj.m3u8
+珠江,http://8.138.7.223/tv/gdzj.m3u8
  
+珠江,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 
-珠江2,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+珠江,http://192.151.150.154/live/gdzj.m3u8 
 
-珠江3,http://192.151.150.154/live/gdzj.m3u8 
+珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+
 珠江4,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub 
 
 珠江5,http://222.128.55.152:9080/live/gdzj.m3u8 
@@ -14,13 +16,13 @@
 
 珠江6,https://gxgp.537224.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 
-珠江7,http://cdn2.163189.xyz/163189/gdzj
+珠江,http://cdn2.163189.xyz/163189/gdzj
 
 
-珠江8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
+珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
 体育1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdty
 
-珠江9,http://67.220.71.199:2347/livehttpplay?channel_id=20144
+
 
 珠江10,http://r.jdshipin.com/sE5vO
 

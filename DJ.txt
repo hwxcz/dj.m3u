@@ -167,26 +167,6 @@
 
 
 
-806,#genre#
-
-大湾区卫视,http://119.123.176.187:8086/hls/29/index.m3u8
-广东民生,http://119.123.176.187:8086/hls/39/index.m3u8
-广东少儿,http://119.123.176.187:8086/hls/40/index.m3u8
-广东体育,http://119.123.176.187:8086/hls/42/index.m3u8
-广东新闻,http://119.123.176.187:8086/hls/45/index.m3u8
-广东影视,http://119.123.176.187:8086/hls/46/index.m3u8
-广东珠江,http://119.123.176.187:8086/hls/47/index.m3u8
-
-
-大湾区卫视,http://119.123.78.83:8086/hls/29/index.m3u8
-广东民生,http://119.123.78.83:8086/hls/39/index.m3u8
-广东少儿,http://119.123.78.83:8086/hls/40/index.m3u8
-广东体育,http://119.123.78.83:8086/hls/42/index.m3u8
-广东新闻,http://119.123.78.83:8086/hls/45/index.m3u8
-广东影视,http://119.123.78.83:8086/hls/46/index.m3u8
-广东珠江,http://119.123.78.80:8086/hls/47/index.m3u8
-
-
 
 广东卫视2,http://218.13.138.139:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江2,http://218.13.138.139:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -195,14 +175,6 @@
 广东影视2,http://218.13.138.139:59901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
-
-
-广东卫视3,http://36.136.11.222:18885/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江3,http://36.136.11.222:18885/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻3,http://36.136.11.222:18885/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育3,http://36.136.11.222:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
-广东民生3,http://36.136.11.222:18885/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视3,http://36.136.11.222:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 

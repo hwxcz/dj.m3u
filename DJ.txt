@@ -1,11 +1,13 @@
 直播接口,#group#
 广东代理,#genre#
-123,http://8.138.7.223/tv/gdzj.m3u8
+
 珠江,http://67.220.71.199:2347/livehttpplay?channel_id=20144
 
 珠江,http://8.138.7.223/tv/gdzj.m3u8
  
 珠江,https://fn.130519.xyz/gdzj/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+
+珠江,http://222.128.55.152:9080/live/gdzj.m3u8
 
 珠江,http://192.151.150.154/live/gdzj.m3u8 
 
@@ -39,13 +41,6 @@
 广东体育3,http://m.061899.xyz/mg/gdty
 广东影视3,http://m.061899.xyz/mg/gdys
 
-凤凰中文b,http://115.44.140.170:18180/TV00000000000000000008@HHZT
-凤凰资讯b,http://115.44.140.170:18180/TV00000000000000000009@HHZT
-凤凰香港b,http://115.44.140.170:18180/TV00000000000000000024@HHZT
-
-资讯台,https://gxgp.537224.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
-中文台,https://gxgp.537224.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
-香港台,https://gxgp.537224.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IAShttpsSessionId=OTT
 
 
 广东珠江6,http://221.229.212.86:14909
@@ -128,6 +123,22 @@
 凤凰香港 高清 ,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
+广东卫视,http://36.136.11.230:18885/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://36.136.11.230:18885/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生 ,http://36.136.11.230:18885/tsfile/live/1072_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻 ,http://36.136.11.230:18885/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育 ,http://36.136.11.230:18885/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视 ,http://36.136.11.230:18885/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
+大湾区卫视 ,http://36.136.11.230:18885/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通 ,http://36.136.11.230:18885/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿 ,http://36.136.11.230:18885/tsfile/live/1136_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲 ,http://36.136.11.230:18885/tsfile/live/1137_1.m3u8?key=txiptv&playlive=1&authid=0
+广东科教 ,http://36.136.11.230:18885/tsfile/live/1135_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典,http://36.136.11.230:18885/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
+凤凰资讯 高清 ,http://36.136.11.230:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰卫视 高清 ,http://36.136.11.230:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港 高清 ,http://36.136.11.230:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 

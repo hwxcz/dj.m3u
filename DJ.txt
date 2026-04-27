@@ -143,7 +143,7 @@
 
 
 
-组播,#genre#
+组播源,#genre#
 
 广东珠江,http://wmh.wmh.ink:6633/rtp/239.77.0.1:5146
 广东珠江,http://wmh.wmh.ink:6633/rtp/239.77.1.94:5146

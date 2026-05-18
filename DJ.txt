@@ -1164,6 +1164,9 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 广东,#genre#
 
+广东珠江1,http://218.13.138.139:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东新闻1,http://218.13.138.139:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+
 广东卫视,http://183.237.71.182:40000/hls/63/index.m3u8
 广东珠江,http://183.237.71.182:40000/hls/64/index.m3u8
 广东新闻,http://183.237.71.182:40000/hls/65/index.m3u8
@@ -1176,8 +1179,7 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 嘉佳卡通,http://183.237.71.182:40000/hls/72/index.m3u8
 
 
-广东珠江1,http://218.13.138.139:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻1,http://218.13.138.139:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 

@@ -1113,6 +1113,16 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
 
 
+
+卫视001,http://go.bkpcp.top/mg/gdws
+珠江002,http://go.bkpcp.top/mg/gdzj
+新闻003,http://go.bkpcp.top/mg/gdxw
+民生004,http://go.bkpcp.top/mg/gdms
+体育005,http://go.bkpcp.top/mg/gdty
+影视006,http://go.bkpcp.top/mg/gdys
+湾区卫视,http://go.bkpcp.top/mg/dwqws
+
+
 珠江4,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub 
 
 珠江5,http://222.128.55.152:9080/live/gdzj.m3u8 
@@ -1166,11 +1176,9 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 嘉佳卡通,http://183.237.71.182:40000/hls/72/index.m3u8
 
 
-广东卫视2,http://218.13.138.139:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-广东珠江2,http://218.13.138.139:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻2,http://218.13.138.139:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育2,http://218.13.138.139:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-广东影视2,http://218.13.138.139:59901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+广东珠江1,http://218.13.138.139:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+广东新闻1,http://218.13.138.139:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 

@@ -631,6 +631,36 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 广东,#genre#
 
 
+广东珠江频道,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东珠江频道,http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+广东珠江频道,http://38.75.136.137:82/live2/gdtv.m3u8?id=gdzj&usign=jTY9ZRNI5oitf9eU5j2VgQ
+广东珠江频道,http://198.204.228.26/live/gdzja.m3u8
+广东珠江频道,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdzja&usign=jTY9ZRNI5oitf9eU5j2VgQ
+广东珠江频道,http://38.75.136.137:82/live1/jsb.m3u8?id=gdzj&ip=whus16&usign=jTY9ZRNI5oitf9eU5j2VgQ
+广东珠江频道,http://198.204.228.26/live/gdzj.m3u8
+广东珠江频道,http://38.75.136.137:82/live1/jsb.m3u8?id=gdzj&usign=jTY9ZRNI5oitf9eU5j2VgQ
+广东珠江频道,http://38.75.136.137:82/live1/jsb.m3u8?id=gdzja&usign=jTY9ZRNI5oitf9eU5j2VgQ
+广东珠江频道,http://38.75.136.137:82/live1/jsb1.m3u8?id=gdzj&usign=jTY9ZRNI5oitf9eU5j2VgQ
+广东珠江频道,http://107.150.60.122/live/gdzj.m3u8
+广东珠江频道,http://192.151.150.154/live/gdzja.m3u8
+广东珠江频道,http://74.91.26.218:82/live/gdzj.m3u8
+广东珠江频道,http://8.138.7.223/tv/gdzj.m3u8
+广东珠江频道,http://107.150.60.122/live/gdzja.m3u8
+广东珠江频道,http://61.145.242.11:9088/hls/23/index.m3u8
+广东珠江频道,http://192.151.150.154/live/gdzj.m3u8
+广东珠江频道,http://183.2.73.18:9901/tsfile/live/1000_1.m3u8?key=txiptv
+广东珠江频道,http://218.15.183.23:9901/tsfile/live/23009_1.m3u8
+广东珠江频道,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
+广东民生频道,https://api.jqcykj.com/gd/?id=48
+广东新闻频道,https://api.jqcykj.com/gd/?id=45
+大湾区卫视,https://vip.taoiptv.com/live/iptv.php?id=101290&sign=fa748b&token=vcz6qwmh0nq4bp5o
+大湾区卫视,http://www.ruoshui.uno:554/rtp/239.77.0.9:5146
+大湾区卫视,http://www.ruoshui.uno:554/rtp/239.77.0.215:5146
+大湾区卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
+大湾区卫视,http://k.061899.xyz/m.php?id=gddwq
+大湾区卫视,https://smart.dxjc.pp.ua/smart.php?id=nanfang_twn&token=tmxk
+
+
 
 广东卫视,http://183.237.71.182:40000/hls/63/index.m3u8
 广东珠江,http://183.237.71.182:40000/hls/64/index.m3u8

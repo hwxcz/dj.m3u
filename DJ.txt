@@ -59,6 +59,9 @@ TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 
 
 
+
+
+
 移动01央视,#genre#
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
@@ -243,8 +246,7 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 广东代理,#genre#
 
 
-广东珠江1,http://218.13.138.139:59901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻1,http://218.13.138.139:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 珠江,http://8.138.7.223/tv/gdzj.m3u8
@@ -252,13 +254,6 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 珠江,http://222.128.55.152:9080/live/gdzj.m3u8
 
 珠江,http://192.151.150.154/live/gdzj.m3u8 
-
-珠江,http://cdn2.163189.xyz/163189/gdzj
-
-珠江,https://php.jdshipin.com:2096/TVOD/iptv.php?id=gdzj
-
-
-
 
 
 
@@ -271,13 +266,11 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 
 
-珠江10,http://r.jdshipin.com/sE5vO
 
 
 
-凤凰资讯 高清,http://36.136.11.222:18885/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视 高清,http://36.136.11.222:18885/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰香港 高清,http://36.136.11.222:18885/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 
 
 广东珠江7,http://107.150.60.122/live/gdzj.m3u8
@@ -506,20 +499,6 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 
 
 
-珠江系列,#genre#
-
-广东卫视,http://14.152.102.71:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://14.152.102.71:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-广东新闻,http://14.152.102.71:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-广东公共,http://14.152.102.71:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://14.152.102.71:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-广东卫视,http://59.32.97.41:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://59.32.97.41:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://59.32.97.41:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广东影视,http://59.32.97.41:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-广东少儿,http://59.32.97.41:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -529,79 +508,12 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 凤凰资讯,http://183.234.238.18:8926/live1128.m3u8
 凤凰资讯,http://183.236.161.115:8960/live1171.m3u8
 
-凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
+
 翡翠台,http://112.92.129.96:9898/hls/91/index.m3u8
 TVB星河,http://112.92.129.96:9898/hls/122/index.m3u8
 凤凰中文,http://112.92.129.96:9898/hls/128/index.m3u8
 明珠台,http://112.92.129.96:9898/hls/110/index.m3u8
 澳视澳门,http://112.92.129.96:9898/hls/135/index.m3u8
-
-
-
-
-
-
-潮州移动,#genre#
-
-广东卫视,http://120.238.5.44:1698/hls/8/index.m3u8
-
-广东珠江,http://120.238.5.44:1698/hls/78/index.m3u8
-
-广东民生,http://120.238.5.44:1698/hls/9/index.m3u8
-
-广东新闻,http://120.238.5.44:1698/hls/10/index.m3u8
-
-广东体育,http://120.238.5.44:1698/hls/75/index.m3u8
-
-广东影视,http://120.238.5.44:1698/hls/12/index.m3u8
-
-大湾区卫视,http://120.238.5.44:1698/hls/11/index.m3u8
-
-广东少儿,http://120.238.5.44:1698/hls/13/index.m3u8
-
-CHC影迷电影,http://120.238.5.44:1698/hls/82/index.m3u8
-
-CHC家庭影院,http://120.238.5.44:1698/hls/69/index.m3u8
-
-CHC动作电影,http://120.238.5.44:1698/hls/70/index.m3u8
-
-凤凰香港HD,http://120.238.5.44:1698/hls/87/index.m3u8
-
-凤凰卫视HD,http://120.238.5.44:1698/hls/86/index.m3u8
-
-凤凰资讯HD,http://120.238.5.44:1698/hls/85/index.m3u8
-
-TVB翡翠HD,http://120.238.5.44:1698/hls/83/index.m3u8
-
-TVB明珠HD,http://120.238.5.44:1698/hls/84/index.m3u8
-
-TVB星河频道,http://120.238.5.44:1698/hls/88/index.m3u8
-
-天映经典,http://120.238.5.44:1698/hls/59/index.m3u8
-
-澳视澳门,http://120.238.5.44:1698/hls/76/index.m3u8
-
-
-
-
-
-
-
-
-极速港台,#genre#
-
-
-凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
-凤凰资讯,http://gd.wsd.gd.cn:1698/hls/95/index.m3u8
-翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-明珠台,http://gd.wsd.gd.cn:1698/hls/93/index.m3u8
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/66/index.m3u8
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/67/index.m3u8
-凤凰资讯,http://218.206.193.218:8888/hls/109/index.m3u8
-凤凰中文,http://218.206.193.218:8888/hls/110/index.m3u8
 
 
 

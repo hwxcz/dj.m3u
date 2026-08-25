@@ -10,6 +10,7 @@
 
 广东珠江,http://222.134.19.49:8090/639731952
 
+
 广东珠江,http://124.77.202.8:49155/639731952
 
 广东珠江,http://mg.cttv.vip/639731952
@@ -28,7 +29,8 @@
 广东珠江,http://116.147.111.62:7788/639731952
 广东珠江,http://121.29.157.193:7788/639731952
 广东珠江,http://nas.51pan.cn:8089/639731952
-
+广东珠江,http://219.140.5.55:1234/639731952
+广东珠江,http://223.83.177.142:1234/639731952 
 
 
 
@@ -37,6 +39,8 @@
 广东卫视,http://121.29.157.193:7788/608831231 
 广东卫视,http://nas.51pan.cn:8089/608831231 
 
+广东卫视,http://219.140.5.55:1234/608831231 
+广东卫视,http://223.83.177.142:1234/608831231 
 
 
 
@@ -47,31 +51,8 @@
 广东卫视,http://mg.cttv.vip/608831231
 
 
-咪咕广东,#genre#
-
-广东卫视,http://go.bkpcp.top/mg/gdws
-广东珠江,http://go.bkpcp.top/mg/gdzj
-广东新闻,http://go.bkpcp.top/mg/gdxw
-广东民生,http://go.bkpcp.top/mg/gdms
-广东体育,http://go.bkpcp.top/mg/gdty
-广东影视,http://go.bkpcp.top/mg/gdys
-大湾区卫视,http://go.bkpcp.top/mg/dwqws
 
 
-广东卫视3,http://m.061899.xyz/mg/gdws
-广东珠江3,http://m.061899.xyz/mg/gdzj
-广东新闻3,http://m.061899.xyz/mg/gdxw
-广东民生3,http://m.061899.xyz/mg/gdms
-广东体育3,http://m.061899.xyz/mg/gdty
-广东影视3,http://m.061899.xyz/mg/gdys
-
- 
-珠江3,http://222.128.55.152:9080/live/gdzj.m3u8
-
-广东珠江,http://8.138.7.223/tv/gdzj.m3u8
-大湾区卫视,http://8.138.7.223/tv/dwq.m3u8
-广东珠江,https://2.fast.hidns.vip/163189/gdzj 
-广东体育,https://2.fast.hidns.vip/163189/gdty
 
 
 移动01央视,#genre#
@@ -250,6 +231,40 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 山东教育,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
 金鹰纪实,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 金鹰卡通,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
+
+
+
+
+
+
+
+咪咕广东,#genre#
+
+广东卫视,http://go.bkpcp.top/mg/gdws
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东新闻,http://go.bkpcp.top/mg/gdxw
+广东民生,http://go.bkpcp.top/mg/gdms
+广东体育,http://go.bkpcp.top/mg/gdty
+广东影视,http://go.bkpcp.top/mg/gdys
+大湾区卫视,http://go.bkpcp.top/mg/dwqws
+
+
+广东卫视3,http://m.061899.xyz/mg/gdws
+广东珠江3,http://m.061899.xyz/mg/gdzj
+广东新闻3,http://m.061899.xyz/mg/gdxw
+广东民生3,http://m.061899.xyz/mg/gdms
+广东体育3,http://m.061899.xyz/mg/gdty
+广东影视3,http://m.061899.xyz/mg/gdys
+
+ 
+珠江3,http://222.128.55.152:9080/live/gdzj.m3u8
+
+广东珠江,http://8.138.7.223/tv/gdzj.m3u8
+大湾区卫视,http://8.138.7.223/tv/dwq.m3u8
+广东珠江,https://2.fast.hidns.vip/163189/gdzj 
+广东体育,https://2.fast.hidns.vip/163189/gdty
+
+
 
 
 

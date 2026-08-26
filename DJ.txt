@@ -51,10 +51,14 @@
 广东卫视,http://mg.cttv.vip/608831231
 
 
-凤凰中文,http://c.123.rr.kg/163189/fhzw 
-凤凰资讯,http://c.123.rr.kg/163189/fhzx 
-凤凰香港,http://c.123.rr.kg/163189/fhhk 
-翡翠台,http://c.123.rr.kg/163189/fct 华丽翡翠台,http://c.123.rr.kg/163189/jade 
+凤凰中文,http://c.123.rr.kg/163189/fhzw
+凤凰资讯,http://c.123.rr.kg/163189/fhzx
+凤凰香港,http://c.123.rr.kg/163189/fhhk
+
+翡翠台,http://c.123.rr.kg/163189/fct
+
+华丽翡翠台,http://c.123.rr.kg/163189/jade
+
 无线新闻台,http://c.123.rr.kg/163189/wxxw
 
 

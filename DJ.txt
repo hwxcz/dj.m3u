@@ -136,7 +136,7 @@
 
 
 
-移动01央视,#genre#
+移动央视,#genre#
 
 CCTV1综合,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV2财经,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -171,7 +171,7 @@ CETV4中教4台,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 
 
-移动03央视,#genre#
+
 
 CCTV1综合,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV2财经,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
@@ -207,7 +207,7 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 
 
-移动01卫视,#genre#
+移动卫视,#genre#
 
 广东卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
 深圳卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
@@ -261,7 +261,7 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 
 
-移动03卫视,#genre#
+
 
 广东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8

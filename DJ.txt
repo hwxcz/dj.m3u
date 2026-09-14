@@ -2,9 +2,9 @@
 
 咪咕珠江,#genre#
 
-
-广东珠江,http://2280.eu.org:1234/639731952
 广东珠江,http://154.8.225.238:9991/migu/migu.php?id=639731952
+广东珠江,http://2280.eu.org:1234/639731952
+
 
 
 
@@ -202,6 +202,18 @@
 南方购物,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=42
 岭南戏曲,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=15
 广东移动,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=74 
+
+
+
+广东珠江,http://nn.7x9d.cn/xz/cd.php?id=1183
+广东民生,http://nn.7x9d.cn/xz/cd.php?id=1185
+广东新闻,http://nn.7x9d.cn/xz/cd.php?id=1186
+广东体育,http://nn.7x9d.cn/xz/cd.php?id=1184
+大湾区卫视,http://nn.7x9d.cn/xz/cd.php?id=1191
+嘉佳卡通,http://nn.7x9d.cn/xz/cd.php?id=1187
+
+
+
 
 
 

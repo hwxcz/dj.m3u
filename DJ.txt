@@ -205,12 +205,26 @@
 
 
 
+广东卫视,http://nn.7x9d.cn/xz/广东荔枝网.php?id=43
+广东珠江,http://nn.7x9d.cn/xz/广东荔枝网.php?id=44
+广东新闻,http://nn.7x9d.cn/xz/广东荔枝网.php?id=45
+广东民生,http://nn.7x9d.cn/xz/广东荔枝网.php?id=48
+广东影视,http://nn.7x9d.cn/xz/广东荔枝网.php?id=53
+广东体育,http://nn.7x9d.cn/xz/广东荔枝网.php?id=47
+大湾区卫视,http://nn.7x9d.cn/xz/广东荔枝网.php?id=51
+嘉佳卡通,http://nn.7x9d.cn/xz/广东荔枝网.php?id=66
+广东少儿,http://nn.7x9d.cn/xz/广东荔枝网.php?id=54
+
+
+
 广东珠江,http://nn.7x9d.cn/xz/cd.php?id=1183
 广东民生,http://nn.7x9d.cn/xz/cd.php?id=1185
 广东新闻,http://nn.7x9d.cn/xz/cd.php?id=1186
 广东体育,http://nn.7x9d.cn/xz/cd.php?id=1184
 大湾区卫视,http://nn.7x9d.cn/xz/cd.php?id=1191
 嘉佳卡通,http://nn.7x9d.cn/xz/cd.php?id=1187
+
+
 
 
 

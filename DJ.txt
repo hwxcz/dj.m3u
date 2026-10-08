@@ -12,6 +12,7 @@
 
 
 
+
 广东珠江,http://103.236.53.203:3000/639731952
 广东珠江,http://106.52.119.159:1234/639731952
 广东珠江,http://103.236.87.67:3000/639731952
@@ -187,8 +188,26 @@
 
 
 
-
 广东荔枝,#genre#
+
+
+
+
+广东卫视,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=43
+广东珠江,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=44
+广东新闻,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=45
+广东民生,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=48
+广东体育,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=47
+大湾区卫视,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=51
+大湾区卫视(海外版),http://xiang.bbroot.com/xiang/daili/guangdong.php?id=46
+广东影视,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=53
+4K超高清,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=16
+广东少儿,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=54
+嘉佳卡通,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=66
+南方购物,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=42
+岭南戏曲,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=15
+广东移动,http://xiang.bbroot.com/xiang/daili/guangdong.php?id=74
+
 
 广东卫视,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=43
 广东珠江,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=44
@@ -226,20 +245,6 @@
 大湾区卫视,http://nn.7x9d.cn/xz/cd.php?id=1191
 嘉佳卡通,http://nn.7x9d.cn/xz/cd.php?id=1187
 
-
-
-
-
-广东组播,#genre#
-
-广东珠江,http://14.117.226.5:4022/rtp/239.77.0.1:5146
-广东新闻,http://14.117.226.5:4022/rtp/239.77.0.173:5146
-广东民生,http://14.117.226.5:4022/rtp/239.77.0.225:5146
-广东体育,http://14.117.226.5:4022/rtp/239.77.0.112:5146
-广东影视,http://14.117.226.5:4022/rtp/239.77.0.217:5146
-大湾区卫视,http://14.117.226.5:4022/rtp/239.77.1.12:5146
-广东卫视,http://14.117.226.5:4022/rtp/239.77.0.84:5146
-广东少儿,http://14.117.226.5:4022/rtp/239.77.0.250:5146
 
 
 
@@ -424,28 +429,6 @@ CETV4中教4台,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 金鹰纪实,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 金鹰卡通,http://rrs03.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
 
-
-
-
-
-
-
-广东荔枝,#genre#
-
-广东卫视,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=43
-广东珠江,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=44
-广东新闻,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=45
-大湾区卫视(海外版),http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=46
-广东体育,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=47
-广东民生,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=48
-大湾区卫视,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=51
-广东影视,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=53
-4K超高清,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=16
-广东少儿,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=54
-嘉佳卡通,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=66
-南方购物,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=42
-岭南戏曲,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=15
-广东移动,http://jiekou.dpdns.org/xiang/小凯QQ660519941/guangdong.php?id=74
 
 
 
